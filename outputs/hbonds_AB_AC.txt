@@ -1,0 +1,11 @@
+Finding intermodel H-bonds
+Finding intramodel H-bonds
+Constraints relaxed by 0.4 angstroms and 20 degrees
+Models used:
+	1 1cwp
+
+3 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+/A ARG 82 NH1  /C GLU 140 OE1  /A ARG 82 HH12  2.685  1.795
+/A VAL 133 N   /B TYR 190 OH   /A VAL 133 H    3.178  2.251
+/B ARG 82 NH1  /A GLU 140 OE1  /B ARG 82 HH12  2.674  1.897

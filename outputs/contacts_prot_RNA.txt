@@ -1,0 +1,74 @@
+Allowed overlap: -0.4
+H-bond overlap reduction: 0.4
+Ignore contacts between atoms separated by 4 bonds or less
+Detect intra-residue contacts: False
+Detect intra-molecule contacts: False
+
+66 contacts
+    atom1           atom2      overlap  distance
+/C LYS 143 HZ2  /F A 201 H8     1.000    1.000
+/C LYS 143 NZ   /F A 201 H8     0.843    1.782
+/B LYS 143 NZ   /E A 201 H8     0.831    1.794
+/B LYS 143 HZ2  /E A 201 H8     0.787    1.213
+/C LYS 143 HZ2  /F A 201 C8     0.738    1.962
+/C GLU 140 CD   /F A 201 HO2'   0.723    2.157
+/C LYS 143 NZ   /F A 201 C8     0.647    2.678
+/B LYS 143 HZ2  /E A 201 C8     0.523    2.177
+/B LYS 143 NZ   /E A 201 C8     0.491    2.834
+/C GLU 140 OE2  /F A 201 HO2'   0.459    1.561
+/C GLU 140 OE2  /F A 201 C1'    0.414    2.706
+/C GLU 140 OE2  /F A 201 H1'    0.395    2.025
+/C GLU 140 CD   /F A 201 O2'    0.380    3.000
+/C LYS 143 HZ1  /F A 201 H1'    0.286    1.714
+/C LYS 143 HZ1  /F A 201 C1'    0.284    2.416
+/C LYS 143 NZ   /F A 201 H1'    0.237    2.388
+/B GLU 140 OE2  /E A 201 H1'    0.228    2.192
+/B LYS 143 HZ1  /E A 201 H8     0.191    1.809
+/C GLU 140 OE2  /F A 201 O2'    0.181    2.339
+/C LYS 143 NZ   /F A 201 C1'    0.170    3.155
+/C LYS 143 CE   /F A 201 H1'    0.160    2.540
+/C GLU 140 OE2  /F A 201 C2'    0.152    2.968
+/B LYS 143 CE   /E A 201 H8     0.086    2.614
+/C LYS 143 HZ1  /F A 201 H8     0.077    1.923
+/C LYS 143 HZ1  /F A 201 C8     0.076    2.624
+/C LYS 143 NZ   /F A 201 N9     0.045    3.220
+/B LYS 143 CE   /E A 201 C8     0.034    3.366
+/C TRP 47 CH2   /F A 201 N9     0.012    3.328
+/C TRP 47 CZ2   /F A 201 C4     -0.028    3.338
+/C TRP 47 NE1   /F A 201 C2     -0.034    3.359
+/C TRP 47 CZ2   /F A 201 N3     -0.048    3.388
+/C LYS 143 CE   /F A 201 C8     -0.050    3.450
+/C LYS 143 HZ1  /F A 201 C2'    -0.077    2.777
+/B GLU 140 OE2  /E A 201 C1'    -0.082    3.202
+/C GLU 140 OE2  /F A 201 O4'    -0.096    2.976
+/B GLU 140 CD   /E A 201 HO2'   -0.103    2.983
+/B LYS 143 HZ1  /E A 201 C8     -0.104    2.804
+/C LYS 143 CE   /F A 201 C1'    -0.116    3.516
+/C LYS 143 CE   /F A 201 H8     -0.144    2.844
+/A TRP 47 HB3   /D A 201 N6     -0.144    2.769
+/B GLU 140 OE2  /E A 201 HO2'   -0.157    2.177
+/C LYS 143 HZ1  /F A 201 N9     -0.169    2.809
+/C TRP 47 CH2   /F A 201 C8     -0.173    3.573
+/C TRP 47 CZ2   /F A 201 N9     -0.173    3.513
+/C TRP 47 CE2   /F A 201 N3     -0.188    3.438
+/C TRP 47 CZ2   /F A 201 O4'    -0.192    3.352
+/C TRP 47 CE2   /F A 201 C2     -0.211    3.521
+/C GLU 140 CD   /F A 201 H1'    -0.222    3.102
+/C LYS 143 HZ2  /F A 201 N9     -0.224    2.864
+/C TRP 47 CH2   /F A 201 C4     -0.230    3.540
+/C GLU 140 OE2  /F A 201 C4'    -0.251    3.371
+/C LYS 143 HZ1  /F A 201 HO2'   -0.264    2.264
+/B LYS 143 HE2  /E A 201 C8     -0.275    2.975
+/C TRP 47 CZ3   /F A 201 C8     -0.279    3.679
+/C TRP 47 HZ2   /F A 201 O4'    -0.294    2.754
+/C TRP 47 CZ3   /F A 201 N7     -0.307    3.647
+/C GLU 140 CD   /F A 201 C1'    -0.309    3.889
+/C TRP 47 CH2   /F A 201 C1'    -0.323    3.723
+/A THR 48 O     /D A 201 H61    -0.326    2.346
+/C LYS 143 HE3  /F A 201 H1'    -0.335    2.335
+/C TRP 47 CE2   /F A 201 C4     -0.348    3.568
+/C ARG 90 HH21  /F A 201 H5''   -0.349    2.349
+/C TRP 47 CD1   /F A 201 C2     -0.360    3.760
+/C TRP 47 CD1   /F A 201 N1     -0.366    3.706
+/C GLU 140 CD   /F A 201 C2'    -0.391    3.971
+/C LYS 143 CE   /F A 201 N9     -0.394    3.734
