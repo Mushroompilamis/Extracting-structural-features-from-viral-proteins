@@ -31,12 +31,10 @@ color weak yellow
 
 #prot-prot
 contacts /A,B,C restrict /A,B,C intraMol false select true name prot_prot log true saveFile contacts_prot_prot.txt; select up; name frozen prot_prot sel; # 189 interactions
-select prot_prot
 (coloring by Actions --> Color in menu  for displaying those residues. Green)
 
 #prot-RNA
 contacts /A,B,C restrict /D,E,F intraMol false select true name prot_RNA log true saveFile contacts_prot_RNA.txt; select up; name frozen prot_RNA sel; #66
-select prot_RNA
 (coloring by Actions --> Color in menu  for displaying those residues. Cyan)
 
 
