@@ -1,0 +1,89 @@
+# Loading the residue positions in A chain retrived from the R file
+name conserved /A:1,2,7,8,11,12,13,14,15,18,19,30,31,34,39,41,46,49,55,61,64,67,74,75,78,79,80,81,84,86,87,88,90,94,96,99,100,103,106,108,113,120,121,123,124,125,127,128,131,133,136,138,142,144,146,147,154,156,157,158,159,171,172,173,174,175,176,177,180,186,187
+name similar /A:6,10,22,29,32,33,37,38,42,45,52,53,65,70,71,72,77,82,91,92,93,95,97,98,101,105,109,110,119,130,132,137,140,143,149,150,160,164,169,170,182,183,189
+name weak /A:5,20,58,68,73,83,89,102,107,112,129,135,153,161,163,179,181
+
+# 1cwp Analysis - Interactions in ASU
+open 1cwp
+hide atoms
+cartoon
+delete solvent
+addh
+color bychain
+
+# Coloring the conserved residues (chain A)
+color conserved red
+color similar orange
+color weak yellow
+
+
+#Interactions commands prot-prot & prot_RNA
+# Methodology: Contacts were identified by using the default VDW-overlap criterion
+# (allowed overlap = -0.4 Å), rather than a strict distance-only cutoff.
+# This setting detects physically close atom pairs according to their van der Waals
+# radii and, in the exported files, produced contact distances up to approximately
+# 4.0 Å. Therefore, an approximate value of 4.5 Å was chosen as a concise description of 
+# the practical contact-distance range produced by the van der Waals overlap criterion, 
+# since this value also falls within a commonly accepted range for non-covalent atomic contacts.
+
+#prot-prot
+contacts /A,B,C restrict /A,B,C intraMol false log true saveFile contacts_prot_prot.txt # 189 interactions
+name prot_prot (/A & (/B|/C :< 4)) | (/B & (/A|/C :< 4)) | (/C & (/A|/B :< 4)) #coloring check
+select prot_prot
+(coloring by Actions --> Color in menu  for displaying those residues)
+
+#prot-RNA
+contacts /A,B,C restrict /D,E,F intraMol false log true saveFile contacts_prot_RNA.txt #66
+name prot_RNA (/A|/B|/C) & ((/D|/E|/F) :< 4)
+select prot_RNA
+(coloring by Actions --> Color in menu  for displaying those residues)
+
+
+#H-bonds prot-prot & prot_RNA
+hbonds /A restrict /B,C reveal true log true saveFile hbonds_AB_AC.txt
+hbonds /B restrict /C reveal true log true saveFile hbonds_BC.txt
+hbonds prot_ASU restrict RNA_ASU reveal true log true saveFile hbonds_prot_RNA.txt
+
+# Overlapping
+
+
+
+##############################################
+# Superposition commands - Structural Similarity Task
+# File loading
+open 1cwp
+open 8c38
+open 1za7
+open 8cpy
+open 6voc
+open 1yc6
+open 3j7l
+open 1js9
+open 1f15
+# Visual settings
+hide atoms
+cartoon
+color bymodel #no needed
+#Superposition according to the correct chain representation of each protein (chain B studied for DALI)
+matchmaker #2/D to #1/B
+matchmaker #3/B to #1/B
+matchmaker #4/D to #1/B
+matchmaker #5/B to #1/B
+matchmaker #6/B to #1/B
+matchmaker #7/B to #1/B
+matchmaker #8/B to #1/B
+matchmaker #9/B to #1/B
+hide #6/1,2,3,4,A,E,C,D,G,H,I,J,K,L,M,N,O,Q,R,S,T,U,V,W,X,Y,Z cartoons
+# Taking only the ASU not additional chains of the capsid form
+
+
+
+
+
+
+
+
+
+
+
+
