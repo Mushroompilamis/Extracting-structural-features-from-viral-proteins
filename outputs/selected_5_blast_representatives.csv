@@ -1,0 +1,6 @@
+description,scientific_name,e_value,q_cover,per_ident,total_score,acc_len,identity_category
+"Chain A, Coat protein [Cowpea chlorotic mottle virus]",Cowpea chlorotic mottle virus,3.9999999999999995e-135,100,100,386,190,very_close
+coat protein [Bromoviridae sp.],Bromoviridae sp.,3.999999999999999e-98,100,77.37,293,201,close
+coat protein [Brome mosaic virus],Brome mosaic virus,2.0000000000000002e-75,100,69.47,235,189,medium
+coat protein [Spring beauty latent virus],Spring beauty latent virus,2.9999999999999997e-71,100,64.06,225,192,medium
+coat protein [Cassia yellow blotch virus],Cassia yellow blotch virus,1e-73,98,60.85,231,192,medium

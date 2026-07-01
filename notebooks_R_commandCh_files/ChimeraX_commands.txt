@@ -38,7 +38,7 @@ contacts /A,B,C restrict /D,E,F intraMol false select true name prot_RNA log tru
 (coloring by Actions --> Color in menu  for displaying those residues. Cyan)
 
 
-#H-bonds prot-prot & prot_RNA
+#H-bonds prot-prot & prot-RNA
 hbonds /A restrict /B,C reveal true log true saveFile hbonds_AB_AC.txt
 hbonds /B restrict /C reveal true log true saveFile hbonds_BC.txt
 hbonds prot_ASU restrict RNA_ASU reveal true log true saveFile hbonds_prot_RNA.txt
