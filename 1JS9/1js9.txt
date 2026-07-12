@@ -1,0 +1,240 @@
+49 pairs of asymmetric units of 1js9 #1 contact at distance 5.0 A
+  Atoms  MTRIX  SMTRY   Unit cell  MTRIXref  Copies
+   511     5      0      0  0  0      0        18
+   392     1      0      0  0  0      0        16
+   382     4      0      0  0  0      0         4
+    79    15      3      0  0  0      1         1
+    76     1      6     -1 -1 -1     15         1
+    58    18      4      0  0  0      0         1
+    52     0      6     -1 -1 -1     19         1
+    50     5      6     -1 -1 -1     19         1
+    50     8      0     -1 -1  0     13         1
+    50    19      3      0  0  0      0         1
+    48    13      0      1  1  0      8         1
+    41     0      8      0  0 -1     18         1
+    38     9      0      0  0  0      0        18
+    37     2      1      0  0  0      0        18
+    36    19      3      0  0  0      5         1
+    32     7      0     -1 -1  0     12         1
+    32    12      0      1  1  0      7         1
+    26     1      6     -1 -1 -1     19         1
+    24     8      0     -1 -1  0     14         1
+    23    13      0      1  1  0      9         1
+    22    15      3      0  0  0      0         1
+    22    12      1      0  0  0      0        18
+    21    14      0      1  1  0      8         1
+    20     3      1      0  0  0      0        18
+    19     7      0     -1 -1  0     13         1
+    16     9      0     -1 -1  0     13         1
+    14    12      0      1  1  0      8         1
+    11     2      7     -1 -1 -1     15         1
+    11    13      1      0  0  0      0        18
+    10     6      0      0  0  0      0        18
+     7    19      3      0  0  0      1         1
+     6    13      0      1  1  0      7         1
+     6    15      5     -1 -1  0      2         1
+     6    10      3      0  0  0      1         1
+     5     0      6     -1 -1 -1     15         1
+     5     8      0     -1 -1  0     12         1
+     5    12      0      1  1  0      6         1
+     4     0      8      0  0 -1     17         1
+     4     1      6     -1 -1 -1     10         1
+     4    19      3      0  0  0      9         1
+     3     9      6     -1 -1 -1     19         1
+     3     6      0     -1 -1  0     12         1
+     2    17      4      0  0  0      0         1
+     2     3      0      0  0  0      0         8
+     2     2      0      0  0  0      0        12
+     1     2      7     -1 -1 -1     16         1
+     1     7      0     -1 -1  0     11         1
+     1    11      0      1  1  0      7         1
+     1    16      5     -1 -1  0      2         1
+
+hbonds sel restrict cross reveal true log true
+Finding intermodel H-bonds
+Finding intramodel H-bonds
+Constraints relaxed by 0.4 angstroms and 20 degrees
+Models used:
+	2.1 1js9 #1
+	2.2 1js9 #2
+	2.3 1js9 #3
+	2.4 1js9 #4
+	2.5 1js9 #5
+	2.6 1js9 #6
+	2.7 1js9 #7
+	2.8 1js9 #8
+	2.9 1js9 #9
+	4.1 1js9 #1 0 0 0 sym 0 ncs 5
+	4.2 1js9 #1 0 0 0 sym 0 ncs 1
+	4.3 1js9 #1 0 0 0 sym 0 ncs 4
+	4.4 1js9 #1 0 0 0 sym 3 ncs 15
+	4.5 1js9 #1 0 0 0 sym 0 ncs 15
+	4.6 1js9 #1 -1 -1 -1 sym 6 ncs 1
+	4.7 1js9 #1 0 0 0 sym 4 ncs 18
+	4.8 1js9 #1 0 0 0 sym 0 ncs 19
+	4.9 1js9 #1 -1 -1 -1 sym 6 ncs 0
+	4.10 1js9 #1 -1 -1 -1 sym 6 ncs 5
+	4.11 1js9 #1 0 0 0 sym 0 ncs 13
+	4.12 1js9 #1 -1 -1 0 sym 0 ncs 8
+	4.13 1js9 #1 0 0 0 sym 3 ncs 19
+	4.14 1js9 #1 0 0 0 sym 0 ncs 8
+	4.15 1js9 #1 1 1 0 sym 0 ncs 13
+	4.16 1js9 #1 0 0 0 sym 0 ncs 18
+	4.17 1js9 #1 0 0 -1 sym 8 ncs 0
+	4.18 1js9 #1 0 0 0 sym 0 ncs 9
+	4.19 1js9 #1 0 0 0 sym 1 ncs 2
+	4.20 1js9 #1 0 0 0 sym 0 ncs 12
+	4.21 1js9 #1 -1 -1 0 sym 0 ncs 7
+	4.22 1js9 #1 0 0 0 sym 0 ncs 7
+	4.23 1js9 #1 1 1 0 sym 0 ncs 12
+	4.24 1js9 #1 0 0 0 sym 0 ncs 14
+	4.25 1js9 #1 0 0 0 sym 1 ncs 12
+	4.26 1js9 #1 1 1 0 sym 0 ncs 14
+	4.27 1js9 #1 0 0 0 sym 1 ncs 3
+	4.28 1js9 #1 -1 -1 0 sym 0 ncs 9
+	4.29 1js9 #1 -1 -1 -1 sym 7 ncs 2
+	4.30 1js9 #1 0 0 0 sym 1 ncs 13
+	4.31 1js9 #1 0 0 0 sym 0 ncs 6
+	4.32 1js9 #1 0 0 0 sym 0 ncs 2
+	4.33 1js9 #1 -1 -1 0 sym 5 ncs 15
+	4.34 1js9 #1 0 0 0 sym 3 ncs 10
+	4.35 1js9 #1 0 0 0 sym 0 ncs 17
+	4.36 1js9 #1 0 0 0 sym 0 ncs 10
+	4.37 1js9 #1 -1 -1 -1 sym 6 ncs 9
+	4.38 1js9 #1 -1 -1 0 sym 0 ncs 6
+	4.39 1js9 #1 0 0 0 sym 4 ncs 17
+	4.40 1js9 #1 0 0 0 sym 0 ncs 3
+	4.41 1js9 #1 0 0 0 sym 0 ncs 16
+	4.42 1js9 #1 0 0 0 sym 0 ncs 11
+	4.43 1js9 #1 1 1 0 sym 0 ncs 11
+	4.44 1js9 #1 -1 -1 0 sym 5 ncs 16
+
+60 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+1js9 #1 #2.1/A SER 50 OG                      1js9 #1 0 0 0 sym 0 ncs 4 #4.3/B ASP 181 OD1  no hydrogen  2.199  N/A
+1js9 #1 #2.1/A ILE 51 N                       1js9 #1 0 0 0 sym 0 ncs 4 #4.3/B ASP 181 OD1  no hydrogen  2.839  N/A
+1js9 #1 #2.1/A GLN 120 NE2                    1js9 #1 0 0 0 sym 0 ncs 1 #4.2/A LYS 165 O    no hydrogen  3.604  N/A
+1js9 #1 #2.1/A LYS 130 NZ                     1js9 #1 0 0 0 sym 0 ncs 1 #4.2/A LYS 130 O    no hydrogen  3.166  N/A
+1js9 #1 #2.1/A GLU 131 N                      1js9 #1 0 0 0 sym 0 ncs 1 #4.2/A GLU 131 OE1  no hydrogen  3.043  N/A
+1js9 #1 #2.1/A HIS 170 NE2                    1js9 #1 0 0 0 sym 0 ncs 4 #4.3/A GLN 120 O    no hydrogen  2.791  N/A
+1js9 #1 #2.1/B GLN 28 N                       1js9 #1 0 0 0 sym 0 ncs 1 #4.2/C PRO 29 O     no hydrogen  2.989  N/A
+1js9 #1 #2.1/B GLN 28 NE2                     1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C ARG 26 O     no hydrogen  3.531  N/A
+1js9 #1 #2.1/B VAL 30 N                       1js9 #1 0 0 0 sym 0 ncs 1 #4.2/C ILE 31 O     no hydrogen  3.103  N/A
+1js9 #1 #2.1/B GLU 33 N                       1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C VAL 30 O     no hydrogen  2.785  N/A
+1js9 #1 #2.1/B LYS 41 N                       1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C GLU 33 OE2   no hydrogen  2.888  N/A
+1js9 #1 #2.1/B LYS 105 NZ                     1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C PRO 98 O     no hydrogen  2.931  N/A
+1js9 #1 #2.1/B MET 136 N                      1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C ALA 37 O     no hydrogen  2.761  N/A
+1js9 #1 #2.1/B THR 138 OG1                    1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C GLY 38 O     no hydrogen  3.325  N/A
+1js9 #1 #2.1/C GLN 28 N                       1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B PRO 29 O     no hydrogen  2.928  N/A
+1js9 #1 #2.1/C VAL 30 N                       1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B ILE 31 O     no hydrogen  3.002  N/A
+1js9 #1 #2.1/C ILE 31 N                       1js9 #1 0 0 0 sym 0 ncs 4 #4.3/B GLN 28 O     no hydrogen  2.977  N/A
+1js9 #1 #2.1/C GLU 33 N                       1js9 #1 0 0 0 sym 0 ncs 4 #4.3/B VAL 30 O     no hydrogen  2.928  N/A
+1js9 #1 #2.1/C ALA 37 N                       1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B ALA 134 O    no hydrogen  3.220  N/A
+1js9 #1 #2.1/C SER 50 OG                      1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C ASP 181 O    no hydrogen  3.421  N/A
+1js9 #1 #2.1/C SER 50 OG                      1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C ASP 181 OD1  no hydrogen  3.178  N/A
+1js9 #1 #2.1/C ILE 51 N                       1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C ASP 181 O    no hydrogen  2.950  N/A
+1js9 #1 #2.1/C LYS 53 NZ                      1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C PHE 183 O    no hydrogen  3.457  N/A
+1js9 #1 #2.1/C SER 99 OG                      1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B LYS 64 O     no hydrogen  3.438  N/A
+1js9 #1 #2.1/C GLN 120 NE2                    1js9 #1 0 0 0 sym 0 ncs 4 #4.3/B LYS 165 O    no hydrogen  3.304  N/A
+1js9 #1 #2.1/C MET 136 N                      1js9 #1 0 0 0 sym 0 ncs 4 #4.3/B ALA 37 O     no hydrogen  2.790  N/A
+1js9 #1 #2.1/C PHE 184 N                      1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C ILE 43 O     no hydrogen  2.833  N/A
+1js9 #1 #2.1/C THR 185 OG1                    1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C GLU 172 OE1  no hydrogen  2.996  N/A
+1js9 #1 #2.1/C VAL 187 N                      1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C LYS 41 O     no hydrogen  3.237  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B GLN 28 NE2   1js9 #1 #2.1/C ARG 26 O                       no hydrogen  3.531  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B GLU 33 N     1js9 #1 #2.1/C VAL 30 O                       no hydrogen  2.785  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B LYS 41 N     1js9 #1 #2.1/C GLU 33 OE2                     no hydrogen  2.888  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B LYS 105 NZ   1js9 #1 #2.1/C PRO 98 O                       no hydrogen  2.931  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B MET 136 N    1js9 #1 #2.1/C ALA 37 O                       no hydrogen  2.761  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/B THR 138 OG1  1js9 #1 #2.1/C GLY 38 O                       no hydrogen  3.325  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C GLN 28 N     1js9 #1 #2.1/B PRO 29 O                       no hydrogen  2.928  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C VAL 30 N     1js9 #1 #2.1/B ILE 31 O                       no hydrogen  3.002  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C ALA 37 N     1js9 #1 #2.1/B ALA 134 O                      no hydrogen  3.220  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C SER 50 OG    1js9 #1 #2.1/C ASP 181 O                      no hydrogen  3.421  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C SER 50 OG    1js9 #1 #2.1/C ASP 181 OD1                    no hydrogen  3.178  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C ILE 51 N     1js9 #1 #2.1/C ASP 181 O                      no hydrogen  2.950  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C LYS 53 NZ    1js9 #1 #2.1/C PHE 183 O                      no hydrogen  3.457  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C SER 99 OG    1js9 #1 #2.1/B LYS 64 O                       no hydrogen  3.438  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C PHE 184 N    1js9 #1 #2.1/C ILE 43 O                       no hydrogen  2.833  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C THR 185 OG1  1js9 #1 #2.1/C GLU 172 OE1                    no hydrogen  2.996  N/A
+1js9 #1 0 0 0 sym 0 ncs 5 #4.1/C VAL 187 N    1js9 #1 #2.1/C LYS 41 O                       no hydrogen  3.237  N/A
+1js9 #1 0 0 0 sym 0 ncs 1 #4.2/A SER 50 OG    1js9 #1 #2.1/B ASP 181 OD1                    no hydrogen  2.199  N/A
+1js9 #1 0 0 0 sym 0 ncs 1 #4.2/A ILE 51 N     1js9 #1 #2.1/B ASP 181 OD1                    no hydrogen  2.839  N/A
+1js9 #1 0 0 0 sym 0 ncs 1 #4.2/A HIS 170 NE2  1js9 #1 #2.1/A GLN 120 O                      no hydrogen  2.791  N/A
+1js9 #1 0 0 0 sym 0 ncs 1 #4.2/C ILE 31 N     1js9 #1 #2.1/B GLN 28 O                       no hydrogen  2.977  N/A
+1js9 #1 0 0 0 sym 0 ncs 1 #4.2/C GLU 33 N     1js9 #1 #2.1/B VAL 30 O                       no hydrogen  2.928  N/A
+1js9 #1 0 0 0 sym 0 ncs 1 #4.2/C GLN 120 NE2  1js9 #1 #2.1/B LYS 165 O                      no hydrogen  3.304  N/A
+1js9 #1 0 0 0 sym 0 ncs 1 #4.2/C MET 136 N    1js9 #1 #2.1/B ALA 37 O                       no hydrogen  2.790  N/A
+1js9 #1 0 0 0 sym 0 ncs 4 #4.3/A GLN 120 NE2  1js9 #1 #2.1/A LYS 165 O                      no hydrogen  3.604  N/A
+1js9 #1 0 0 0 sym 0 ncs 4 #4.3/A LYS 130 NZ   1js9 #1 #2.1/A LYS 130 O                      no hydrogen  3.166  N/A
+1js9 #1 0 0 0 sym 0 ncs 4 #4.3/A GLU 131 N    1js9 #1 #2.1/A GLU 131 OE1                    no hydrogen  3.043  N/A
+1js9 #1 0 0 0 sym 0 ncs 4 #4.3/B GLN 28 N     1js9 #1 #2.1/C PRO 29 O                       no hydrogen  2.989  N/A
+1js9 #1 0 0 0 sym 0 ncs 4 #4.3/B VAL 30 N     1js9 #1 #2.1/C ILE 31 O                       no hydrogen  3.103  N/A
+1js9 #1 0 0 0 sym 3 ncs 15 #4.4/A LYS 165 NZ  1js9 #1 #2.1/B GLU 160 OE1                    no hydrogen  1.917  N/A
+1js9 #1 0 0 0 sym 4 ncs 18 #4.7/C LYS 64 NZ   1js9 #1 #2.1/A ASN 67 OD1                     no hydrogen  2.601  N/A
+
+60 hydrogen bonds found
+
+hbonds sel saltOnly true restrict cross reveal true log true
+Finding intermodel H-bonds
+Finding intramodel H-bonds
+Constraints relaxed by 0.4 angstroms and 20 degrees
+Models used:
+	2.1 1js9 #1
+	2.2 1js9 #2
+	2.3 1js9 #3
+	2.4 1js9 #4
+	2.5 1js9 #5
+	2.6 1js9 #6
+	2.7 1js9 #7
+	2.8 1js9 #8
+	2.9 1js9 #9
+	4.1 1js9 #1 0 0 0 sym 0 ncs 5
+	4.2 1js9 #1 0 0 0 sym 0 ncs 1
+	4.3 1js9 #1 0 0 0 sym 0 ncs 4
+	4.4 1js9 #1 0 0 0 sym 3 ncs 15
+	4.5 1js9 #1 0 0 0 sym 0 ncs 15
+	4.6 1js9 #1 -1 -1 -1 sym 6 ncs 1
+	4.7 1js9 #1 0 0 0 sym 4 ncs 18
+	4.8 1js9 #1 0 0 0 sym 0 ncs 19
+	4.9 1js9 #1 -1 -1 -1 sym 6 ncs 0
+	4.10 1js9 #1 -1 -1 -1 sym 6 ncs 5
+	4.11 1js9 #1 0 0 0 sym 0 ncs 13
+	4.12 1js9 #1 -1 -1 0 sym 0 ncs 8
+	4.13 1js9 #1 0 0 0 sym 3 ncs 19
+	4.14 1js9 #1 0 0 0 sym 0 ncs 8
+	4.15 1js9 #1 1 1 0 sym 0 ncs 13
+	4.16 1js9 #1 0 0 0 sym 0 ncs 18
+	4.17 1js9 #1 0 0 -1 sym 8 ncs 0
+	4.18 1js9 #1 0 0 0 sym 0 ncs 9
+	4.19 1js9 #1 0 0 0 sym 1 ncs 2
+	4.20 1js9 #1 0 0 0 sym 0 ncs 12
+	4.21 1js9 #1 -1 -1 0 sym 0 ncs 7
+	4.22 1js9 #1 0 0 0 sym 0 ncs 7
+	4.23 1js9 #1 1 1 0 sym 0 ncs 12
+	4.24 1js9 #1 0 0 0 sym 0 ncs 14
+	4.25 1js9 #1 0 0 0 sym 1 ncs 12
+	4.26 1js9 #1 1 1 0 sym 0 ncs 14
+	4.27 1js9 #1 0 0 0 sym 1 ncs 3
+	4.28 1js9 #1 -1 -1 0 sym 0 ncs 9
+	4.29 1js9 #1 -1 -1 -1 sym 7 ncs 2
+	4.30 1js9 #1 0 0 0 sym 1 ncs 13
+	4.31 1js9 #1 0 0 0 sym 0 ncs 6
+	4.32 1js9 #1 0 0 0 sym 0 ncs 2
+	4.33 1js9 #1 -1 -1 0 sym 5 ncs 15
+	4.34 1js9 #1 0 0 0 sym 3 ncs 10
+	4.35 1js9 #1 0 0 0 sym 0 ncs 17
+	4.36 1js9 #1 0 0 0 sym 0 ncs 10
+	4.37 1js9 #1 -1 -1 -1 sym 6 ncs 9
+	4.38 1js9 #1 -1 -1 0 sym 0 ncs 6
+	4.39 1js9 #1 0 0 0 sym 4 ncs 17
+	4.40 1js9 #1 0 0 0 sym 0 ncs 3
+	4.41 1js9 #1 0 0 0 sym 0 ncs 16
+	4.42 1js9 #1 0 0 0 sym 0 ncs 11
+	4.43 1js9 #1 1 1 0 sym 0 ncs 11
+	4.44 1js9 #1 -1 -1 0 sym 5 ncs 16
+
+1 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+1js9 #1 0 0 0 sym 3 ncs 15 #4.4/A LYS 165 NZ  1js9 #1 #2.1/B GLU 160 OE1  no hydrogen  1.917  N/A
+
+1 hydrogen bonds found

@@ -1,0 +1,197 @@
+24 pairs of asymmetric units of 1bmv #1 contact at distance 5.0 A
+  Atoms  MTRIX  SMTRY   Unit cell  MTRIXref  Copies
+   359     4      0      0  0  0      0         6
+   337     1      0      0  0  0      0        24
+   180    16      0      0  0  0      0        23
+   167     9      0      0  0  0      0        23
+   154    17      0      0  0  0      0        23
+    50     4      2      0 -1  0      8         1
+    44     8      2      0  0  0      4         1
+    39    14      3      1 -1  0     15         1
+    38    15      3      1 -1 -1     14         1
+    21    29      1      0  1  0     29         1
+    18     5      2      0 -1  0     18         1
+    11     8      2      0  0  0      5         1
+     9    18      2      0  0  0      5         1
+     9    15      2      1  0  0      2         1
+     7    13      3      1 -1  0     19         1
+     7     2      3      1  0 -1     11         1
+     6    27      2      0 -1  0      8         1
+     5     5      2      0 -1  0      8         1
+     4     4      2      0 -1  0     18         1
+     4    11      3      1  0  0      2         1
+     3     2      2      1 -1  0     15         1
+     3    18      2      0  0  0      4         1
+     2     8      2      0  0  0     27         1
+     2    19      3      1 -1 -1     13         1
+
+
+hbonds sel restrict cross reveal true log true
+Finding intermodel H-bonds
+Finding intramodel H-bonds
+Constraints relaxed by 0.4 angstroms and 20 degrees
+Models used:
+	2.1 1bmv #1
+	2.2 1bmv #2
+	2.3 1bmv #3
+	2.4 1bmv #4
+	4.1 1bmv #1 0 0 0 sym 0 ncs 4
+	4.2 1bmv #1 0 0 0 sym 0 ncs 1
+	4.3 1bmv #1 0 0 0 sym 0 ncs 16
+	4.4 1bmv #1 0 0 0 sym 0 ncs 9
+	4.5 1bmv #1 0 0 0 sym 0 ncs 17
+	4.6 1bmv #1 0 0 0 sym 0 ncs 8
+	4.7 1bmv #1 0 -1 0 sym 2 ncs 4
+	4.8 1bmv #1 0 0 0 sym 2 ncs 8
+	4.9 1bmv #1 0 0 0 sym 0 ncs 15
+	4.10 1bmv #1 1 -1 0 sym 3 ncs 14
+	4.11 1bmv #1 0 0 0 sym 0 ncs 14
+	4.12 1bmv #1 1 -1 -1 sym 3 ncs 15
+	4.13 1bmv #1 0 0 0 sym 0 ncs 29
+	4.14 1bmv #1 0 1 0 sym 1 ncs 29
+	4.15 1bmv #1 0 0 0 sym 0 ncs 18
+	4.16 1bmv #1 0 -1 0 sym 2 ncs 5
+	4.17 1bmv #1 0 0 0 sym 0 ncs 5
+	4.18 1bmv #1 0 0 0 sym 2 ncs 18
+	4.19 1bmv #1 0 0 0 sym 0 ncs 2
+	4.20 1bmv #1 1 0 0 sym 2 ncs 15
+	4.21 1bmv #1 0 0 0 sym 0 ncs 19
+	4.22 1bmv #1 1 -1 0 sym 3 ncs 13
+	4.23 1bmv #1 0 0 0 sym 0 ncs 11
+	4.24 1bmv #1 1 0 -1 sym 3 ncs 2
+	4.25 1bmv #1 0 -1 0 sym 2 ncs 27
+	4.26 1bmv #1 1 0 0 sym 3 ncs 11
+	4.27 1bmv #1 1 -1 0 sym 2 ncs 2
+	4.28 1bmv #1 0 0 0 sym 0 ncs 27
+	4.29 1bmv #1 0 0 0 sym 0 ncs 13
+	4.30 1bmv #1 1 -1 -1 sym 3 ncs 19
+
+76 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+1bmv #1 #2.1/1 GLN 1004 NE2                     1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 GLU 1124 O     no hydrogen  3.233  N/A
+1bmv #1 #2.1/1 GLN 1005 N                       1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 GLU 1124 OE2   no hydrogen  3.081  N/A
+1bmv #1 #2.1/1 THR 1006 OG1                     1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 PRO 1122 O     no hydrogen  2.497  N/A
+1bmv #1 #2.1/1 TRP 1008 N                       1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 ALA 1106 O     no hydrogen  3.107  N/A
+1bmv #1 #2.1/1 LYS 1073 NZ                      1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 ARG 1108 O     no hydrogen  3.491  N/A
+1bmv #1 #2.1/1 SER 1077 OG                      1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 THR 1110 OG1   no hydrogen  3.352  N/A
+1bmv #1 #2.1/1 SER 1085 OG                      1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 SER 1085 O     no hydrogen  2.835  N/A
+1bmv #1 #2.1/1 GLN 1092 NE2                     1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 SER 1077 OG    no hydrogen  3.401  N/A
+1bmv #1 #2.1/1 PHE 1104 N                       1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 GLY 2180 O     no hydrogen  2.902  N/A
+1bmv #1 #2.1/1 THR 1110 OG1                     1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 SER 1077 OG    no hydrogen  3.352  N/A
+1bmv #1 #2.1/1 SER 1112 OG                      1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 SER 1116 OG    no hydrogen  2.538  N/A
+1bmv #1 #2.1/1 SER 1116 OG                      1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 THR 1110 O     no hydrogen  2.992  N/A
+1bmv #1 #2.1/1 SER 1116 OG                      1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 SER 1112 OG    no hydrogen  2.538  N/A
+1bmv #1 #2.1/1 ASN 1129 ND2                     1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 THR 2124 OG1   no hydrogen  2.809  N/A
+1bmv #1 #2.1/1 ASN 1141 ND2                     1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 ALA 2138 O     no hydrogen  2.626  N/A
+1bmv #1 #2.1/2 ARG 2058 NH2                     1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 ASN 1141 O     no hydrogen  3.367  N/A
+1bmv #1 #2.1/2 TYR 2059 OH                      1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 GLU 1133 OE2   no hydrogen  2.492  N/A
+1bmv #1 #2.1/2 TYR 2075 OH                      1bmv #1 0 0 0 sym 0 ncs 17 #4.5/2 TYR 2075 OH   no hydrogen  2.640  N/A
+1bmv #1 #2.1/2 ASN 2088 ND2                     1bmv #1 0 0 0 sym 0 ncs 4 #4.1/2 GLU 3139 OE2   no hydrogen  3.329  N/A
+1bmv #1 #2.1/2 ASN 2095 ND2                     1bmv #1 0 0 0 sym 0 ncs 9 #4.4/2 ASN 3055 O     no hydrogen  2.293  N/A
+1bmv #1 #2.1/2 HIS 2101 N                       1bmv #1 0 0 0 sym 0 ncs 4 #4.1/2 LEU 3010 O     no hydrogen  2.907  N/A
+1bmv #1 #2.1/2 ALA 2125 N                       1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 PRO 1128 O     no hydrogen  3.151  N/A
+1bmv #1 #2.1/2 SER 2127 OG                      1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 ALA 1140 O     no hydrogen  2.609  N/A
+1bmv #1 #2.1/2 SER 2127 OG                      1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 ASN 1141 O     no hydrogen  3.455  N/A
+1bmv #1 #2.1/2 SER 2151 OG                      1bmv #1 0 0 0 sym 0 ncs 9 #4.4/2 GLN 3165 O     no hydrogen  2.903  N/A
+1bmv #1 #2.1/2 SER 2182 N                       1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 GLU 1102 O     no hydrogen  2.927  N/A
+1bmv #1 #2.1/2 THR 3003 N                       1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 ALA 3122 O    no hydrogen  2.870  N/A
+1bmv #1 #2.1/2 THR 3003 OG1                     1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 THR 3124 OG1  no hydrogen  2.386  N/A
+1bmv #1 #2.1/2 SER 3019 OG                      1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 SER 3009 O    no hydrogen  3.269  N/A
+1bmv #1 #2.1/2 ASN 3055 ND2                     1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 ASN 3055 OD1  no hydrogen  3.226  N/A
+1bmv #1 #2.1/2 ARG 3057 NE                      1bmv #1 0 0 0 sym 0 ncs 17 #4.5/2 ALA 2098 O    no hydrogen  3.289  N/A
+1bmv #1 #2.1/2 ARG 3057 NH2                     1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 ARG 3064 O    no hydrogen  2.485  N/A
+1bmv #1 #2.1/2 LYS 3121 NZ                      1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 GLU 3002 OE1  no hydrogen  2.400  N/A
+1bmv #1 #2.1/2 LYS 3121 NZ                      1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 GLU 3002 OE2  no hydrogen  3.247  N/A
+1bmv #1 #2.1/2 ARG 3143 NH1                     1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 ASN 2088 OD1   no hydrogen  2.729  N/A
+1bmv #1 #2.1/2 MET 3161 N                       1bmv #1 0 0 0 sym 0 ncs 17 #4.5/2 SER 2154 O    no hydrogen  3.408  N/A
+1bmv #1 #2.1/2 GLN 3165 N                       1bmv #1 0 0 0 sym 0 ncs 17 #4.5/2 SER 2151 OG   no hydrogen  3.075  N/A
+1bmv #1 #2.1/2 THR 3167 OG1                     1bmv #1 0 0 0 sym 0 ncs 17 #4.5/2 HIS 2149 O    no hydrogen  2.824  N/A
+1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 GLN 1092 NE2   1bmv #1 #2.1/1 SER 1077 OG                      no hydrogen  3.401  N/A
+1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 PHE 1104 N     1bmv #1 #2.1/2 GLY 2180 O                       no hydrogen  2.902  N/A
+1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 THR 1110 OG1   1bmv #1 #2.1/1 SER 1077 OG                      no hydrogen  3.352  N/A
+1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 SER 1112 OG    1bmv #1 #2.1/1 SER 1116 OG                      no hydrogen  2.538  N/A
+1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 ASN 1129 ND2   1bmv #1 #2.1/2 THR 2124 OG1                     no hydrogen  2.809  N/A
+1bmv #1 0 0 0 sym 0 ncs 4 #4.1/1 ASN 1141 ND2   1bmv #1 #2.1/2 ALA 2138 O                       no hydrogen  2.626  N/A
+1bmv #1 0 0 0 sym 0 ncs 4 #4.1/2 ARG 3143 NH1   1bmv #1 #2.1/2 ASN 2088 OD1                     no hydrogen  2.729  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 GLN 1004 NE2   1bmv #1 #2.1/1 GLU 1124 O                       no hydrogen  3.233  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 GLN 1005 N     1bmv #1 #2.1/1 GLU 1124 OE2                     no hydrogen  3.081  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 THR 1006 OG1   1bmv #1 #2.1/1 PRO 1122 O                       no hydrogen  2.497  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 TRP 1008 N     1bmv #1 #2.1/1 ALA 1106 O                       no hydrogen  3.107  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 LYS 1073 NZ    1bmv #1 #2.1/1 ARG 1108 O                       no hydrogen  3.491  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 SER 1077 OG    1bmv #1 #2.1/1 THR 1110 OG1                     no hydrogen  3.352  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 SER 1085 OG    1bmv #1 #2.1/1 SER 1085 O                       no hydrogen  2.835  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 SER 1116 OG    1bmv #1 #2.1/1 THR 1110 O                       no hydrogen  2.992  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/1 SER 1116 OG    1bmv #1 #2.1/1 SER 1112 OG                      no hydrogen  2.538  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 ARG 2058 NH2   1bmv #1 #2.1/1 ASN 1141 O                       no hydrogen  3.367  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 TYR 2059 OH    1bmv #1 #2.1/1 GLU 1133 OE2                     no hydrogen  2.492  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 ASN 2088 ND2   1bmv #1 #2.1/2 GLU 3139 OE2                     no hydrogen  3.329  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 HIS 2101 N     1bmv #1 #2.1/2 LEU 3010 O                       no hydrogen  2.907  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 ALA 2125 N     1bmv #1 #2.1/1 PRO 1128 O                       no hydrogen  3.152  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 SER 2127 OG    1bmv #1 #2.1/1 ALA 1140 O                       no hydrogen  2.609  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 SER 2127 OG    1bmv #1 #2.1/1 ASN 1141 O                       no hydrogen  3.455  N/A
+1bmv #1 0 0 0 sym 0 ncs 1 #4.2/2 SER 2182 N     1bmv #1 #2.1/1 GLU 1102 O                       no hydrogen  2.927  N/A
+1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 THR 3003 N    1bmv #1 #2.1/2 ALA 3122 O                       no hydrogen  2.870  N/A
+1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 THR 3003 OG1  1bmv #1 #2.1/2 THR 3124 OG1                     no hydrogen  2.386  N/A
+1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 SER 3019 OG   1bmv #1 #2.1/2 SER 3009 O                       no hydrogen  3.269  N/A
+1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 ASN 3055 ND2  1bmv #1 #2.1/2 ASN 3055 OD1                     no hydrogen  3.226  N/A
+1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 ARG 3057 NH2  1bmv #1 #2.1/2 ARG 3064 O                       no hydrogen  2.485  N/A
+1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 LYS 3121 NZ   1bmv #1 #2.1/2 GLU 3002 OE1                     no hydrogen  2.400  N/A
+1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 LYS 3121 NZ   1bmv #1 #2.1/2 GLU 3002 OE2                     no hydrogen  3.247  N/A
+1bmv #1 0 0 0 sym 0 ncs 9 #4.4/2 TYR 2075 OH    1bmv #1 #2.1/2 TYR 2075 OH                      no hydrogen  2.640  N/A
+1bmv #1 0 0 0 sym 0 ncs 9 #4.4/2 ARG 3057 NE    1bmv #1 #2.1/2 ALA 2098 O                       no hydrogen  3.289  N/A
+1bmv #1 0 0 0 sym 0 ncs 9 #4.4/2 MET 3161 N     1bmv #1 #2.1/2 SER 2154 O                       no hydrogen  3.408  N/A
+1bmv #1 0 0 0 sym 0 ncs 9 #4.4/2 GLN 3165 N     1bmv #1 #2.1/2 SER 2151 OG                      no hydrogen  3.075  N/A
+1bmv #1 0 0 0 sym 0 ncs 9 #4.4/2 THR 3167 OG1   1bmv #1 #2.1/2 HIS 2149 O                       no hydrogen  2.824  N/A
+1bmv #1 0 0 0 sym 0 ncs 17 #4.5/2 ASN 2095 ND2  1bmv #1 #2.1/2 ASN 3055 O                       no hydrogen  2.293  N/A
+1bmv #1 0 0 0 sym 0 ncs 17 #4.5/2 SER 2151 OG   1bmv #1 #2.1/2 GLN 3165 O                       no hydrogen  2.903  N/A
+
+76 hydrogen bonds found
+
+hbonds sel saltOnly true restrict cross reveal true log true
+Finding intermodel H-bonds
+Finding intramodel H-bonds
+Constraints relaxed by 0.4 angstroms and 20 degrees
+Models used:
+	2.1 1bmv #1
+	2.2 1bmv #2
+	2.3 1bmv #3
+	2.4 1bmv #4
+	4.1 1bmv #1 0 0 0 sym 0 ncs 4
+	4.2 1bmv #1 0 0 0 sym 0 ncs 1
+	4.3 1bmv #1 0 0 0 sym 0 ncs 16
+	4.4 1bmv #1 0 0 0 sym 0 ncs 9
+	4.5 1bmv #1 0 0 0 sym 0 ncs 17
+	4.6 1bmv #1 0 0 0 sym 0 ncs 8
+	4.7 1bmv #1 0 -1 0 sym 2 ncs 4
+	4.8 1bmv #1 0 0 0 sym 2 ncs 8
+	4.9 1bmv #1 0 0 0 sym 0 ncs 15
+	4.10 1bmv #1 1 -1 0 sym 3 ncs 14
+	4.11 1bmv #1 0 0 0 sym 0 ncs 14
+	4.12 1bmv #1 1 -1 -1 sym 3 ncs 15
+	4.13 1bmv #1 0 0 0 sym 0 ncs 29
+	4.14 1bmv #1 0 1 0 sym 1 ncs 29
+	4.15 1bmv #1 0 0 0 sym 0 ncs 18
+	4.16 1bmv #1 0 -1 0 sym 2 ncs 5
+	4.17 1bmv #1 0 0 0 sym 0 ncs 5
+	4.18 1bmv #1 0 0 0 sym 2 ncs 18
+	4.19 1bmv #1 0 0 0 sym 0 ncs 2
+	4.20 1bmv #1 1 0 0 sym 2 ncs 15
+	4.21 1bmv #1 0 0 0 sym 0 ncs 19
+	4.22 1bmv #1 1 -1 0 sym 3 ncs 13
+	4.23 1bmv #1 0 0 0 sym 0 ncs 11
+	4.24 1bmv #1 1 0 -1 sym 3 ncs 2
+	4.25 1bmv #1 0 -1 0 sym 2 ncs 27
+	4.26 1bmv #1 1 0 0 sym 3 ncs 11
+	4.27 1bmv #1 1 -1 0 sym 2 ncs 2
+	4.28 1bmv #1 0 0 0 sym 0 ncs 27
+	4.29 1bmv #1 0 0 0 sym 0 ncs 13
+	4.30 1bmv #1 1 -1 -1 sym 3 ncs 19
+
+4 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+1bmv #1 #2.1/2 LYS 3121 NZ                     1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 GLU 3002 OE1  no hydrogen  2.400  N/A
+1bmv #1 #2.1/2 LYS 3121 NZ                     1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 GLU 3002 OE2  no hydrogen  3.247  N/A
+1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 LYS 3121 NZ  1bmv #1 #2.1/2 GLU 3002 OE1                     no hydrogen  2.400  N/A
+1bmv #1 0 0 0 sym 0 ncs 16 #4.3/2 LYS 3121 NZ  1bmv #1 #2.1/2 GLU 3002 OE2                     no hydrogen  3.247  N/A
+
+4 hydrogen bonds found

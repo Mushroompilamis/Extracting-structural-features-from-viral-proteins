@@ -1,0 +1,1881 @@
+69 pairs of asymmetric units of 1za7 #1 contact at distance 5.0 A
+  Atoms  MTRIX  SMTRY   Unit cell  MTRIXref  Copies
+   475     5      0      0  0  0      0        30
+   394     4      0      0  0  0      0        12
+   390     1      0      0  0  0      0        48
+    74    30      2      0 -1  0     50         1
+    74    50      2      0  0  0     30         1
+    64    20      2      1  0  0     40         1
+    63    40      2      1 -1  0     20         1
+    53    25      2      1  0  0     45         1
+    49    45      2      1 -1  0     25         1
+    32     9      1      0  0 -1     27         1
+    30     1      3     -1  0  1      6         1
+    28     4      1      0  1 -1     37         1
+    27     6      3      0  0  1      1         1
+    25    13      3     -1  0  0     19         1
+    25    27      1      0  0  0      9         1
+    24    55      2      0  0  0     35         1
+    22    35      2      0 -1  0     55         1
+    22     6      3      0  0  1     22         1
+    22    14      3     -1  0  0     18         1
+    22     2      3     -1  0  1      7         1
+    21    19      3      0  0  0     13         1
+    20    22      3     -1  0  1      6         1
+    20    22      0      0  0  0      0        30
+    20     6      0      0  0  0      0        30
+    18    18      3      0  0  0     14         1
+    18     7      3      0  0  1      2         1
+    18    33      0      0  0  0      0        30
+    17     9      0      0  0  0      0        30
+    16    14      3     -1  0  0     38         1
+    16     9      1      0  0 -1     16         1
+    16    23      0      0  0  0      0        30
+    15    16      1      0  0  0      9         1
+    14    32      0      0  0  0      0        30
+    12    26      2      1  0  0     41         1
+    11    25      2      1  0  0     49         1
+    11    20      2      1  0  0     45         1
+    11    25      2      1  0  0     40         1
+    11    45      2      1 -1  0     29         1
+    11    40      2      1 -1  0     25         1
+    10    30      2      0 -1  0     59         1
+    10    59      2      0  0  0     30         1
+    10    41      2      1 -1  0     26         1
+    10    46      2      1 -1  0     21         1
+     9    51      2      0  0  0     31         1
+     9    45      2      1 -1  0     20         1
+     8    31      2      0 -1  0     51         1
+     8    21      2      1  0  0     46         1
+     7    29      2      1  0  0     45         1
+     7    50      2      0  0  0     35         1
+     7    55      2      0  0  0     30         1
+     7    49      2      1 -1  0     25         1
+     7    37      1      0  1  0      4         1
+     6    38      3      0  0  0     14         1
+     5    30      2      0 -1  0     55         1
+     5    29      2      1  0  0     49         1
+     5     6      3      0  0  1     41         1
+     5    49      2      1 -1  0     29         1
+     3    35      2      0 -1  0     50         1
+     3    14      3     -1  0  0     19         1
+     3    13      3     -1  0  0     18         1
+     3    53      1      0  0 -1     16         1
+     3    19      3      0  0  0     14         1
+     3    18      3      0  0  0     13         1
+     3    41      3     -1  0  1      6         1
+     2    16      1      0  0  0     53         1
+     1    16      1      0  0  0     54         1
+     1     3      2      1 -1  0     29         1
+     1    54      1      0  0 -1     16         1
+     1    29      2      1  0  0      3         1
+Residue contacts, 516 residues
+  residue1  ncs1  residue2  ncs2  sym2    cell2  distance
+  GLN 40 A    0  TYR 190 B    4     0    0  0  0   3
+  GLN 40 A    0   ILE 44 A    4     0    0  0  0   4.05
+  GLN 40 A    0   ARG 90 A    4     0    0  0  0   3.96
+  GLY 41 A    0  TYR 190 B    4     0    0  0  0   3.25
+  GLY 41 A    0   ILE 44 A    4     0    0  0  0   4.18
+  GLY 41 A    0  MET 137 A    4     0    0  0  0   3.92
+  GLY 41 A    0  PRO 139 A    4     0    0  0  0   3.3
+  ARG 42 A    0  PRO 188 B    4     0    0  0  0   3.64
+  ARG 42 A    0  TYR 190 B    4     0    0  0  0   3.64
+  ARG 42 A    0  PRO 139 A    4     0    0  0  0   4.75
+  ARG 42 A    0  VAL 189 B    4     0    0  0  0   4.86
+  ALA 43 A    0  PRO 188 B    4     0    0  0  0   4.07
+  ALA 43 A    0  PRO 139 A    4     0    0  0  0   4.62
+  ALA 43 A    0  PHE 186 B    4     0    0  0  0   3.17
+  ALA 43 A    0  SER 185 B    4     0    0  0  0   3.9
+  ALA 43 A    0  THR 187 B    4     0    0  0  0   4.82
+  ALA 43 A    0  GLU 140 A    4     0    0  0  0   4.06
+  ILE 44 A    0  PHE 186 B    4     0    0  0  0   2.95
+  ILE 44 A    0  SER 185 B    4     0    0  0  0   3.15
+  ILE 44 A    0  ASP 184 B    4     0    0  0  0   4.48
+  ILE 44 A    0   GLN 40 A    1     0    0  0  0   4.05
+  ILE 44 A    0   GLY 41 A    1     0    0  0  0   4.18
+  LYS 45 A    0  SER 185 B    4     0    0  0  0   3.87
+  LYS 45 A    0  ASP 184 B    4     0    0  0  0   3.44
+  ALA 46 A    0  SER 185 B    4     0    0  0  0   4.02
+  ALA 46 A    0  ASP 184 B    4     0    0  0  0   2.76
+  TYR 50 A    0  ASP 184 B    4     0    0  0  0   4.82
+  SER 51 A    0  ASP 183 B    4     0    0  0  0   3.69
+  SER 51 A    0  ASP 184 B    4     0    0  0  0   4.43
+  VAL 52 A    0  ASP 183 B    4     0    0  0  0   2.8
+  VAL 52 A    0  ASP 184 B    4     0    0  0  0   4.64
+  VAL 52 A    0  PHE 186 B    4     0    0  0  0   3.95
+  VAL 52 A    0  SER 185 B    4     0    0  0  0   3.96
+  LYS 54 A    0  THR 187 B    4     0    0  0  0   4.35
+  LYS 54 A    0  SER 185 B    4     0    0  0  0   2.95
+  LYS 54 A    0  ASP 183 B    4     0    0  0  0   4.02
+  LYS 54 A    0  PHE 186 B    4     0    0  0  0   4.35
+  LYS 54 A    0  PHE 182 B    4     0    0  0  0   3.48
+  ALA 61 A   30  SER 161 B   59     2    0  0  0   4.99
+  ALA 61 A   30  ALA 162 B   59     2    0  0  0   3.6
+  ALA 61 A   30  SER 102 B   59     2    0  0  0   4.8
+  ALA 61 A   51  ALA 162 C   31     2    0 -1  0   4.59
+  GLU 63 A   30  THR 104 B   59     2    0  0  0   4.89
+  GLU 63 A   26   GLU 63 C   41     2    1 -1  0   2.61
+  GLU 63 A   26   ALA 64 C   41     2    1 -1  0   4.67
+  GLU 63 A   26  ALA 163 C   41     2    1 -1  0   4.64
+  GLU 63 A   46  ALA 163 C   21     2    1  0  0   4.87
+  GLU 63 A   46   GLU 63 C   21     2    1  0  0   3.02
+  GLU 63 A    6   LYS 65 B   41     3   -1  0  1   3.06
+  GLU 63 A   29   GLU 63 C    3     2    1 -1  0   4.89
+  LYS 65 A    0  SER 100 A    1     0    0  0  0   4.69
+  LYS 65 A   13   GLU 63 B   18     3    0  0  0   4.47
+  THR 67 A    0   PRO 99 A    1     0    0  0  0   3.46
+  THR 67 A   13   GLU 63 B   18     3    0  0  0   5
+  THR 71 A   45   LYS 65 C   25     2    1  0  0   3.46
+  THR 71 A   45  SER 161 C   25     2    1  0  0   4.38
+  THR 71 A   45   ALA 64 C   25     2    1  0  0   4.55
+  THR 71 A   25   LYS 65 C   45     2    1 -1  0   3.54
+  THR 71 A   25   ALA 64 C   45     2    1 -1  0   4.14
+  THR 71 A   25  SER 161 C   45     2    1 -1  0   3.95
+  THR 71 A   30   ALA 64 C   55     2    0  0  0   3.75
+  GLU 77 A    0   GLU 77 B    4     0    0  0  0   3.35
+  LYS 84 A   45   GLU 63 C   25     2    1  0  0   3.79
+  LYS 84 A   25   GLU 63 C   45     2    1 -1  0   3.56
+  ARG 90 A    0  PHE 186 B    4     0    0  0  0   3.49
+  ARG 90 A    0   GLN 40 A    1     0    0  0  0   3.96
+  VAL 91 A    0  PHE 186 B    4     0    0  0  0   4.44
+  LEU 92 A    0  THR 187 B    4     0    0  0  0   4.14
+  LEU 92 A    0  VAL 189 B    4     0    0  0  0   4.34
+  LEU 92 A    0  PHE 186 B    4     0    0  0  0   3.68
+  TRP 94 A    0  ALA 123 A    4     0    0  0  0   3.41
+  TRP 94 A    0  THR 187 B    4     0    0  0  0   4.06
+  TRP 94 A    0  LEU 124 A    4     0    0  0  0   4.14
+  TRP 94 A    0  GLN 121 A    4     0    0  0  0   4.52
+  TRP 94 A    0  VAL 122 A    4     0    0  0  0   4.28
+  GLY 96 A    0  PHE 120 A    4     0    0  0  0   3.96
+  GLY 96 A    0  GLN 121 A    4     0    0  0  0   3.55
+  LEU 97 A    0  GLN 121 A    4     0    0  0  0   3.76
+  LEU 97 A    0  PHE 120 A    4     0    0  0  0   3.56
+  LEU 98 A    0  GLN 121 A    4     0    0  0  0   3.48
+  LEU 98 A    0  ALA 117 A    4     0    0  0  0   3.83
+  LEU 98 A    0  ALA 118 A    4     0    0  0  0   4.33
+  LEU 98 A    0  PHE 120 A    4     0    0  0  0   4.9
+  LEU 98 A    0  LYS 106 A    4     0    0  0  0   4.64
+  PRO 99 A    0  TYR 159 A    4     0    0  0  0   3.41
+  PRO 99 A    0  LYS 106 A    4     0    0  0  0   3.05
+  PRO 99 A    0  PHE 120 A    4     0    0  0  0   3.68
+  PRO 99 A    0  ALA 117 A    4     0    0  0  0   3.4
+  PRO 99 A    0   THR 67 A    4     0    0  0  0   3.46
+ SER 100 A    0   LYS 65 A    4     0    0  0  0   4.69
+ SER 100 A    0  TYR 159 A    4     0    0  0  0   3.4
+ SER 100 A   14   GLU 63 B   18     3    0  0  0   3.68
+ VAL 101 A    0  LYS 106 A    4     0    0  0  0   4.77
+ VAL 101 A    7   GLU 63 C    2     3   -1  0  1   4.06
+ LYS 106 A    0   PRO 99 A    1     0    0  0  0   3.05
+ LYS 106 A    0  VAL 101 A    1     0    0  0  0   4.77
+ LYS 106 A    0   LEU 98 A    1     0    0  0  0   4.64
+ GLN 113 A   45  SER 102 C   25     2    1  0  0   4.68
+ GLN 113 A   45   LYS 65 B   20     2    1  0  0   4.61
+ GLN 113 A   25  SER 102 C   45     2    1 -1  0   4.43
+ GLN 113 A   25   LYS 65 B   40     2    1 -1  0   4.07
+ THR 114 A   50   LYS 65 B   30     2    0 -1  0   3.49
+ THR 114 A   30   LYS 65 B   50     2    0  0  0   1.79
+ THR 114 A   30  SER 102 C   55     2    0  0  0   4.54
+ THR 114 A   45  SER 102 C   25     2    1  0  0   4.72
+ THR 114 A   45   LYS 65 B   20     2    1  0  0   1.33
+ THR 114 A   45  TYR 159 B   20     2    1  0  0   4.91
+ THR 114 A   45  SER 161 B   20     2    1  0  0   4.96
+ THR 114 A   25  SER 102 C   45     2    1 -1  0   4.59
+ THR 114 A   25   LYS 65 B   40     2    1 -1  0   1.17
+ THR 114 A   25  TYR 159 B   40     2    1 -1  0   4.37
+ THR 114 A   25  SER 161 B   40     2    1 -1  0   4.58
+ THR 115 A   45   LYS 65 B   20     2    1  0  0   4.55
+ THR 115 A   25   LYS 65 B   40     2    1 -1  0   4.13
+ ALA 117 A    0   PRO 99 A    1     0    0  0  0   3.4
+ ALA 117 A    0   LEU 98 A    1     0    0  0  0   3.83
+ ALA 117 A   13   GLU 63 B   18     3    0  0  0   3.67
+ ALA 118 A    0   LEU 98 A    1     0    0  0  0   4.33
+ PHE 120 A    0   PRO 99 A    1     0    0  0  0   3.68
+ PHE 120 A    0   LEU 98 A    1     0    0  0  0   4.9
+ PHE 120 A    0   LEU 97 A    1     0    0  0  0   3.56
+ PHE 120 A    0   GLY 96 A    1     0    0  0  0   3.96
+ GLN 121 A    0   LEU 98 A    1     0    0  0  0   3.48
+ GLN 121 A    0  GLY 167 A    1     0    0  0  0   2.89
+ GLN 121 A    0  ILE 170 A    1     0    0  0  0   3.73
+ GLN 121 A    0  ASP 168 A    1     0    0  0  0   2.94
+ GLN 121 A    0   LEU 97 A    1     0    0  0  0   3.76
+ GLN 121 A    0   GLY 96 A    1     0    0  0  0   3.55
+ GLN 121 A    0  VAL 169 A    1     0    0  0  0   3.81
+ GLN 121 A    0  HIS 172 A    1     0    0  0  0   2.77
+ GLN 121 A    0   TRP 94 A    1     0    0  0  0   4.52
+ VAL 122 A    0  HIS 172 A    1     0    0  0  0   4.22
+ VAL 122 A    0   TRP 94 A    1     0    0  0  0   4.28
+ ALA 123 A    0   TRP 94 A    1     0    0  0  0   3.41
+ LEU 124 A    0   TRP 94 A    1     0    0  0  0   4.14
+ ASN 129 A    0  LYS 131 A    4     0    0  0  0   3.3
+ SER 130 A    0  LYS 131 A    4     0    0  0  0   4.85
+ LYS 131 A    0  LYS 131 A    4     0    0  0  0   2.76
+ LYS 131 A    0  ASN 129 A    1     0    0  0  0   3.3
+ LYS 131 A    0  LYS 131 A    1     0    0  0  0   2.76
+ LYS 131 A    0  ASP 132 A    1     0    0  0  0   3.67
+ LYS 131 A    0  SER 130 A    1     0    0  0  0   4.85
+ ASP 132 A    0  LYS 131 A    4     0    0  0  0   3.67
+ ASP 132 A    0  ASP 132 A    4     0    0  0  0   3.02
+ ASP 132 A    0  VAL 133 A    4     0    0  0  0   4.62
+ ASP 132 A    0  TYR 190 B    4     0    0  0  0   4.98
+ ASP 132 A    0  ASP 132 A    1     0    0  0  0   3.02
+ VAL 133 A    0  TYR 190 B    4     0    0  0  0   4.14
+ VAL 133 A    0  VAL 189 B    4     0    0  0  0   3.91
+ VAL 133 A    0  ASP 132 A    1     0    0  0  0   4.62
+ ALA 135 A    0  VAL 189 B    4     0    0  0  0   4.07
+ MET 137 A    0  PHE 186 B    4     0    0  0  0   4.56
+ MET 137 A    0   GLY 41 A    1     0    0  0  0   3.92
+ PRO 139 A    0   ARG 42 A    1     0    0  0  0   4.75
+ PRO 139 A    0   ALA 43 A    1     0    0  0  0   4.62
+ PRO 139 A    0   GLY 41 A    1     0    0  0  0   3.3
+ GLU 140 A    0   ALA 43 A    1     0    0  0  0   4.06
+ GLU 148 A   45   GLU 63 C   25     2    1  0  0   3.69
+ GLU 148 A   25   GLU 63 C   45     2    1 -1  0   3.63
+ ALA 152 A   45   GLU 63 C   25     2    1  0  0   4.63
+ ALA 152 A   45  ALA 163 C   25     2    1  0  0   4.47
+ ALA 152 A   25   GLU 63 C   45     2    1 -1  0   4.77
+ ALA 152 A   25  ALA 163 C   45     2    1 -1  0   4.24
+ TYR 159 A    0  SER 100 A    1     0    0  0  0   3.4
+ TYR 159 A    0   PRO 99 A    1     0    0  0  0   3.41
+ ALA 163 A    7   GLU 63 C    2     3   -1  0  1   4.29
+ ALA 163 A   14   LYS 65 B   18     3    0  0  0   3.18
+ LEU 164 A    7   GLU 63 C    2     3   -1  0  1   3.72
+ THR 165 A    7   GLU 63 C    2     3   -1  0  1   2.52
+ THR 165 A    7   ALA 64 C    2     3   -1  0  1   3.57
+ THR 165 A    7   VAL 66 C    2     3   -1  0  1   2.5
+ THR 165 A    7   LYS 65 C    2     3   -1  0  1   4.89
+ THR 165 A   14   ALA 64 B   18     3    0  0  0   3.09
+ THR 165 A   14   LYS 65 B   18     3    0  0  0   3.94
+ THR 165 A   14  SER 161 B   18     3    0  0  0   2.29
+ THR 165 A   14  ALA 162 B   18     3    0  0  0   2.5
+ THR 165 A   14  ALA 163 B   18     3    0  0  0   3.7
+ THR 165 A   30   ALA 64 B   59     2    0  0  0   3.41
+ THR 165 A   26   LYS 65 C   41     2    1 -1  0   2.43
+ THR 165 A   46   LYS 65 C   21     2    1  0  0   3.07
+ THR 165 A   45   LYS 65 B   29     2    1  0  0   3.96
+ THR 165 A   25   LYS 65 B   49     2    1 -1  0   4.21
+ GLU 166 A   14  ALA 162 B   18     3    0  0  0   4.77
+ GLU 166 A   14  ALA 163 B   18     3    0  0  0   4.96
+ GLU 166 A   30  ALA 163 B   59     2    0  0  0   4.42
+ GLU 166 A   26   LYS 65 C   41     2    1 -1  0   4.54
+ GLU 166 A   31   LYS 65 C   51     2    0  0  0   3.66
+ GLU 166 A   51   LYS 65 C   31     2    0 -1  0   3.57
+ GLU 166 A   46   LYS 65 C   21     2    1  0  0   4.99
+ GLU 166 A   45  SER 161 B   29     2    1  0  0   3.02
+ GLU 166 A   45   LYS 65 B   29     2    1  0  0   4.43
+ GLU 166 A   45  ALA 162 B   29     2    1  0  0   4.41
+ GLU 166 A   45   ALA 64 B   29     2    1  0  0   4.6
+ GLU 166 A   25   ALA 64 B   49     2    1 -1  0   4.9
+ GLU 166 A   25  SER 161 B   49     2    1 -1  0   3.07
+ GLU 166 A   25  ALA 162 B   49     2    1 -1  0   4.26
+ GLU 166 A   25   LYS 65 B   49     2    1 -1  0   4.57
+ GLY 167 A    0  GLN 121 A    4     0    0  0  0   2.89
+ ASP 168 A    0  GLN 121 A    4     0    0  0  0   2.94
+ ASP 168 A    7   GLU 63 C    2     3   -1  0  1   1.38
+ ASP 168 A   14   ALA 64 B   18     3    0  0  0   3.78
+ VAL 169 A    0  GLN 121 A    4     0    0  0  0   3.81
+ ILE 170 A    0  GLN 121 A    4     0    0  0  0   3.73
+ HIS 172 A    0  GLN 121 A    4     0    0  0  0   2.77
+ HIS 172 A    0  VAL 122 A    4     0    0  0  0   4.22
+ GLU 174 A    0  THR 187 B    4     0    0  0  0   2.63
+ GLU 174 A    0  PHE 186 B    4     0    0  0  0   3.55
+ GLU 174 A    0  SER 185 B    4     0    0  0  0   4.89
+ VAL 175 A    0  PHE 186 B    4     0    0  0  0   4.84
+ GLU 176 A    0  PHE 186 B    4     0    0  0  0   3.62
+ ARG 179 A    0  ASP 184 B    4     0    0  0  0   2.86
+ ARG 179 A    0  ARG 179 B    4     0    0  0  0   4.02
+ PHE 182 A    0   LYS 54 B    4     0    0  0  0   3.48
+ ASP 183 A    0   SER 51 B    4     0    0  0  0   3.88
+ ASP 183 A    0   VAL 52 B    4     0    0  0  0   3.35
+ ASP 183 A    0   LYS 54 B    4     0    0  0  0   3.28
+ ASP 184 A    0  ARG 179 B    4     0    0  0  0   3.2
+ ASP 184 A    0   SER 51 B    4     0    0  0  0   4.23
+ ASP 184 A    0   TYR 50 B    4     0    0  0  0   4.37
+ ASP 184 A    0   VAL 52 B    4     0    0  0  0   4.44
+ ASP 184 A    0   ALA 46 B    4     0    0  0  0   2.77
+ ASP 184 A    0   LYS 45 B    4     0    0  0  0   3.71
+ ASP 184 A    0   ILE 44 B    4     0    0  0  0   4.6
+ SER 185 A    0   VAL 52 B    4     0    0  0  0   3.85
+ SER 185 A    0   LYS 54 B    4     0    0  0  0   3.02
+ SER 185 A    0  GLU 174 B    4     0    0  0  0   4.88
+ SER 185 A    0   ILE 44 B    4     0    0  0  0   3.11
+ SER 185 A    0   ALA 46 B    4     0    0  0  0   3.97
+ SER 185 A    0   LYS 45 B    4     0    0  0  0   3.75
+ SER 185 A    0   ALA 43 B    4     0    0  0  0   4.23
+ PHE 186 A    0   VAL 52 B    4     0    0  0  0   3.95
+ PHE 186 A    0  GLU 174 B    4     0    0  0  0   3.44
+ PHE 186 A    0   LEU 92 B    4     0    0  0  0   3.62
+ PHE 186 A    0  VAL 175 B    4     0    0  0  0   4.83
+ PHE 186 A    0  GLU 176 B    4     0    0  0  0   3.62
+ PHE 186 A    0   ARG 90 B    4     0    0  0  0   3.59
+ PHE 186 A    0   VAL 91 B    4     0    0  0  0   4.5
+ PHE 186 A    0   LYS 54 B    4     0    0  0  0   4.25
+ PHE 186 A    0   ILE 44 B    4     0    0  0  0   2.87
+ PHE 186 A    0   ALA 43 B    4     0    0  0  0   3.55
+ PHE 186 A    0  MET 137 B    4     0    0  0  0   4.86
+ THR 187 A    0   LYS 54 B    4     0    0  0  0   3.91
+ THR 187 A    0   TRP 94 B    4     0    0  0  0   4.33
+ THR 187 A    0  GLU 174 B    4     0    0  0  0   2.65
+ THR 187 A    0   LEU 92 B    4     0    0  0  0   3.83
+ PRO 188 A    0   GLY 41 B    4     0    0  0  0   3.4
+ PRO 188 A    0   ALA 43 B    4     0    0  0  0   3.73
+ PRO 188 A    0   ARG 42 B    4     0    0  0  0   4.07
+ PRO 188 A    0   GLY 39 B    4     0    0  0  0   4.75
+ VAL 189 A    0   LEU 92 B    4     0    0  0  0   4.16
+ VAL 189 A    0  VAL 133 B    4     0    0  0  0   3.4
+ VAL 189 A    0  ALA 135 B    4     0    0  0  0   4.39
+ VAL 189 A    0   ARG 42 B    4     0    0  0  0   4.76
+ VAL 189 A    0   ALA 37 C   33     0    0  0  0   3.81
+ VAL 189 A    0   GLN 40 C   33     0    0  0  0   4.18
+ VAL 189 A    0   PRO 35 C   33     0    0  0  0   3.53
+ VAL 189 A    0   ILE 36 C   33     0    0  0  0   4.49
+ TYR 190 A    0   GLY 39 B    4     0    0  0  0   2.82
+ TYR 190 A    0   SER 38 B    4     0    0  0  0   3.66
+ TYR 190 A    0   ALA 37 B    4     0    0  0  0   3.39
+ TYR 190 A    0   GLN 40 B    4     0    0  0  0   3.79
+ TYR 190 A    0   GLY 41 B    4     0    0  0  0   2.94
+ TYR 190 A    0  ASP 132 B    4     0    0  0  0   4
+ TYR 190 A    0  VAL 133 B    4     0    0  0  0   4.77
+ TYR 190 A    0   ILE 36 B    4     0    0  0  0   3.36
+ TYR 190 A    0   PRO 35 C   33     0    0  0  0   3.54
+  ARG 26 B    0   ARG 26 C    5     0    0  0  0   4.83
+  ARG 26 B    0   GLN 29 C    1     0    0  0  0   3.43
+  ARG 26 B    0   VAL 27 C    1     0    0  0  0   3.24
+  ARG 26 B    0   PRO 30 C    1     0    0  0  0   4.02
+  ARG 26 B    0   VAL 28 C    1     0    0  0  0   4.03
+  ARG 26 B    0   GLN 29 B   22     0    0  0  0   3.7
+  ARG 26 B    0   ARG 42 C   23     0    0  0  0   2.93
+  VAL 27 B    0   ARG 26 C    5     0    0  0  0   3.13
+  VAL 27 B    0   PRO 30 C    1     0    0  0  0   3.78
+  VAL 27 B    0   GLN 29 C    1     0    0  0  0   3.15
+  VAL 27 B    0   ARG 42 C   23     0    0  0  0   4.74
+  VAL 28 B    0   ARG 26 C    5     0    0  0  0   4.33
+  VAL 28 B    0   VAL 31 C    1     0    0  0  0   4.05
+  VAL 28 B    0   GLN 29 C    1     0    0  0  0   4.96
+  VAL 28 B    0   PRO 30 C    1     0    0  0  0   3.31
+  VAL 28 B    0   ILE 32 C    1     0    0  0  0   3.33
+  VAL 28 B    0   GLU 34 B   22     0    0  0  0   4.41
+  VAL 28 B    0   ARG 42 C   23     0    0  0  0   3.35
+  GLN 29 B    0   GLN 29 C    5     0    0  0  0   4.08
+  GLN 29 B    0   VAL 27 C    5     0    0  0  0   3.29
+  GLN 29 B    0   ARG 26 C    5     0    0  0  0   3.3
+  GLN 29 B    0   VAL 28 C    5     0    0  0  0   4.55
+  GLN 29 B    0   ILE 32 C    1     0    0  0  0   3.13
+  GLN 29 B    0   VAL 31 C    1     0    0  0  0   3.17
+  GLN 29 B    0   PRO 30 C    1     0    0  0  0   2.91
+  GLN 29 B    0   GLN 29 C    1     0    0  0  0   3.73
+  GLN 29 B    0   ARG 26 B    9     0    0  0  0   3.7
+  PRO 30 B    0   VAL 28 C    5     0    0  0  0   3.41
+  PRO 30 B    0   GLN 29 C    5     0    0  0  0   2.96
+  PRO 30 B    0   VAL 27 C    5     0    0  0  0   3.97
+  PRO 30 B    0   ARG 26 C    5     0    0  0  0   3.98
+  PRO 30 B    0   ILE 32 C    1     0    0  0  0   3.42
+  PRO 30 B    0   GLU 34 C    1     0    0  0  0   4.09
+  PRO 30 B    0   ARG 42 B   22     0    0  0  0   4.13
+  VAL 31 B    0   GLN 29 C    5     0    0  0  0   3.32
+  VAL 31 B    0   VAL 28 C    5     0    0  0  0   4.76
+  VAL 31 B    0   VAL 31 C    5     0    0  0  0   3.64
+  VAL 31 B    0   GLU 34 C    1     0    0  0  0   2.72
+  VAL 31 B    0   ILE 32 C    1     0    0  0  0   2.76
+  VAL 31 B    0   VAL 33 C    1     0    0  0  0   3.42
+  VAL 31 B    0   VAL 31 C    1     0    0  0  0   4.25
+  ILE 32 B    0   VAL 31 C    5     0    0  0  0   2.75
+  ILE 32 B    0   GLN 29 C    5     0    0  0  0   3.05
+  ILE 32 B    0   PRO 30 C    5     0    0  0  0   3.33
+  ILE 32 B    0   VAL 28 C    5     0    0  0  0   3.6
+  ILE 32 B    0   GLU 34 C    1     0    0  0  0   3.97
+  ILE 32 B    0   ILE 36 C    1     0    0  0  0   3.7
+  VAL 33 B    0   VAL 33 C    5     0    0  0  0   3.91
+  VAL 33 B    0   VAL 31 C    5     0    0  0  0   3.52
+  VAL 33 B    0   ILE 36 C    1     0    0  0  0   4.48
+  VAL 33 B    0   GLU 34 C    1     0    0  0  0   4.89
+  VAL 33 B    0   VAL 33 C    1     0    0  0  0   3.79
+  GLU 34 B    0   ILE 32 C    5     0    0  0  0   4.08
+  GLU 34 B    0   VAL 33 C    5     0    0  0  0   4.81
+  GLU 34 B    0   VAL 31 C    5     0    0  0  0   2.74
+  GLU 34 B    0   PRO 30 C    5     0    0  0  0   4.21
+  GLU 34 B    0   GLY 41 C    1     0    0  0  0   3.92
+  GLU 34 B    0   ARG 42 C    1     0    0  0  0   3.12
+  GLU 34 B    0   GLN 40 C    1     0    0  0  0   4.74
+  GLU 34 B    0   VAL 28 B    9     0    0  0  0   4.41
+  PRO 35 B    0   GLY 41 C    1     0    0  0  0   4.6
+  PRO 35 B    0   ILE 36 C    1     0    0  0  0   3.97
+  PRO 35 B    0  TYR 190 C   22     0    0  0  0   3.17
+  PRO 35 B    0  VAL 189 C   22     0    0  0  0   3.43
+  ILE 36 B    0   GLU 34 C    5     0    0  0  0   4.63
+  ILE 36 B    0   PRO 35 C    5     0    0  0  0   3.9
+  ILE 36 B    0   VAL 33 C    5     0    0  0  0   3.9
+  ILE 36 B    0   ILE 32 C    5     0    0  0  0   3.24
+  ILE 36 B    0  TYR 190 A    1     0    0  0  0   3.36
+  ILE 36 B    0  VAL 133 C    1     0    0  0  0   3.21
+  ILE 36 B    0  VAL 189 C   22     0    0  0  0   4.51
+  ALA 37 B    0  ALA 135 C    1     0    0  0  0   3.57
+  ALA 37 B    0  TYR 190 A    1     0    0  0  0   3.39
+  ALA 37 B    0  ALA 136 C    1     0    0  0  0   4.43
+  ALA 37 B    0  MET 137 C    1     0    0  0  0   4.52
+  ALA 37 B    0  VAL 133 C    1     0    0  0  0   3.73
+  ALA 37 B    0  VAL 189 C   22     0    0  0  0   3.87
+  SER 38 B    0  TYR 190 A    1     0    0  0  0   3.66
+  SER 38 B    0  ALA 125 C    1     0    0  0  0   3.38
+  SER 38 B    0  ALA 135 C    1     0    0  0  0   3.42
+  SER 38 B    0  ALA 136 C    1     0    0  0  0   3.65
+  SER 38 B    0  VAL 126 C    1     0    0  0  0   3
+  SER 38 B    0  MET 137 C    1     0    0  0  0   2.86
+  SER 38 B    0  LEU 124 C    1     0    0  0  0   4.71
+  GLY 39 B    0  ALA 125 C    1     0    0  0  0   3.71
+  GLY 39 B    0  LEU 124 C    1     0    0  0  0   4.13
+  GLY 39 B    0  TYR 190 A    1     0    0  0  0   2.82
+  GLY 39 B    0  MET 137 C    1     0    0  0  0   3.57
+  GLY 39 B    0  PRO 139 C    1     0    0  0  0   3.71
+  GLY 39 B    0  PRO 188 A    1     0    0  0  0   4.75
+  GLN 40 B    0   GLU 34 C    5     0    0  0  0   4.58
+  GLN 40 B    0  TYR 190 A    1     0    0  0  0   3.79
+  GLN 40 B    0  MET 137 C    1     0    0  0  0   3.59
+  GLN 40 B    0  PRO 139 C    1     0    0  0  0   4.89
+  GLN 40 B    0   ILE 44 C    1     0    0  0  0   3.23
+  GLN 40 B    0  VAL 189 C   22     0    0  0  0   4.32
+  GLY 41 B    0   GLU 34 C    5     0    0  0  0   4.1
+  GLY 41 B    0   PRO 35 C    5     0    0  0  0   4.61
+  GLY 41 B    0  TYR 190 A    1     0    0  0  0   2.94
+  GLY 41 B    0  PRO 188 A    1     0    0  0  0   3.4
+  ARG 42 B    0   GLU 34 C    5     0    0  0  0   3.44
+  ARG 42 B    0  PRO 188 A    1     0    0  0  0   4.07
+  ARG 42 B    0  VAL 189 A    1     0    0  0  0   4.76
+  ARG 42 B    0   PRO 30 B    9     0    0  0  0   4.13
+  ARG 42 B    0   ARG 26 C   23     0    0  0  0   3.51
+  ARG 42 B    0   VAL 28 C   23     0    0  0  0   3.68
+  ARG 42 B    0   VAL 27 C   23     0    0  0  0   4.47
+  ALA 43 B    0  PHE 186 A    1     0    0  0  0   3.55
+  ALA 43 B    0  SER 185 A    1     0    0  0  0   4.23
+  ALA 43 B    0  PRO 188 A    1     0    0  0  0   3.73
+  ILE 44 B    0   GLN 40 C    5     0    0  0  0   3.14
+  ILE 44 B    0  SER 185 A    1     0    0  0  0   3.11
+  ILE 44 B    0  PHE 186 A    1     0    0  0  0   2.87
+  ILE 44 B    0  ASP 184 A    1     0    0  0  0   4.6
+  LYS 45 B    0  SER 185 A    1     0    0  0  0   3.75
+  LYS 45 B    0  ASP 184 A    1     0    0  0  0   3.71
+  ALA 46 B    0  SER 185 A    1     0    0  0  0   3.97
+  ALA 46 B    0  ASP 184 A    1     0    0  0  0   2.77
+  TYR 50 B    0  ASP 184 A    1     0    0  0  0   4.37
+  SER 51 B    0  ASP 183 A    1     0    0  0  0   3.88
+  SER 51 B    0  ASP 184 A    1     0    0  0  0   4.23
+  VAL 52 B    0  ASP 183 A    1     0    0  0  0   3.35
+  VAL 52 B    0  ASP 184 A    1     0    0  0  0   4.44
+  VAL 52 B    0  SER 185 A    1     0    0  0  0   3.85
+  VAL 52 B    0  PHE 186 A    1     0    0  0  0   3.95
+  LYS 54 B    0  ASP 183 A    1     0    0  0  0   3.28
+  LYS 54 B    0  THR 187 A    1     0    0  0  0   3.91
+  LYS 54 B    0  SER 185 A    1     0    0  0  0   3.02
+  LYS 54 B    0  PHE 186 A    1     0    0  0  0   4.25
+  LYS 54 B    0  PHE 182 A    1     0    0  0  0   3.48
+  TRP 55 B   30   GLU 63 B   50     2    0  0  0   4.99
+  SER 58 B   50   ALA 61 B   30     2    0 -1  0   3.97
+  SER 58 B   50  GLU 166 B   30     2    0 -1  0   4.41
+  SER 58 B   30   ALA 61 B   50     2    0  0  0   4.11
+  SER 58 B   30   ALA 60 B   50     2    0  0  0   4.4
+  SER 58 B   30  GLU 166 B   50     2    0  0  0   4.67
+  SER 58 B    6   GLU 63 B    1     3   -1  0  1   4.07
+  SER 58 B   13   GLU 63 C   19     3    0  0  0   4.37
+  CYS 59 B   50  GLU 166 B   30     2    0 -1  0   3.4
+  CYS 59 B   30   ALA 60 B   50     2    0  0  0   3.93
+  CYS 59 B   30   ALA 61 B   50     2    0  0  0   4.95
+  CYS 59 B   30  GLU 166 B   50     2    0  0  0   4.35
+  ALA 60 B   50   ALA 61 B   30     2    0 -1  0   4.38
+  ALA 60 B   50   CYS 59 B   30     2    0 -1  0   3.93
+  ALA 60 B   50   ALA 60 B   30     2    0 -1  0   2.27
+  ALA 60 B   50  GLU 166 B   30     2    0 -1  0   2.86
+  ALA 60 B   50   SER 58 B   30     2    0 -1  0   4.4
+  ALA 60 B   30   ALA 60 B   50     2    0  0  0   2.27
+  ALA 60 B    6   VAL 66 B    1     3   -1  0  1   4.68
+  ALA 60 B   35   GLU 63 B   55     2    0  0  0   3.96
+  ALA 60 B   55   GLU 63 B   35     2    0 -1  0   2.92
+  ALA 61 B   50   CYS 59 B   30     2    0 -1  0   4.95
+  ALA 61 B   50  GLU 166 B   30     2    0 -1  0   3.3
+  ALA 61 B   50   SER 58 B   30     2    0 -1  0   4.11
+  ALA 61 B   30   ALA 60 B   50     2    0  0  0   4.38
+  ALA 61 B   30  GLU 166 B   50     2    0  0  0   4.93
+  ALA 61 B   30   SER 58 B   50     2    0  0  0   3.97
+  ALA 61 B    6   THR 67 B    1     3   -1  0  1   4.73
+  ALA 61 B    6  THR 115 B    1     3   -1  0  1   4.76
+  ALA 61 B    6  ALA 117 B    1     3   -1  0  1   4.88
+  ALA 61 B    6  ALA 116 B    1     3   -1  0  1   4.58
+  ALA 61 B   35   GLU 63 B   55     2    0  0  0   1.8
+  ALA 61 B   55   GLU 63 B   35     2    0 -1  0   0.665
+  ALA 61 B   13   ALA 60 C   19     3    0  0  0   4.34
+  ALA 62 B   30   THR 71 B   50     2    0  0  0   4.72
+  ALA 62 B   30   SER 73 B   50     2    0  0  0   4.74
+  ALA 62 B    6  THR 115 B    1     3   -1  0  1   3.44
+  ALA 62 B   35   GLU 63 B   55     2    0  0  0   2.71
+  ALA 62 B   55   GLU 63 B   35     2    0 -1  0   1.99
+  GLU 63 B   50   ILE 72 B   30     2    0 -1  0   4.4
+  GLU 63 B   50   SER 73 B   30     2    0 -1  0   1.05
+  GLU 63 B   50   LEU 74 B   30     2    0 -1  0   3.96
+  GLU 63 B   50   TRP 55 B   30     2    0 -1  0   4.99
+  GLU 63 B   30   THR 71 B   50     2    0  0  0   3.8
+  GLU 63 B   30   SER 73 B   50     2    0  0  0   0.591
+  GLU 63 B   30   ILE 72 B   50     2    0  0  0   2.98
+  GLU 63 B   30   LEU 74 B   50     2    0  0  0   2.99
+  GLU 63 B   30  ALA 151 B   50     2    0  0  0   4.95
+  GLU 63 B    6  ALA 118 B    1     3   -1  0  1   2.76
+  GLU 63 B    6  THR 115 B    1     3   -1  0  1   3.35
+  GLU 63 B    6  GLN 121 B    1     3   -1  0  1   2.93
+  GLU 63 B    6   LEU 98 C   22     3   -1  0  1   4.29
+  GLU 63 B    6  GLY 167 C   22     3   -1  0  1   3.65
+  GLU 63 B    1   SER 58 B    6     3    0  0  1   4.07
+  GLU 63 B    1  GLU 166 B    6     3    0  0  1   4.47
+  GLU 63 B   35   ALA 60 B   55     2    0  0  0   2.92
+  GLU 63 B   35   ALA 61 B   55     2    0  0  0   0.665
+  GLU 63 B   35   ALA 62 B   55     2    0  0  0   1.99
+  GLU 63 B   35  LEU 164 B   55     2    0  0  0   4.25
+  GLU 63 B   35   GLU 63 B   55     2    0  0  0   4.74
+  GLU 63 B   55   ALA 61 B   35     2    0 -1  0   1.8
+  GLU 63 B   55   ALA 62 B   35     2    0 -1  0   2.71
+  GLU 63 B   55   ALA 60 B   35     2    0 -1  0   3.96
+  GLU 63 B   55   SER 68 B   35     2    0 -1  0   3.88
+  GLU 63 B   55   GLU 63 B   35     2    0 -1  0   4.74
+  GLU 63 B   18  SER 100 A   14     3   -1  0  0   3.68
+  GLU 63 B   18  ALA 117 A   13     3   -1  0  0   3.67
+  GLU 63 B   18   LYS 65 A   13     3   -1  0  0   4.47
+  GLU 63 B   18   THR 67 A   13     3   -1  0  0   5
+  ALA 64 B    6  THR 115 B    1     3   -1  0  1   4.55
+  ALA 64 B    6  GLU 166 C   22     3   -1  0  1   4.75
+  ALA 64 B   18  THR 165 A   14     3   -1  0  0   3.09
+  ALA 64 B   18  ASP 168 A   14     3   -1  0  0   3.78
+  ALA 64 B   49  GLU 166 A   25     2    1  0  0   4.9
+  ALA 64 B   29  GLU 166 A   45     2    1 -1  0   4.6
+  ALA 64 B   59  THR 165 A   30     2    0 -1  0   3.41
+  LYS 65 B    0  SER 100 C    5     0    0  0  0   4.42
+  LYS 65 B   50  THR 114 A   30     2    0 -1  0   1.79
+  LYS 65 B   30  THR 114 A   50     2    0  0  0   3.49
+  LYS 65 B   18  ALA 163 A   14     3   -1  0  0   3.18
+  LYS 65 B   18  THR 165 A   14     3   -1  0  0   3.94
+  LYS 65 B   49  THR 165 A   25     2    1  0  0   4.21
+  LYS 65 B   49  GLU 166 A   25     2    1  0  0   4.57
+  LYS 65 B   40  THR 114 A   25     2    1  0  0   1.17
+  LYS 65 B   40  THR 115 A   25     2    1  0  0   4.13
+  LYS 65 B   40  GLN 113 A   25     2    1  0  0   4.07
+  LYS 65 B   29  THR 165 A   45     2    1 -1  0   3.96
+  LYS 65 B   29  GLU 166 A   45     2    1 -1  0   4.43
+  LYS 65 B   20  THR 114 A   45     2    1 -1  0   1.33
+  LYS 65 B   20  GLN 113 A   45     2    1 -1  0   4.61
+  LYS 65 B   20  THR 115 A   45     2    1 -1  0   4.55
+  LYS 65 B   41   GLU 63 A    6     3    0  0  1   3.06
+  VAL 66 B   50   THR 71 B   30     2    0 -1  0   3.06
+  VAL 66 B   50   SER 73 B   30     2    0 -1  0   3.85
+  VAL 66 B   30   THR 71 B   50     2    0  0  0   2.93
+  VAL 66 B    1  GLU 166 B    6     3    0  0  1   3.53
+  VAL 66 B    1   ALA 60 B    6     3    0  0  1   4.68
+  VAL 66 B    6  THR 165 C   22     3   -1  0  1   3.3
+  VAL 66 B    6  GLU 166 C   22     3   -1  0  1   3.32
+  VAL 66 B    6  ASP 168 C   22     3   -1  0  1   4.9
+  VAL 66 B   16  GLU 166 C    9     1    0  0 -1   4.45
+  THR 67 B    0   PRO 99 C    5     0    0  0  0   3.74
+  THR 67 B   50   THR 71 B   30     2    0 -1  0   4.67
+  THR 67 B    1   ALA 61 B    6     3    0  0  1   4.73
+  THR 67 B    6  THR 165 C   22     3   -1  0  1   3.98
+  SER 68 B   35   GLU 63 B   55     2    0  0  0   3.88
+  THR 71 B   50   GLU 63 B   30     2    0 -1  0   3.8
+  THR 71 B   50   VAL 66 B   30     2    0 -1  0   2.93
+  THR 71 B   50   ALA 62 B   30     2    0 -1  0   4.72
+  THR 71 B   30   VAL 66 B   50     2    0  0  0   3.06
+  THR 71 B   30   THR 67 B   50     2    0  0  0   4.67
+  ILE 72 B   50   GLU 63 B   30     2    0 -1  0   2.98
+  ILE 72 B   30   GLU 63 B   50     2    0  0  0   4.4
+  SER 73 B   50   GLU 63 B   30     2    0 -1  0   0.591
+  SER 73 B   50   ALA 62 B   30     2    0 -1  0   4.74
+  SER 73 B   30   GLU 63 B   50     2    0  0  0   1.05
+  SER 73 B   30   VAL 66 B   50     2    0  0  0   3.85
+  LEU 74 B   50   GLU 63 B   30     2    0 -1  0   2.99
+  LEU 74 B   30   GLU 63 B   50     2    0  0  0   3.96
+  GLU 77 B    0   GLU 77 A    1     0    0  0  0   3.35
+  ARG 90 B    0  PHE 186 A    1     0    0  0  0   3.59
+  VAL 91 B    0  PHE 186 A    1     0    0  0  0   4.5
+  LEU 92 B    0   ALA 37 C    5     0    0  0  0   4.94
+  LEU 92 B    0  VAL 189 A    1     0    0  0  0   4.16
+  LEU 92 B    0  THR 187 A    1     0    0  0  0   3.83
+  LEU 92 B    0  PHE 186 A    1     0    0  0  0   3.62
+  TRP 94 B    0  VAL 122 C    1     0    0  0  0   4.65
+  TRP 94 B    0  ALA 123 C    1     0    0  0  0   4.24
+  TRP 94 B    0  GLN 121 C    1     0    0  0  0   4.31
+  TRP 94 B    0  LEU 124 C    1     0    0  0  0   4.84
+  TRP 94 B    0  THR 187 A    1     0    0  0  0   4.33
+  GLY 96 B    0  GLN 121 C    1     0    0  0  0   3.35
+  GLY 96 B    0  PHE 120 C    1     0    0  0  0   4.54
+  LEU 97 B    0  GLN 121 C    1     0    0  0  0   3.72
+  LEU 97 B    0  PHE 120 C    1     0    0  0  0   3.86
+  LEU 98 B    0  ALA 117 C    1     0    0  0  0   3.57
+  LEU 98 B    0  GLN 121 C    1     0    0  0  0   3.47
+  LEU 98 B    0  ALA 118 C    1     0    0  0  0   4.12
+  LEU 98 B    0  PHE 120 C    1     0    0  0  0   4.99
+  LEU 98 B    0  LYS 106 C    1     0    0  0  0   4.72
+  PRO 99 B    0  ALA 117 C    1     0    0  0  0   3.49
+  PRO 99 B    0  LYS 106 C    1     0    0  0  0   3.01
+  PRO 99 B    0  PHE 120 C    1     0    0  0  0   3.68
+  PRO 99 B    0  TYR 159 C    1     0    0  0  0   3.44
+  PRO 99 B    0   THR 67 C    1     0    0  0  0   3.49
+ SER 100 B    0  LYS 106 C    1     0    0  0  0   4.98
+ SER 100 B    0  TYR 159 C    1     0    0  0  0   3.39
+ SER 100 B    0   LYS 65 C    1     0    0  0  0   4.52
+ SER 102 B   59   ALA 61 A   30     2    0 -1  0   4.8
+ SER 102 B   53   GLU 63 C   16     1    0  0  0   4.33
+ THR 104 B   59   GLU 63 A   30     2    0 -1  0   4.89
+ LYS 106 B    0   PRO 99 C    5     0    0  0  0   2.94
+ LYS 106 B    0   LEU 98 C    5     0    0  0  0   4.98
+ THR 112 B   30  THR 114 B   50     2    0  0  0   4.42
+ GLN 113 B   50  THR 114 B   30     2    0 -1  0   3.61
+ GLN 113 B   30  THR 114 B   50     2    0  0  0   2.9
+ GLN 113 B   38   GLU 63 C   14     3   -1  0  0   4.07
+ THR 114 B   50  THR 114 B   30     2    0 -1  0   2.52
+ THR 114 B   50  THR 115 B   30     2    0 -1  0   4.58
+ THR 114 B   50  GLN 113 B   30     2    0 -1  0   2.9
+ THR 114 B   50  THR 112 B   30     2    0 -1  0   4.42
+ THR 114 B   30  THR 114 B   50     2    0  0  0   2.52
+ THR 114 B   30  GLN 113 B   50     2    0  0  0   3.61
+ THR 114 B    1  THR 165 B    6     3    0  0  1   4.53
+ THR 114 B    1  ALA 163 B    6     3    0  0  1   3.97
+ THR 114 B    6   GLU 63 C   22     3   -1  0  1   4.11
+ THR 114 B    6  ALA 163 C   22     3   -1  0  1   2.94
+ THR 114 B   38   GLU 63 C   14     3   -1  0  0   0.926
+ THR 114 B   16  ALA 163 C    9     1    0  0 -1   4.83
+ THR 114 B   16  THR 165 C    9     1    0  0 -1   4.36
+ THR 114 B   45  THR 114 B   20     2    1  0  0   4.4
+ THR 114 B   40  THR 114 B   25     2    1  0  0   4.4
+ THR 114 B   25  THR 114 B   40     2    1 -1  0   4.4
+ THR 114 B   20  THR 114 B   45     2    1 -1  0   4.4
+ THR 114 B   35  THR 165 C   50     2    0  0  0   4.54
+ THR 114 B   55  GLU 166 C   30     2    0 -1  0   4.88
+ THR 114 B   55  THR 165 C   30     2    0 -1  0   4.96
+ THR 115 B   30  THR 114 B   50     2    0  0  0   4.58
+ THR 115 B    1   ALA 61 B    6     3    0  0  1   4.76
+ THR 115 B    1   ALA 62 B    6     3    0  0  1   3.44
+ THR 115 B    1  LEU 164 B    6     3    0  0  1   4.7
+ THR 115 B    1   GLU 63 B    6     3    0  0  1   3.35
+ THR 115 B    1  ALA 163 B    6     3    0  0  1   3.07
+ THR 115 B    1   ALA 64 B    6     3    0  0  1   4.55
+ THR 115 B   35  THR 115 B   55     2    0  0  0   4.62
+ THR 115 B   55  THR 115 B   35     2    0 -1  0   4.62
+ THR 115 B    6   GLU 63 C   22     3   -1  0  1   3.84
+ THR 115 B    6  ALA 163 C   22     3   -1  0  1   4.32
+ THR 115 B    6   ALA 62 C   22     3   -1  0  1   4.66
+ THR 115 B   38   GLU 63 C   14     3   -1  0  0   2.65
+ THR 115 B   38   VAL 66 C   14     3   -1  0  0   4.78
+ THR 115 B   16  ALA 163 C    9     1    0  0 -1   3.5
+ THR 115 B   16  THR 165 C    9     1    0  0 -1   2.93
+ THR 115 B   16  LEU 164 C    9     1    0  0 -1   4.14
+ ALA 116 B    1   ALA 61 B    6     3    0  0  1   4.58
+ ALA 116 B    6  THR 165 C   22     3   -1  0  1   4.6
+ ALA 116 B   38   GLU 63 C   14     3   -1  0  0   4.82
+ ALA 116 B   16  THR 165 C    9     1    0  0 -1   3.79
+ ALA 117 B    0   PRO 99 C    5     0    0  0  0   3.46
+ ALA 117 B    0   LEU 98 C    5     0    0  0  0   3.85
+ ALA 117 B    1   ALA 61 B    6     3    0  0  1   4.88
+ ALA 117 B   16  THR 165 C    9     1    0  0 -1   4.8
+ ALA 118 B    0   LEU 98 C    5     0    0  0  0   4.33
+ ALA 118 B    1   GLU 63 B    6     3    0  0  1   2.76
+ PHE 120 B    0   PRO 99 C    5     0    0  0  0   3.64
+ PHE 120 B    0   LEU 97 C    5     0    0  0  0   3.81
+ PHE 120 B    0   GLY 96 C    5     0    0  0  0   4.51
+ GLN 121 B    0   LEU 97 C    5     0    0  0  0   3.69
+ GLN 121 B    0   GLY 96 C    5     0    0  0  0   3.52
+ GLN 121 B    0  ILE 170 C    5     0    0  0  0   3.52
+ GLN 121 B    0   LEU 98 C    5     0    0  0  0   3.14
+ GLN 121 B    0  ASP 168 C    5     0    0  0  0   2.96
+ GLN 121 B    0  GLY 167 C    5     0    0  0  0   2.95
+ GLN 121 B    0  VAL 169 C    5     0    0  0  0   3.65
+ GLN 121 B    0  HIS 172 C    5     0    0  0  0   2.78
+ GLN 121 B    0   TRP 94 C    5     0    0  0  0   4.42
+ GLN 121 B    1   GLU 63 B    6     3    0  0  1   2.93
+ GLN 121 B   16   GLU 63 C    9     1    0  0 -1   4.62
+ VAL 122 B    0  HIS 172 C    5     0    0  0  0   4.32
+ VAL 122 B    0   TRP 94 C    5     0    0  0  0   4.65
+ ALA 123 B    0   TRP 94 C    5     0    0  0  0   3.98
+ LEU 124 B    0   SER 38 C    5     0    0  0  0   4.85
+ LEU 124 B    0   GLY 39 C    5     0    0  0  0   4.18
+ LEU 124 B    0   TRP 94 C    5     0    0  0  0   4.17
+ ALA 125 B    0   SER 38 C    5     0    0  0  0   3.47
+ ALA 125 B    0   GLY 39 C    5     0    0  0  0   3.68
+ VAL 126 B    0   SER 38 C    5     0    0  0  0   3.09
+ LYS 131 B    0  LYS 131 C    5     0    0  0  0   4.88
+ LYS 131 B    0  ASP 132 C    5     0    0  0  0   4.45
+ ASP 132 B    0  TYR 190 A    1     0    0  0  0   4
+ ASP 132 B    0  LYS 131 C    1     0    0  0  0   4.87
+ VAL 133 B    0   ALA 37 C    5     0    0  0  0   3.84
+ VAL 133 B    0   ILE 36 C    5     0    0  0  0   3.7
+ VAL 133 B    0   PRO 35 C    5     0    0  0  0   3.87
+ VAL 133 B    0  VAL 189 A    1     0    0  0  0   3.4
+ VAL 133 B    0  TYR 190 A    1     0    0  0  0   4.77
+ ALA 135 B    0   SER 38 C    5     0    0  0  0   3.31
+ ALA 135 B    0   ALA 37 C    5     0    0  0  0   3.54
+ ALA 135 B    0  VAL 189 A    1     0    0  0  0   4.39
+ ALA 136 B    0   ALA 37 C    5     0    0  0  0   4.36
+ ALA 136 B    0   SER 38 C    5     0    0  0  0   3.51
+ MET 137 B    0   ALA 37 C    5     0    0  0  0   4.57
+ MET 137 B    0   SER 38 C    5     0    0  0  0   2.8
+ MET 137 B    0   GLY 39 C    5     0    0  0  0   3.57
+ MET 137 B    0   GLN 40 C    5     0    0  0  0   3.67
+ MET 137 B    0  PHE 186 A    1     0    0  0  0   4.86
+ PRO 139 B    0   GLY 39 C    5     0    0  0  0   3.61
+ ALA 151 B   50   GLU 63 B   30     2    0 -1  0   4.95
+ TYR 159 B    0   PRO 99 C    5     0    0  0  0   3.55
+ TYR 159 B    0  SER 100 C    5     0    0  0  0   3.51
+ TYR 159 B   40  THR 114 A   25     2    1  0  0   4.37
+ TYR 159 B   20  THR 114 A   45     2    1 -1  0   4.91
+ SER 161 B   18  THR 165 A   14     3   -1  0  0   2.29
+ SER 161 B   49  GLU 166 A   25     2    1  0  0   3.07
+ SER 161 B   40  THR 114 A   25     2    1  0  0   4.58
+ SER 161 B   29  GLU 166 A   45     2    1 -1  0   3.02
+ SER 161 B   59   ALA 61 A   30     2    0 -1  0   4.99
+ SER 161 B   20  THR 114 A   45     2    1 -1  0   4.96
+ ALA 162 B   18  THR 165 A   14     3   -1  0  0   2.5
+ ALA 162 B   18  GLU 166 A   14     3   -1  0  0   4.77
+ ALA 162 B   49  GLU 166 A   25     2    1  0  0   4.26
+ ALA 162 B   29  GLU 166 A   45     2    1 -1  0   4.41
+ ALA 162 B   59   ALA 61 A   30     2    0 -1  0   3.6
+ ALA 163 B    6  THR 115 B    1     3   -1  0  1   3.07
+ ALA 163 B    6  THR 114 B    1     3   -1  0  1   3.97
+ ALA 163 B   18  THR 165 A   14     3   -1  0  0   3.7
+ ALA 163 B   18  GLU 166 A   14     3   -1  0  0   4.96
+ ALA 163 B   59  GLU 166 A   30     2    0 -1  0   4.42
+ LEU 164 B    6  THR 115 B    1     3   -1  0  1   4.7
+ LEU 164 B   55   GLU 63 B   35     2    0 -1  0   4.25
+ THR 165 B    6  THR 114 B    1     3   -1  0  1   4.53
+ THR 165 B   13   ALA 60 C   19     3    0  0  0   4.22
+ THR 165 B   13   ALA 61 C   19     3    0  0  0   3.84
+ THR 165 B   13  GLU 166 C   19     3    0  0  0   2.67
+ GLU 166 B   50  GLU 166 B   30     2    0 -1  0   0.924
+ GLU 166 B   50  GLY 167 B   30     2    0 -1  0   4.07
+ GLU 166 B   50   ALA 61 B   30     2    0 -1  0   4.93
+ GLU 166 B   50   CYS 59 B   30     2    0 -1  0   4.35
+ GLU 166 B   50   SER 58 B   30     2    0 -1  0   4.67
+ GLU 166 B   30   ALA 61 B   50     2    0  0  0   3.3
+ GLU 166 B   30   ALA 60 B   50     2    0  0  0   2.86
+ GLU 166 B   30  GLU 166 B   50     2    0  0  0   0.924
+ GLU 166 B   30  GLY 167 B   50     2    0  0  0   4.38
+ GLU 166 B   30   CYS 59 B   50     2    0  0  0   3.4
+ GLU 166 B   30   SER 58 B   50     2    0  0  0   4.41
+ GLU 166 B    6   VAL 66 B    1     3   -1  0  1   3.53
+ GLU 166 B    6   GLU 63 B    1     3   -1  0  1   4.47
+ GLU 166 B   13   ALA 61 C   19     3    0  0  0   1.73
+ GLU 166 B   13   ALA 62 C   19     3    0  0  0   2.7
+ GLU 166 B   13   GLU 63 C   19     3    0  0  0   4.42
+ GLU 166 B   13   ALA 60 C   19     3    0  0  0   3.92
+ GLU 166 B   13  GLU 166 C   19     3    0  0  0   4.78
+ GLU 166 B   13  LEU 164 C   19     3    0  0  0   5
+ GLU 166 B   49  GLU 166 B   29     2    1  0  0   2.62
+ GLU 166 B   29  GLU 166 B   49     2    1 -1  0   2.62
+ GLY 167 B    0  GLN 121 C    1     0    0  0  0   2.97
+ GLY 167 B   50  GLU 166 B   30     2    0 -1  0   4.38
+ GLY 167 B   30  GLU 166 B   50     2    0  0  0   4.07
+ GLY 167 B   13   ALA 61 C   19     3    0  0  0   3.71
+ ASP 168 B    0  GLN 121 C    1     0    0  0  0   2.98
+ ASP 168 B   13  GLU 166 C   19     3    0  0  0   4.8
+ VAL 169 B    0  GLN 121 C    1     0    0  0  0   3.75
+ ILE 170 B    0  GLN 121 C    1     0    0  0  0   3.53
+ HIS 172 B    0  GLN 121 C    1     0    0  0  0   2.76
+ HIS 172 B    0  VAL 122 C    1     0    0  0  0   4.31
+ GLU 174 B    0  THR 187 A    1     0    0  0  0   2.65
+ GLU 174 B    0  PHE 186 A    1     0    0  0  0   3.44
+ GLU 174 B    0  SER 185 A    1     0    0  0  0   4.88
+ VAL 175 B    0  PHE 186 A    1     0    0  0  0   4.83
+ GLU 176 B    0  PHE 186 A    1     0    0  0  0   3.62
+ ARG 179 B    0  ARG 179 A    1     0    0  0  0   4.02
+ ARG 179 B    0  ASP 184 A    1     0    0  0  0   3.2
+ PHE 182 B    0   LYS 54 A    1     0    0  0  0   3.48
+ ASP 183 B    0   LYS 54 A    1     0    0  0  0   4.02
+ ASP 183 B    0   VAL 52 A    1     0    0  0  0   2.8
+ ASP 183 B    0   SER 51 A    1     0    0  0  0   3.69
+ ASP 184 B    0   ILE 44 A    1     0    0  0  0   4.48
+ ASP 184 B    0   VAL 52 A    1     0    0  0  0   4.64
+ ASP 184 B    0   LYS 45 A    1     0    0  0  0   3.44
+ ASP 184 B    0   ALA 46 A    1     0    0  0  0   2.76
+ ASP 184 B    0   SER 51 A    1     0    0  0  0   4.43
+ ASP 184 B    0  ARG 179 A    1     0    0  0  0   2.86
+ ASP 184 B    0   TYR 50 A    1     0    0  0  0   4.82
+ SER 185 B    0  GLU 174 A    1     0    0  0  0   4.89
+ SER 185 B    0   ILE 44 A    1     0    0  0  0   3.15
+ SER 185 B    0   VAL 52 A    1     0    0  0  0   3.96
+ SER 185 B    0   LYS 54 A    1     0    0  0  0   2.95
+ SER 185 B    0   LYS 45 A    1     0    0  0  0   3.87
+ SER 185 B    0   ALA 46 A    1     0    0  0  0   4.02
+ SER 185 B    0   ALA 43 A    1     0    0  0  0   3.9
+ PHE 186 B    0  GLU 174 A    1     0    0  0  0   3.55
+ PHE 186 B    0   ALA 43 A    1     0    0  0  0   3.17
+ PHE 186 B    0   ILE 44 A    1     0    0  0  0   2.95
+ PHE 186 B    0   LYS 54 A    1     0    0  0  0   4.35
+ PHE 186 B    0   VAL 52 A    1     0    0  0  0   3.95
+ PHE 186 B    0   LEU 92 A    1     0    0  0  0   3.68
+ PHE 186 B    0  MET 137 A    1     0    0  0  0   4.56
+ PHE 186 B    0   ARG 90 A    1     0    0  0  0   3.49
+ PHE 186 B    0  GLU 176 A    1     0    0  0  0   3.62
+ PHE 186 B    0   VAL 91 A    1     0    0  0  0   4.44
+ PHE 186 B    0  VAL 175 A    1     0    0  0  0   4.84
+ THR 187 B    0   TRP 94 A    1     0    0  0  0   4.06
+ THR 187 B    0  GLU 174 A    1     0    0  0  0   2.63
+ THR 187 B    0   LEU 92 A    1     0    0  0  0   4.14
+ THR 187 B    0   ALA 43 A    1     0    0  0  0   4.82
+ THR 187 B    0   LYS 54 A    1     0    0  0  0   4.35
+ PRO 188 B    0   ALA 43 A    1     0    0  0  0   4.07
+ PRO 188 B    0   ARG 42 A    1     0    0  0  0   3.64
+ VAL 189 B    0  VAL 133 A    1     0    0  0  0   3.91
+ VAL 189 B    0  ALA 135 A    1     0    0  0  0   4.07
+ VAL 189 B    0   LEU 92 A    1     0    0  0  0   4.34
+ VAL 189 B    0   ARG 42 A    1     0    0  0  0   4.86
+ TYR 190 B    0  VAL 133 A    1     0    0  0  0   4.14
+ TYR 190 B    0  ASP 132 A    1     0    0  0  0   4.98
+ TYR 190 B    0   GLY 41 A    1     0    0  0  0   3.25
+ TYR 190 B    0   GLN 40 A    1     0    0  0  0   3
+ TYR 190 B    0   ARG 42 A    1     0    0  0  0   3.64
+  ARG 26 C    0   ARG 26 B    5     0    0  0  0   4.83
+  ARG 26 C    0   VAL 27 B    5     0    0  0  0   3.13
+  ARG 26 C    0   GLN 29 B    5     0    0  0  0   3.3
+  ARG 26 C    0   VAL 28 B    5     0    0  0  0   4.33
+  ARG 26 C    0   PRO 30 B    5     0    0  0  0   3.98
+  ARG 26 C    0   GLN 29 C    6     0    0  0  0   3.39
+  ARG 26 C    0   ARG 42 B   32     0    0  0  0   3.51
+  VAL 27 C    0   GLN 29 B    5     0    0  0  0   3.29
+  VAL 27 C    0   PRO 30 B    5     0    0  0  0   3.97
+  VAL 27 C    0   ARG 26 B    4     0    0  0  0   3.24
+  VAL 27 C    0   ARG 42 B   32     0    0  0  0   4.47
+  VAL 28 C    0   PRO 30 B    5     0    0  0  0   3.41
+  VAL 28 C    0   GLN 29 B    5     0    0  0  0   4.55
+  VAL 28 C    0   VAL 31 B    5     0    0  0  0   4.76
+  VAL 28 C    0   ILE 32 B    5     0    0  0  0   3.6
+  VAL 28 C    0   ARG 26 B    4     0    0  0  0   4.03
+  VAL 28 C    0   GLU 34 C    6     0    0  0  0   3.91
+  VAL 28 C    0   ARG 42 B   32     0    0  0  0   3.68
+  GLN 29 C    0   PRO 30 B    5     0    0  0  0   2.96
+  GLN 29 C    0   VAL 31 B    5     0    0  0  0   3.32
+  GLN 29 C    0   ILE 32 B    5     0    0  0  0   3.05
+  GLN 29 C    0   GLN 29 B    5     0    0  0  0   4.08
+  GLN 29 C    0   ARG 26 B    4     0    0  0  0   3.43
+  GLN 29 C    0   GLN 29 B    4     0    0  0  0   3.73
+  GLN 29 C    0   VAL 27 B    4     0    0  0  0   3.15
+  GLN 29 C    0   VAL 28 B    4     0    0  0  0   4.96
+  GLN 29 C    0   ARG 26 C   33     0    0  0  0   3.39
+  PRO 30 C    0   ILE 32 B    5     0    0  0  0   3.33
+  PRO 30 C    0   GLU 34 B    5     0    0  0  0   4.21
+  PRO 30 C    0   VAL 27 B    4     0    0  0  0   3.78
+  PRO 30 C    0   VAL 28 B    4     0    0  0  0   3.31
+  PRO 30 C    0   GLN 29 B    4     0    0  0  0   2.91
+  PRO 30 C    0   ARG 26 B    4     0    0  0  0   4.02
+  PRO 30 C    0   ARG 42 C    6     0    0  0  0   4.02
+  VAL 31 C    0   GLU 34 B    5     0    0  0  0   2.74
+  VAL 31 C    0   ILE 32 B    5     0    0  0  0   2.75
+  VAL 31 C    0   VAL 33 B    5     0    0  0  0   3.52
+  VAL 31 C    0   VAL 31 B    5     0    0  0  0   3.64
+  VAL 31 C    0   VAL 31 B    4     0    0  0  0   4.25
+  VAL 31 C    0   GLN 29 B    4     0    0  0  0   3.17
+  VAL 31 C    0   VAL 28 B    4     0    0  0  0   4.05
+  ILE 32 C    0   GLU 34 B    5     0    0  0  0   4.08
+  ILE 32 C    0   ILE 36 B    5     0    0  0  0   3.24
+  ILE 32 C    0   PRO 30 B    4     0    0  0  0   3.42
+  ILE 32 C    0   VAL 31 B    4     0    0  0  0   2.76
+  ILE 32 C    0   VAL 28 B    4     0    0  0  0   3.33
+  ILE 32 C    0   GLN 29 B    4     0    0  0  0   3.13
+  VAL 33 C    0   GLU 34 B    5     0    0  0  0   4.81
+  VAL 33 C    0   VAL 33 B    5     0    0  0  0   3.91
+  VAL 33 C    0   ILE 36 B    5     0    0  0  0   3.9
+  VAL 33 C    0   VAL 33 B    4     0    0  0  0   3.79
+  VAL 33 C    0   VAL 31 B    4     0    0  0  0   3.42
+  GLU 34 C    0   ILE 36 B    5     0    0  0  0   4.63
+  GLU 34 C    0   GLN 40 B    5     0    0  0  0   4.58
+  GLU 34 C    0   GLY 41 B    5     0    0  0  0   4.1
+  GLU 34 C    0   ARG 42 B    5     0    0  0  0   3.44
+  GLU 34 C    0   ILE 32 B    4     0    0  0  0   3.97
+  GLU 34 C    0   VAL 33 B    4     0    0  0  0   4.89
+  GLU 34 C    0   VAL 31 B    4     0    0  0  0   2.72
+  GLU 34 C    0   PRO 30 B    4     0    0  0  0   4.09
+  GLU 34 C    0   VAL 28 C   33     0    0  0  0   3.91
+  PRO 35 C    0  VAL 133 B    5     0    0  0  0   3.87
+  PRO 35 C    0   ILE 36 B    5     0    0  0  0   3.9
+  PRO 35 C    0   GLY 41 B    5     0    0  0  0   4.61
+  PRO 35 C    0  TYR 190 A    6     0    0  0  0   3.54
+  PRO 35 C    0  VAL 189 A    6     0    0  0  0   3.53
+  ILE 36 C    0  TYR 190 C    5     0    0  0  0   3.62
+  ILE 36 C    0  VAL 133 B    5     0    0  0  0   3.7
+  ILE 36 C    0   VAL 33 B    4     0    0  0  0   4.48
+  ILE 36 C    0   PRO 35 B    4     0    0  0  0   3.97
+  ILE 36 C    0   ILE 32 B    4     0    0  0  0   3.7
+  ILE 36 C    0  VAL 189 A    6     0    0  0  0   4.49
+  ALA 37 C    0  TYR 190 C    5     0    0  0  0   3.59
+  ALA 37 C    0  ALA 135 B    5     0    0  0  0   3.54
+  ALA 37 C    0  VAL 133 B    5     0    0  0  0   3.84
+  ALA 37 C    0  ALA 136 B    5     0    0  0  0   4.36
+  ALA 37 C    0  MET 137 B    5     0    0  0  0   4.57
+  ALA 37 C    0   LEU 92 B    5     0    0  0  0   4.94
+  ALA 37 C    0  VAL 189 A    6     0    0  0  0   3.81
+  SER 38 C    0  ALA 135 B    5     0    0  0  0   3.31
+  SER 38 C    0  TYR 190 C    5     0    0  0  0   3.57
+  SER 38 C    0  ALA 136 B    5     0    0  0  0   3.51
+  SER 38 C    0  MET 137 B    5     0    0  0  0   2.8
+  SER 38 C    0  VAL 126 B    5     0    0  0  0   3.09
+  SER 38 C    0  ALA 125 B    5     0    0  0  0   3.47
+  SER 38 C    0  LEU 124 B    5     0    0  0  0   4.85
+  GLY 39 C    0  TYR 190 C    5     0    0  0  0   2.88
+  GLY 39 C    0  MET 137 B    5     0    0  0  0   3.57
+  GLY 39 C    0  ALA 125 B    5     0    0  0  0   3.68
+  GLY 39 C    0  LEU 124 B    5     0    0  0  0   4.18
+  GLY 39 C    0  PRO 139 B    5     0    0  0  0   3.61
+  GLY 39 C    0  PRO 188 C    5     0    0  0  0   4.56
+  GLN 40 C    0  TYR 190 C    5     0    0  0  0   3.74
+  GLN 40 C    0  MET 137 B    5     0    0  0  0   3.67
+  GLN 40 C    0   ILE 44 B    5     0    0  0  0   3.14
+  GLN 40 C    0   GLU 34 B    4     0    0  0  0   4.74
+  GLN 40 C    0  VAL 189 A    6     0    0  0  0   4.18
+  GLY 41 C    0  TYR 190 C    5     0    0  0  0   3.02
+  GLY 41 C    0  PRO 188 C    5     0    0  0  0   3.18
+  GLY 41 C    0   PRO 35 B    4     0    0  0  0   4.6
+  GLY 41 C    0   GLU 34 B    4     0    0  0  0   3.92
+  ARG 42 C    0  PRO 188 C    5     0    0  0  0   4.11
+  ARG 42 C    0  VAL 189 C    5     0    0  0  0   4.81
+  ARG 42 C    0   GLU 34 B    4     0    0  0  0   3.12
+  ARG 42 C    0   PRO 30 C   33     0    0  0  0   4.02
+  ARG 42 C    0   VAL 28 B   32     0    0  0  0   3.35
+  ARG 42 C    0   ARG 26 B   32     0    0  0  0   2.93
+  ARG 42 C    0   VAL 27 B   32     0    0  0  0   4.74
+  ALA 43 C    0  PHE 186 C    5     0    0  0  0   3.59
+  ALA 43 C    0  PRO 188 C    5     0    0  0  0   3.68
+  ALA 43 C    0  SER 185 C    5     0    0  0  0   4.3
+  ILE 44 C    0  PHE 186 C    5     0    0  0  0   2.85
+  ILE 44 C    0  SER 185 C    5     0    0  0  0   3.1
+  ILE 44 C    0  ASP 184 C    5     0    0  0  0   4.79
+  ILE 44 C    0   GLN 40 B    4     0    0  0  0   3.23
+  LYS 45 C    0  PHE 186 C    5     0    0  0  0   4.99
+  LYS 45 C    0  SER 185 C    5     0    0  0  0   3.56
+  LYS 45 C    0  ASP 184 C    5     0    0  0  0   3.78
+  ALA 46 C    0  SER 185 C    5     0    0  0  0   3.85
+  ALA 46 C    0  ASP 184 C    5     0    0  0  0   2.89
+  TYR 50 C    0  ASP 184 C    5     0    0  0  0   4.92
+  SER 51 C    0  ASP 183 C    5     0    0  0  0   3.8
+  SER 51 C    0  ASP 184 C    5     0    0  0  0   4.46
+  VAL 52 C    0  PHE 186 C    5     0    0  0  0   3.91
+  VAL 52 C    0  SER 185 C    5     0    0  0  0   3.9
+  VAL 52 C    0  ASP 183 C    5     0    0  0  0   3.07
+  VAL 52 C    0  ASP 184 C    5     0    0  0  0   4.61
+  SER 53 C    0  ASP 183 C    5     0    0  0  0   4.57
+  LYS 54 C    0  THR 187 C    5     0    0  0  0   4.06
+  LYS 54 C    0  ASP 183 C    5     0    0  0  0   3.37
+  LYS 54 C    0  SER 185 C    5     0    0  0  0   3.01
+  LYS 54 C    0  PHE 186 C    5     0    0  0  0   4.25
+  LYS 54 C    0  PHE 182 C    5     0    0  0  0   3.39
+  SER 58 C   27   GLU 63 C    9     1    0  0 -1   1.77
+  CYS 59 C   27   GLU 63 C    9     1    0  0 -1   3.26
+  ALA 60 C   40   ALA 60 C   20     2    1  0  0   2.29
+  ALA 60 C   40   ALA 61 C   20     2    1  0  0   4.65
+  ALA 60 C   20   ALA 60 C   40     2    1 -1  0   2.29
+  ALA 60 C   20   ALA 61 C   40     2    1 -1  0   4.6
+  ALA 60 C   19  THR 165 B   13     3   -1  0  0   4.22
+  ALA 60 C   19  GLU 166 B   13     3   -1  0  0   3.92
+  ALA 60 C   19   ALA 61 B   13     3   -1  0  0   4.34
+  ALA 61 C   40   ALA 60 C   20     2    1  0  0   4.6
+  ALA 61 C   40   ALA 69 C   20     2    1  0  0   2.64
+  ALA 61 C   40   SER 68 C   20     2    1  0  0   4.57
+  ALA 61 C   40   THR 71 C   20     2    1  0  0   4.66
+  ALA 61 C   40   ILE 70 C   20     2    1  0  0   4.46
+  ALA 61 C   20   ALA 60 C   40     2    1 -1  0   4.65
+  ALA 61 C   20   ALA 69 C   40     2    1 -1  0   2.39
+  ALA 61 C   20   SER 68 C   40     2    1 -1  0   4.36
+  ALA 61 C   20   ILE 70 C   40     2    1 -1  0   4.43
+  ALA 61 C   20   THR 71 C   40     2    1 -1  0   4.81
+  ALA 61 C   37   GLU 63 C    4     1    0  1 -1   3.85
+  ALA 61 C   19  THR 165 B   13     3   -1  0  0   3.84
+  ALA 61 C   19  GLU 166 B   13     3   -1  0  0   1.73
+  ALA 61 C   19  GLY 167 B   13     3   -1  0  0   3.71
+  ALA 61 C    9   LEU 98 C   27     1    0  0  0   4.48
+  ALA 61 C    9  THR 165 C   27     1    0  0  0   3.86
+  ALA 61 C    9  ASP 168 C   27     1    0  0  0   4.61
+  ALA 62 C   40   ALA 69 C   20     2    1  0  0   4.25
+  ALA 62 C   20   ALA 69 C   40     2    1 -1  0   4.37
+  ALA 62 C   37   GLU 63 C    4     1    0  1 -1   3.09
+  ALA 62 C   19  GLU 166 B   13     3   -1  0  0   2.7
+  ALA 62 C    9  THR 165 C   27     1    0  0  0   4.31
+  ALA 62 C    9  GLU 166 C   27     1    0  0  0   4.04
+  ALA 62 C   22  THR 115 B    6     3    0  0  1   4.66
+  GLU 63 C   40  ALA 116 C   20     2    1  0  0   1.28
+  GLU 63 C   40   THR 67 C   20     2    1  0  0   3.5
+  GLU 63 C   40   ALA 69 C   20     2    1  0  0   4.1
+  GLU 63 C   40   SER 68 C   20     2    1  0  0   4.79
+  GLU 63 C   40  TYR 157 C   20     2    1  0  0   3.26
+  GLU 63 C   40  THR 115 C   20     2    1  0  0   3.36
+  GLU 63 C   40  ALA 117 C   20     2    1  0  0   3.13
+  GLU 63 C   40  GLN 113 C   20     2    1  0  0   4.68
+  GLU 63 C   20  ALA 117 C   40     2    1 -1  0   2.86
+  GLU 63 C   20  ALA 116 C   40     2    1 -1  0   1.25
+  GLU 63 C   20   THR 67 C   40     2    1 -1  0   3.71
+  GLU 63 C   20  THR 115 C   40     2    1 -1  0   2.93
+  GLU 63 C   20   ALA 69 C   40     2    1 -1  0   4.5
+  GLU 63 C   20  TYR 157 C   40     2    1 -1  0   3.51
+  GLU 63 C   20  GLN 113 C   40     2    1 -1  0   4.72
+  GLU 63 C   20  THR 114 C   40     2    1 -1  0   4.91
+  GLU 63 C   45  GLU 148 A   25     2    1  0  0   3.63
+  GLU 63 C   45  ALA 152 A   25     2    1  0  0   4.77
+  GLU 63 C   45   LYS 84 A   25     2    1  0  0   3.56
+  GLU 63 C   25  GLU 148 A   45     2    1 -1  0   3.69
+  GLU 63 C   25   LYS 84 A   45     2    1 -1  0   3.79
+  GLU 63 C   25  ALA 152 A   45     2    1 -1  0   4.63
+  GLU 63 C   25  ASP 153 C   45     2    1 -1  0   4.93
+  GLU 63 C   37   GLU 63 C    4     1    0  1 -1   4.63
+  GLU 63 C   37   VAL 66 C    4     1    0  1 -1   4.45
+  GLU 63 C   19  GLU 166 B   13     3   -1  0  0   4.42
+  GLU 63 C   19   SER 58 B   13     3   -1  0  0   4.37
+  GLU 63 C    9  GLU 166 C   27     1    0  0  0   2.23
+  GLU 63 C    9  GLY 167 C   27     1    0  0  0   1.64
+  GLU 63 C    9  ASP 168 C   27     1    0  0  0   4.01
+  GLU 63 C    9   SER 58 C   27     1    0  0  0   1.77
+  GLU 63 C    9  VAL 169 C   27     1    0  0  0   4.73
+  GLU 63 C    9  ILE 170 C   27     1    0  0  0   3.42
+  GLU 63 C    9   CYS 59 C   27     1    0  0  0   3.26
+  GLU 63 C    9  GLN 121 B   16     1    0  0  0   4.62
+  GLU 63 C   22  THR 115 B    6     3    0  0  1   3.84
+  GLU 63 C   22  THR 114 B    6     3    0  0  1   4.11
+  GLU 63 C    2  ALA 163 A    7     3    0  0  1   4.29
+  GLU 63 C    2  LEU 164 A    7     3    0  0  1   3.72
+  GLU 63 C    2  ASP 168 A    7     3    0  0  1   1.38
+  GLU 63 C    2  THR 165 A    7     3    0  0  1   2.52
+  GLU 63 C    2  VAL 101 A    7     3    0  0  1   4.06
+  GLU 63 C   41   GLU 63 A   26     2    1  0  0   2.61
+  GLU 63 C   21   GLU 63 A   46     2    1 -1  0   3.02
+  GLU 63 C   35  THR 114 C   50     2    0  0  0   3.87
+  GLU 63 C    4  LEU 164 C   37     1    0  1  0   1.95
+  GLU 63 C    4  THR 165 C   37     1    0  1  0   2.2
+  GLU 63 C    4   ALA 61 C   37     1    0  1  0   3.85
+  GLU 63 C    4   ALA 62 C   37     1    0  1  0   3.09
+  GLU 63 C    4  ALA 163 C   37     1    0  1  0   4.07
+  GLU 63 C    4   GLU 63 C   37     1    0  1  0   4.63
+  GLU 63 C    4  GLU 166 C   37     1    0  1  0   4.34
+  GLU 63 C    4  ASP 168 C   37     1    0  1  0   4.74
+  GLU 63 C   14  THR 114 B   38     3    0  0  0   0.926
+  GLU 63 C   14  THR 115 B   38     3    0  0  0   2.65
+  GLU 63 C   14  GLN 113 B   38     3    0  0  0   4.07
+  GLU 63 C   14  ALA 116 B   38     3    0  0  0   4.82
+  GLU 63 C   16  SER 102 B   53     1    0  0 -1   4.33
+  GLU 63 C   16   LYS 65 C   54     1    0  0 -1   4.69
+  GLU 63 C    3   GLU 63 A   29     2    1  0  0   4.89
+  ALA 64 C   20  THR 114 C   40     2    1 -1  0   4.83
+  ALA 64 C   45   THR 71 A   25     2    1  0  0   4.14
+  ALA 64 C   25   THR 71 A   45     2    1 -1  0   4.55
+  ALA 64 C    9  GLU 166 C   27     1    0  0  0   3.78
+  ALA 64 C    2  THR 165 A    7     3    0  0  1   3.57
+  ALA 64 C   41   GLU 63 A   26     2    1  0  0   4.67
+  ALA 64 C   55   THR 71 A   30     2    0 -1  0   3.75
+  LYS 65 C    0  SER 100 B    4     0    0  0  0   4.52
+  LYS 65 C   45   THR 71 A   25     2    1  0  0   3.54
+  LYS 65 C   25   THR 71 A   45     2    1 -1  0   3.46
+  LYS 65 C    2  THR 165 A    7     3    0  0  1   4.89
+  LYS 65 C   41  THR 165 A   26     2    1  0  0   2.43
+  LYS 65 C   41  GLU 166 A   26     2    1  0  0   4.54
+  LYS 65 C   21  THR 165 A   46     2    1 -1  0   3.07
+  LYS 65 C   21  GLU 166 A   46     2    1 -1  0   4.99
+  LYS 65 C   31  GLU 166 A   51     2    0  0  0   3.57
+  LYS 65 C   51  GLU 166 A   31     2    0 -1  0   3.66
+  LYS 65 C   54   GLU 63 C   16     1    0  0  0   4.69
+  VAL 66 C   40   VAL 66 C   20     2    1  0  0   3.73
+  VAL 66 C   20   VAL 66 C   40     2    1 -1  0   3.73
+  VAL 66 C    9  GLU 166 C   27     1    0  0  0   2.27
+  VAL 66 C    9  THR 165 C   27     1    0  0  0   4.41
+  VAL 66 C    9  GLY 167 C   27     1    0  0  0   4.94
+  VAL 66 C    2  THR 165 A    7     3    0  0  1   2.5
+  VAL 66 C   35  THR 114 C   50     2    0  0  0   4.57
+  VAL 66 C    4   GLU 63 C   37     1    0  1  0   4.45
+  VAL 66 C   14  THR 115 B   38     3    0  0  0   4.78
+  THR 67 C    0   PRO 99 B    4     0    0  0  0   3.49
+  THR 67 C   40   GLU 63 C   20     2    1  0  0   3.71
+  THR 67 C   20   GLU 63 C   40     2    1 -1  0   3.5
+  THR 67 C   45  THR 114 C   25     2    1  0  0   4.71
+  THR 67 C   45  GLN 113 C   25     2    1  0  0   4.77
+  THR 67 C   25  GLN 113 C   45     2    1 -1  0   4.96
+  SER 68 C   40   ALA 61 C   20     2    1  0  0   4.36
+  SER 68 C   20   GLU 63 C   40     2    1 -1  0   4.79
+  SER 68 C   20   ALA 61 C   40     2    1 -1  0   4.57
+  SER 68 C    9  THR 165 C   27     1    0  0  0   4.43
+  ALA 69 C   40   ALA 61 C   20     2    1  0  0   2.39
+  ALA 69 C   40   ALA 62 C   20     2    1  0  0   4.37
+  ALA 69 C   40   GLU 63 C   20     2    1  0  0   4.5
+  ALA 69 C   20   GLU 63 C   40     2    1 -1  0   4.1
+  ALA 69 C   20   ALA 61 C   40     2    1 -1  0   2.64
+  ALA 69 C   20   ALA 62 C   40     2    1 -1  0   4.25
+  ILE 70 C   40   ALA 61 C   20     2    1  0  0   4.43
+  ILE 70 C   20   ALA 61 C   40     2    1 -1  0   4.46
+  THR 71 C   40  THR 165 C   20     2    1  0  0   3.73
+  THR 71 C   40   ALA 61 C   20     2    1  0  0   4.81
+  THR 71 C   40  GLU 166 C   20     2    1  0  0   4.61
+  THR 71 C   20  THR 165 C   40     2    1 -1  0   3.91
+  THR 71 C   20   ALA 61 C   40     2    1 -1  0   4.66
+  THR 71 C   20  GLU 166 C   40     2    1 -1  0   4.72
+  GLU 77 C    0   GLU 77 C    5     0    0  0  0   3.43
+  ARG 90 C    0  PHE 186 C    5     0    0  0  0   3.55
+  VAL 91 C    0  PHE 186 C    5     0    0  0  0   4.38
+  LEU 92 C    0  THR 187 C    5     0    0  0  0   3.84
+  LEU 92 C    0  PHE 186 C    5     0    0  0  0   3.61
+  LEU 92 C    0  VAL 189 C    5     0    0  0  0   4.3
+  TRP 94 C    0  THR 187 C    5     0    0  0  0   4.25
+  TRP 94 C    0  LEU 124 B    5     0    0  0  0   4.17
+  TRP 94 C    0  GLN 121 B    5     0    0  0  0   4.42
+  TRP 94 C    0  ALA 123 B    5     0    0  0  0   3.98
+  TRP 94 C    0  VAL 122 B    5     0    0  0  0   4.65
+  GLY 96 C    0  GLN 121 B    5     0    0  0  0   3.52
+  GLY 96 C    0  PHE 120 B    5     0    0  0  0   4.51
+  LEU 97 C    0  GLN 121 B    5     0    0  0  0   3.69
+  LEU 97 C    0  PHE 120 B    5     0    0  0  0   3.81
+  LEU 98 C    0  GLN 121 B    5     0    0  0  0   3.14
+  LEU 98 C    0  ALA 117 B    5     0    0  0  0   3.85
+  LEU 98 C    0  ALA 118 B    5     0    0  0  0   4.33
+  LEU 98 C    0  LYS 106 B    5     0    0  0  0   4.98
+  LEU 98 C   27   ALA 61 C    9     1    0  0 -1   4.48
+  LEU 98 C   22   GLU 63 B    6     3    0  0  1   4.29
+  PRO 99 C    0  PHE 120 B    5     0    0  0  0   3.64
+  PRO 99 C    0  ALA 117 B    5     0    0  0  0   3.46
+  PRO 99 C    0  LYS 106 B    5     0    0  0  0   2.94
+  PRO 99 C    0  TYR 159 B    5     0    0  0  0   3.55
+  PRO 99 C    0   THR 67 B    5     0    0  0  0   3.74
+ SER 100 C    0   LYS 65 B    5     0    0  0  0   4.42
+ SER 100 C    0  TYR 159 B    5     0    0  0  0   3.51
+ SER 102 C   45  THR 114 A   25     2    1  0  0   4.59
+ SER 102 C   45  GLN 113 A   25     2    1  0  0   4.43
+ SER 102 C   25  THR 114 A   45     2    1 -1  0   4.72
+ SER 102 C   25  GLN 113 A   45     2    1 -1  0   4.68
+ SER 102 C   55  THR 114 A   30     2    0 -1  0   4.54
+ LYS 106 C    0   PRO 99 B    4     0    0  0  0   3.01
+ LYS 106 C    0  SER 100 B    4     0    0  0  0   4.98
+ LYS 106 C    0   LEU 98 B    4     0    0  0  0   4.71
+ GLN 113 C   40   GLU 63 C   20     2    1  0  0   4.72
+ GLN 113 C   20   GLU 63 C   40     2    1 -1  0   4.68
+ GLN 113 C   45  ALA 116 C   25     2    1  0  0   4.67
+ GLN 113 C   45   THR 67 C   25     2    1  0  0   4.96
+ GLN 113 C   25   THR 67 C   45     2    1 -1  0   4.77
+ GLN 113 C   25  ALA 116 C   45     2    1 -1  0   4.62
+ THR 114 C   40   GLU 63 C   20     2    1  0  0   4.91
+ THR 114 C   40   ALA 64 C   20     2    1  0  0   4.83
+ THR 114 C   45  THR 115 C   25     2    1  0  0   2.21
+ THR 114 C   45  THR 114 C   25     2    1  0  0   4.34
+ THR 114 C   45  ALA 116 C   25     2    1  0  0   1.79
+ THR 114 C   45  ALA 117 C   25     2    1  0  0   3.15
+ THR 114 C   45  ALA 118 C   25     2    1  0  0   4.74
+ THR 114 C   25  THR 114 C   45     2    1 -1  0   4.34
+ THR 114 C   25  THR 115 C   45     2    1 -1  0   2.28
+ THR 114 C   25  ALA 116 C   45     2    1 -1  0   1.58
+ THR 114 C   25  ALA 117 C   45     2    1 -1  0   3.17
+ THR 114 C   25  ALA 118 C   45     2    1 -1  0   4.95
+ THR 114 C   25   THR 67 C   45     2    1 -1  0   4.71
+ THR 114 C   50   VAL 66 C   35     2    0 -1  0   4.57
+ THR 114 C   50   GLU 63 C   35     2    0 -1  0   3.87
+ THR 115 C   40   GLU 63 C   20     2    1  0  0   2.93
+ THR 115 C   20   GLU 63 C   40     2    1 -1  0   3.36
+ THR 115 C   45  THR 115 C   25     2    1  0  0   1.23
+ THR 115 C   45  THR 114 C   25     2    1  0  0   2.28
+ THR 115 C   45  ALA 116 C   25     2    1  0  0   3.79
+ THR 115 C   25  THR 114 C   45     2    1 -1  0   2.21
+ THR 115 C   25  THR 115 C   45     2    1 -1  0   1.23
+ THR 115 C   25  ALA 116 C   45     2    1 -1  0   3.59
+ THR 115 C   14  THR 165 C   19     3    0  0  0   3.36
+ ALA 116 C   40   GLU 63 C   20     2    1  0  0   1.25
+ ALA 116 C   20   GLU 63 C   40     2    1 -1  0   1.28
+ ALA 116 C   45  THR 114 C   25     2    1  0  0   1.58
+ ALA 116 C   45  THR 115 C   25     2    1  0  0   3.59
+ ALA 116 C   45  ALA 116 C   25     2    1  0  0   4.64
+ ALA 116 C   45  GLN 113 C   25     2    1  0  0   4.62
+ ALA 116 C   25  THR 114 C   45     2    1 -1  0   1.79
+ ALA 116 C   25  GLN 113 C   45     2    1 -1  0   4.67
+ ALA 116 C   25  THR 115 C   45     2    1 -1  0   3.79
+ ALA 116 C   25  ALA 116 C   45     2    1 -1  0   4.64
+ ALA 117 C    0   LEU 98 B    4     0    0  0  0   3.57
+ ALA 117 C    0   PRO 99 B    4     0    0  0  0   3.49
+ ALA 117 C   40   GLU 63 C   20     2    1  0  0   2.86
+ ALA 117 C   20   GLU 63 C   40     2    1 -1  0   3.13
+ ALA 117 C   45  THR 114 C   25     2    1  0  0   3.17
+ ALA 117 C   25  THR 114 C   45     2    1 -1  0   3.15
+ ALA 118 C    0   LEU 98 B    4     0    0  0  0   4.12
+ ALA 118 C   45  THR 114 C   25     2    1  0  0   4.95
+ ALA 118 C   25  THR 114 C   45     2    1 -1  0   4.74
+ PHE 120 C    0   PRO 99 B    4     0    0  0  0   3.68
+ PHE 120 C    0   LEU 97 B    4     0    0  0  0   3.86
+ PHE 120 C    0   GLY 96 B    4     0    0  0  0   4.54
+ PHE 120 C    0   LEU 98 B    4     0    0  0  0   4.99
+ GLN 121 C    0  ASP 168 B    4     0    0  0  0   2.98
+ GLN 121 C    0   LEU 98 B    4     0    0  0  0   3.47
+ GLN 121 C    0   GLY 96 B    4     0    0  0  0   3.35
+ GLN 121 C    0  ILE 170 B    4     0    0  0  0   3.53
+ GLN 121 C    0   LEU 97 B    4     0    0  0  0   3.72
+ GLN 121 C    0  GLY 167 B    4     0    0  0  0   2.97
+ GLN 121 C    0  VAL 169 B    4     0    0  0  0   3.75
+ GLN 121 C    0  HIS 172 B    4     0    0  0  0   2.76
+ GLN 121 C    0   TRP 94 B    4     0    0  0  0   4.31
+ VAL 122 C    0  HIS 172 B    4     0    0  0  0   4.31
+ VAL 122 C    0   TRP 94 B    4     0    0  0  0   4.65
+ ALA 123 C    0   TRP 94 B    4     0    0  0  0   4.24
+ LEU 124 C    0   TRP 94 B    4     0    0  0  0   4.84
+ LEU 124 C    0   GLY 39 B    4     0    0  0  0   4.13
+ LEU 124 C    0   SER 38 B    4     0    0  0  0   4.71
+ ALA 125 C    0   GLY 39 B    4     0    0  0  0   3.71
+ ALA 125 C    0   SER 38 B    4     0    0  0  0   3.38
+ VAL 126 C    0   SER 38 B    4     0    0  0  0   3
+ LYS 131 C    0  LYS 131 B    5     0    0  0  0   4.88
+ LYS 131 C    0  ASP 132 B    4     0    0  0  0   4.87
+ ASP 132 C    0  LYS 131 B    5     0    0  0  0   4.45
+ ASP 132 C    0  TYR 190 C    5     0    0  0  0   3.82
+ VAL 133 C    0  VAL 189 C    5     0    0  0  0   3.59
+ VAL 133 C    0  TYR 190 C    5     0    0  0  0   4.94
+ VAL 133 C    0   ALA 37 B    4     0    0  0  0   3.73
+ VAL 133 C    0   ILE 36 B    4     0    0  0  0   3.21
+ VAL 134 C    0  VAL 189 C    5     0    0  0  0   4.91
+ ALA 135 C    0  VAL 189 C    5     0    0  0  0   4.4
+ ALA 135 C    0   ALA 37 B    4     0    0  0  0   3.57
+ ALA 135 C    0   SER 38 B    4     0    0  0  0   3.42
+ ALA 136 C    0   SER 38 B    4     0    0  0  0   3.65
+ ALA 136 C    0   ALA 37 B    4     0    0  0  0   4.43
+ MET 137 C    0  PHE 186 C    5     0    0  0  0   4.87
+ MET 137 C    0  VAL 189 C    5     0    0  0  0   4.73
+ MET 137 C    0   GLY 39 B    4     0    0  0  0   3.57
+ MET 137 C    0   SER 38 B    4     0    0  0  0   2.86
+ MET 137 C    0   ALA 37 B    4     0    0  0  0   4.52
+ MET 137 C    0   GLN 40 B    4     0    0  0  0   3.59
+ PRO 139 C    0   GLY 39 B    4     0    0  0  0   3.71
+ PRO 139 C    0   GLN 40 B    4     0    0  0  0   4.89
+ ASP 153 C   45   GLU 63 C   25     2    1  0  0   4.93
+ TYR 157 C   40   GLU 63 C   20     2    1  0  0   3.51
+ TYR 157 C   20   GLU 63 C   40     2    1 -1  0   3.26
+ TYR 159 C    0   PRO 99 B    4     0    0  0  0   3.44
+ TYR 159 C    0  SER 100 B    4     0    0  0  0   3.39
+ SER 161 C   45   THR 71 A   25     2    1  0  0   3.95
+ SER 161 C   25   THR 71 A   45     2    1 -1  0   4.38
+ ALA 162 C   31   ALA 61 A   51     2    0  0  0   4.59
+ ALA 163 C   45  ALA 152 A   25     2    1  0  0   4.24
+ ALA 163 C   25  ALA 152 A   45     2    1 -1  0   4.47
+ ALA 163 C   37   GLU 63 C    4     1    0  1 -1   4.07
+ ALA 163 C   22  THR 114 B    6     3    0  0  1   2.94
+ ALA 163 C   22  THR 115 B    6     3    0  0  1   4.32
+ ALA 163 C    9  THR 115 B   16     1    0  0  0   3.5
+ ALA 163 C    9  THR 114 B   16     1    0  0  0   4.83
+ ALA 163 C   41   GLU 63 A   26     2    1  0  0   4.64
+ ALA 163 C   21   GLU 63 A   46     2    1 -1  0   4.87
+ LEU 164 C   37   GLU 63 C    4     1    0  1 -1   1.95
+ LEU 164 C   19  GLU 166 B   13     3   -1  0  0   5
+ LEU 164 C    9  THR 115 B   16     1    0  0  0   4.14
+ THR 165 C   40   THR 71 C   20     2    1  0  0   3.91
+ THR 165 C   20   THR 71 C   40     2    1 -1  0   3.73
+ THR 165 C   27   VAL 66 C    9     1    0  0 -1   4.41
+ THR 165 C   27   ALA 61 C    9     1    0  0 -1   3.86
+ THR 165 C   27   ALA 62 C    9     1    0  0 -1   4.31
+ THR 165 C   27   SER 68 C    9     1    0  0 -1   4.43
+ THR 165 C   37   GLU 63 C    4     1    0  1 -1   2.2
+ THR 165 C   22  ALA 116 B    6     3    0  0  1   4.6
+ THR 165 C   22   VAL 66 B    6     3    0  0  1   3.3
+ THR 165 C   22   THR 67 B    6     3    0  0  1   3.98
+ THR 165 C    9  ALA 116 B   16     1    0  0  0   3.79
+ THR 165 C    9  ALA 117 B   16     1    0  0  0   4.8
+ THR 165 C    9  THR 115 B   16     1    0  0  0   2.93
+ THR 165 C    9  THR 114 B   16     1    0  0  0   4.36
+ THR 165 C   30  THR 114 B   55     2    0  0  0   4.96
+ THR 165 C   50  THR 114 B   35     2    0 -1  0   4.54
+ THR 165 C   19  THR 115 C   14     3   -1  0  0   3.36
+ GLU 166 C   40   THR 71 C   20     2    1  0  0   4.72
+ GLU 166 C   20   THR 71 C   40     2    1 -1  0   4.61
+ GLU 166 C   27   GLU 63 C    9     1    0  0 -1   2.23
+ GLU 166 C   27   VAL 66 C    9     1    0  0 -1   2.27
+ GLU 166 C   27   ALA 64 C    9     1    0  0 -1   3.78
+ GLU 166 C   27   ALA 62 C    9     1    0  0 -1   4.04
+ GLU 166 C   37   GLU 63 C    4     1    0  1 -1   4.34
+ GLU 166 C   19  THR 165 B   13     3   -1  0  0   2.67
+ GLU 166 C   19  ASP 168 B   13     3   -1  0  0   4.8
+ GLU 166 C   19  GLU 166 B   13     3   -1  0  0   4.78
+ GLU 166 C   22   VAL 66 B    6     3    0  0  1   3.32
+ GLU 166 C   22   ALA 64 B    6     3    0  0  1   4.75
+ GLU 166 C    9   VAL 66 B   16     1    0  0  0   4.45
+ GLU 166 C   30  THR 114 B   55     2    0  0  0   4.88
+ GLY 167 C    0  GLN 121 B    5     0    0  0  0   2.95
+ GLY 167 C   27   GLU 63 C    9     1    0  0 -1   1.64
+ GLY 167 C   27   VAL 66 C    9     1    0  0 -1   4.94
+ GLY 167 C   22   GLU 63 B    6     3    0  0  1   3.65
+ ASP 168 C    0  GLN 121 B    5     0    0  0  0   2.96
+ ASP 168 C   27   GLU 63 C    9     1    0  0 -1   4.01
+ ASP 168 C   27   ALA 61 C    9     1    0  0 -1   4.61
+ ASP 168 C   37   GLU 63 C    4     1    0  1 -1   4.74
+ ASP 168 C   22   VAL 66 B    6     3    0  0  1   4.9
+ VAL 169 C    0  GLN 121 B    5     0    0  0  0   3.65
+ VAL 169 C   27   GLU 63 C    9     1    0  0 -1   4.73
+ ILE 170 C    0  GLN 121 B    5     0    0  0  0   3.52
+ ILE 170 C   27   GLU 63 C    9     1    0  0 -1   3.42
+ HIS 172 C    0  GLN 121 B    5     0    0  0  0   2.78
+ HIS 172 C    0  VAL 122 B    5     0    0  0  0   4.32
+ GLU 174 C    0  THR 187 C    5     0    0  0  0   2.6
+ GLU 174 C    0  PHE 186 C    5     0    0  0  0   3.54
+ GLU 174 C    0  SER 185 C    5     0    0  0  0   4.98
+ VAL 175 C    0  PHE 186 C    5     0    0  0  0   4.89
+ GLU 176 C    0  PHE 186 C    5     0    0  0  0   3.57
+ ARG 179 C    0  ARG 179 C    5     0    0  0  0   4.15
+ ARG 179 C    0  ASP 184 C    5     0    0  0  0   3.05
+ PHE 182 C    0   LYS 54 C    5     0    0  0  0   3.39
+ ASP 183 C    0   LYS 54 C    5     0    0  0  0   3.37
+ ASP 183 C    0   VAL 52 C    5     0    0  0  0   3.07
+ ASP 183 C    0   SER 51 C    5     0    0  0  0   3.8
+ ASP 183 C    0   SER 53 C    5     0    0  0  0   4.57
+ ASP 184 C    0  ARG 179 C    5     0    0  0  0   3.05
+ ASP 184 C    0   VAL 52 C    5     0    0  0  0   4.61
+ ASP 184 C    0   ALA 46 C    5     0    0  0  0   2.89
+ ASP 184 C    0   SER 51 C    5     0    0  0  0   4.46
+ ASP 184 C    0   TYR 50 C    5     0    0  0  0   4.92
+ ASP 184 C    0   LYS 45 C    5     0    0  0  0   3.78
+ ASP 184 C    0   ILE 44 C    5     0    0  0  0   4.79
+ SER 185 C    0   LYS 54 C    5     0    0  0  0   3.01
+ SER 185 C    0   VAL 52 C    5     0    0  0  0   3.9
+ SER 185 C    0   ILE 44 C    5     0    0  0  0   3.1
+ SER 185 C    0  GLU 174 C    5     0    0  0  0   4.98
+ SER 185 C    0   ALA 43 C    5     0    0  0  0   4.3
+ SER 185 C    0   LYS 45 C    5     0    0  0  0   3.56
+ SER 185 C    0   ALA 46 C    5     0    0  0  0   3.85
+ PHE 186 C    0   LYS 54 C    5     0    0  0  0   4.25
+ PHE 186 C    0   ALA 43 C    5     0    0  0  0   3.59
+ PHE 186 C    0   ILE 44 C    5     0    0  0  0   2.85
+ PHE 186 C    0  GLU 174 C    5     0    0  0  0   3.54
+ PHE 186 C    0   VAL 52 C    5     0    0  0  0   3.91
+ PHE 186 C    0   LYS 45 C    5     0    0  0  0   4.99
+ PHE 186 C    0   LEU 92 C    5     0    0  0  0   3.61
+ PHE 186 C    0  GLU 176 C    5     0    0  0  0   3.57
+ PHE 186 C    0  VAL 175 C    5     0    0  0  0   4.89
+ PHE 186 C    0   ARG 90 C    5     0    0  0  0   3.55
+ PHE 186 C    0   VAL 91 C    5     0    0  0  0   4.38
+ PHE 186 C    0  MET 137 C    5     0    0  0  0   4.87
+ THR 187 C    0   LYS 54 C    5     0    0  0  0   4.06
+ THR 187 C    0   TRP 94 C    5     0    0  0  0   4.25
+ THR 187 C    0  GLU 174 C    5     0    0  0  0   2.6
+ THR 187 C    0   LEU 92 C    5     0    0  0  0   3.84
+ PRO 188 C    0   GLY 41 C    5     0    0  0  0   3.18
+ PRO 188 C    0   ALA 43 C    5     0    0  0  0   3.68
+ PRO 188 C    0   ARG 42 C    5     0    0  0  0   4.11
+ PRO 188 C    0   GLY 39 C    5     0    0  0  0   4.56
+ VAL 189 C    0  ALA 135 C    5     0    0  0  0   4.4
+ VAL 189 C    0  VAL 133 C    5     0    0  0  0   3.59
+ VAL 189 C    0  VAL 134 C    5     0    0  0  0   4.91
+ VAL 189 C    0   LEU 92 C    5     0    0  0  0   4.3
+ VAL 189 C    0  MET 137 C    5     0    0  0  0   4.73
+ VAL 189 C    0   ARG 42 C    5     0    0  0  0   4.81
+ VAL 189 C    0   ALA 37 B    9     0    0  0  0   3.87
+ VAL 189 C    0   PRO 35 B    9     0    0  0  0   3.43
+ VAL 189 C    0   GLN 40 B    9     0    0  0  0   4.32
+ VAL 189 C    0   ILE 36 B    9     0    0  0  0   4.51
+ TYR 190 C    0   SER 38 C    5     0    0  0  0   3.57
+ TYR 190 C    0   GLY 39 C    5     0    0  0  0   2.88
+ TYR 190 C    0   GLN 40 C    5     0    0  0  0   3.74
+ TYR 190 C    0   GLY 41 C    5     0    0  0  0   3.02
+ TYR 190 C    0   ALA 37 C    5     0    0  0  0   3.59
+ TYR 190 C    0  ASP 132 C    5     0    0  0  0   3.82
+ TYR 190 C    0   ILE 36 C    5     0    0  0  0   3.62
+ TYR 190 C    0  VAL 133 C    5     0    0  0  0   4.94
+ TYR 190 C    0   PRO 35 B    9     0    0  0  0   3.17
+Residue buried areas, 516 residues
+  residue    ncs   buried
+  GLN 40 A    0     0
+  GLY 41 A    0     0.257
+  ARG 42 A    0     0
+  ALA 43 A    0     0.633
+  ILE 44 A    0     1.72
+  LYS 45 A    0     0
+  ALA 46 A    0     1.41
+  TYR 50 A    0     0
+  SER 51 A    0     0
+  VAL 52 A    0     1.24
+  LYS 54 A    0     0.824
+  ALA 61 A   30     0.959
+  ALA 61 A   51     0
+  GLU 63 A   30     0
+  GLU 63 A   26     2.88
+  GLU 63 A   46     0
+  GLU 63 A    6     1.21
+  GLU 63 A   29     0
+  LYS 65 A    0     0
+  LYS 65 A   13     0
+  THR 67 A    0     0
+  THR 67 A   13     0
+  THR 71 A   45     0
+  THR 71 A   25     0
+  THR 71 A   30     0
+  GLU 77 A    0     0
+  LYS 84 A   45     0
+  LYS 84 A   25     0
+  ARG 90 A    0     0
+  VAL 91 A    0     0
+  LEU 92 A    0     0
+  TRP 94 A    0     0
+  GLY 96 A    0     0.121
+  LEU 97 A    0     0
+  LEU 98 A    0     0.196
+  PRO 99 A    0     1.2
+ SER 100 A    0     0
+ SER 100 A   14     0
+ VAL 101 A    0     0
+ VAL 101 A    7     0
+ LYS 106 A    0     0.0278
+ GLN 113 A   45     0
+ GLN 113 A   25     0
+ THR 114 A   50     0
+ THR 114 A   30     8.37
+ THR 114 A   45     18.5
+ THR 114 A   25     20.7
+ THR 115 A   45     0
+ THR 115 A   25     0
+ ALA 117 A    0     0
+ ALA 117 A   13     0
+ ALA 118 A    0     0
+ PHE 120 A    0     0
+ GLN 121 A    0     3.14
+ VAL 122 A    0     0
+ ALA 123 A    0     0
+ LEU 124 A    0     0
+ ASN 129 A    0     0
+ SER 130 A    0     0
+ LYS 131 A    0     2.84
+ ASP 132 A    0     0.34
+ VAL 133 A    0     0
+ ALA 135 A    0     0
+ MET 137 A    0     0
+ PRO 139 A    0     0
+ GLU 140 A    0     0
+ GLU 148 A   45     0
+ GLU 148 A   25     0
+ ALA 152 A   45     0
+ ALA 152 A   25     0
+ TYR 159 A    0     1.18
+ ALA 163 A    7     0
+ ALA 163 A   14     1.87
+ LEU 164 A    7     0
+ THR 165 A    7     17.5
+ THR 165 A   14     16.4
+ THR 165 A   30     2.05
+ THR 165 A   26     6.4
+ THR 165 A   46     2.45
+ THR 165 A   45     0
+ THR 165 A   25     0
+ GLU 166 A   14     0
+ GLU 166 A   30     0
+ GLU 166 A   26     0
+ GLU 166 A   31     0
+ GLU 166 A   51     0
+ GLU 166 A   46     0
+ GLU 166 A   45     0
+ GLU 166 A   25     0
+ GLY 167 A    0     0.808
+ ASP 168 A    0     0.588
+ ASP 168 A    7     8.91
+ ASP 168 A   14     0
+ VAL 169 A    0     0
+ ILE 170 A    0     0.0424
+ HIS 172 A    0     1.37
+ GLU 174 A    0     1.78
+ VAL 175 A    0     0
+ GLU 176 A    0     0.141
+ ARG 179 A    0     1.53
+ PHE 182 A    0     0
+ ASP 183 A    0     0.0986
+ ASP 184 A    0     1.79
+ SER 185 A    0     1.81
+ PHE 186 A    0     1.1
+ THR 187 A    0     2.15
+ PRO 188 A    0     0.201
+ VAL 189 A    0     0.355
+ TYR 190 A    0     3.72
+  ARG 26 B    0     1.15
+  VAL 27 B    0     2.1
+  VAL 28 B    0     3.5
+  GLN 29 B    0     1.45
+  PRO 30 B    0     2.44
+  VAL 31 B    0     4.13
+  ILE 32 B    0     2.87
+  VAL 33 B    0     0
+  GLU 34 B    0     1.52
+  PRO 35 B    0     3.48
+  ILE 36 B    0     4.19
+  ALA 37 B    0     0.207
+  SER 38 B    0     1.45
+  GLY 39 B    0     1.54
+  GLN 40 B    0     3.07
+  GLY 41 B    0     0.604
+  ARG 42 B    0     0
+  ALA 43 B    0     0.201
+  ILE 44 B    0     4.55
+  LYS 45 B    0     0.0464
+  ALA 46 B    0     1.77
+  TYR 50 B    0     0
+  SER 51 B    0     0
+  VAL 52 B    0     0
+  LYS 54 B    0     0.363
+  TRP 55 B   30     0
+  SER 58 B   50     0
+  SER 58 B   30     0
+  SER 58 B    6     0
+  SER 58 B   13     0
+  CYS 59 B   50     0
+  CYS 59 B   30     0
+  ALA 60 B   50     13.3
+  ALA 60 B   30     9.59
+  ALA 60 B    6     0
+  ALA 60 B   35     0
+  ALA 60 B   55     0.541
+  ALA 61 B   50     0
+  ALA 61 B   30     0
+  ALA 61 B    6     0
+  ALA 61 B   35     5.74
+  ALA 61 B   55     16.1
+  ALA 61 B   13     0
+  ALA 62 B   30     0
+  ALA 62 B    6     0
+  ALA 62 B   35     3.65
+  ALA 62 B   55     7.08
+  GLU 63 B   50     15.9
+  GLU 63 B   30     25.7
+  GLU 63 B    6     6.01
+  GLU 63 B    1     0
+  GLU 63 B   35     20.6
+  GLU 63 B   55     8.87
+  GLU 63 B   18     0
+  ALA 64 B    6     0
+  ALA 64 B   18     3.74
+  ALA 64 B   49     0
+  ALA 64 B   29     0
+  ALA 64 B   59     2.05
+  LYS 65 B    0     0
+  LYS 65 B   50     7.24
+  LYS 65 B   30     0
+  LYS 65 B   18     1.9
+  LYS 65 B   49     0
+  LYS 65 B   40     27.2
+  LYS 65 B   29     0
+  LYS 65 B   20     22.3
+  LYS 65 B   41     1.18
+  VAL 66 B   50     2.23
+  VAL 66 B   30     2.93
+  VAL 66 B    1     0
+  VAL 66 B    6     2.72
+  VAL 66 B   16     0
+  THR 67 B    0     0.133
+  THR 67 B   50     0
+  THR 67 B    1     0
+  THR 67 B    6     0
+  SER 68 B   35     0
+  THR 71 B   50     3.01
+  THR 71 B   30     2.21
+  ILE 72 B   50     0.654
+  ILE 72 B   30     0
+  SER 73 B   50     22.7
+  SER 73 B   30     16.2
+  LEU 74 B   50     0.312
+  LEU 74 B   30     0
+  GLU 77 B    0     0
+  ARG 90 B    0     0
+  VAL 91 B    0     0
+  LEU 92 B    0     0.096
+  TRP 94 B    0     0
+  GLY 96 B    0     0.0565
+  LEU 97 B    0     0
+  LEU 98 B    0     0.082
+  PRO 99 B    0     1.11
+ SER 100 B    0     0
+ SER 102 B   59     0
+ SER 102 B   53     0
+ THR 104 B   59     0
+ LYS 106 B    0     0.581
+ THR 112 B   30     0
+ GLN 113 B   50     0
+ GLN 113 B   30     0
+ GLN 113 B   38     0
+ THR 114 B   50     15.3
+ THR 114 B   30     15.5
+ THR 114 B    1     0
+ THR 114 B    6     1.88
+ THR 114 B   38     15.6
+ THR 114 B   16     0
+ THR 114 B   45     0
+ THR 114 B   40     0
+ THR 114 B   25     0
+ THR 114 B   20     0
+ THR 114 B   35     0
+ THR 114 B   55     0
+ THR 115 B   30     0
+ THR 115 B    1     4.53
+ THR 115 B   35     0
+ THR 115 B   55     0
+ THR 115 B    6     0
+ THR 115 B   38     2.55
+ THR 115 B   16     2.1
+ ALA 116 B    1     0
+ ALA 116 B    6     0
+ ALA 116 B   38     0
+ ALA 116 B   16     0
+ ALA 117 B    0     0
+ ALA 117 B    1     0
+ ALA 117 B   16     0
+ ALA 118 B    0     0
+ ALA 118 B    1     2.66
+ PHE 120 B    0     0
+ GLN 121 B    0     5.96
+ GLN 121 B    1     0
+ GLN 121 B   16     0
+ VAL 122 B    0     0
+ ALA 123 B    0     0
+ LEU 124 B    0     0
+ ALA 125 B    0     0.444
+ VAL 126 B    0     0.05
+ LYS 131 B    0     0
+ ASP 132 B    0     0
+ VAL 133 B    0     0.355
+ ALA 135 B    0     0
+ ALA 136 B    0     0
+ MET 137 B    0     1.49
+ PRO 139 B    0     0
+ ALA 151 B   50     0
+ TYR 159 B    0     0.312
+ TYR 159 B   40     0
+ TYR 159 B   20     0
+ SER 161 B   18     5.86
+ SER 161 B   49     0
+ SER 161 B   40     0
+ SER 161 B   29     0
+ SER 161 B   59     0
+ SER 161 B   20     0
+ ALA 162 B   18     7.75
+ ALA 162 B   49     0
+ ALA 162 B   29     0
+ ALA 162 B   59     0.959
+ ALA 163 B    6     1.39
+ ALA 163 B   18     0
+ ALA 163 B   59     0
+ LEU 164 B    6     0
+ LEU 164 B   55     0
+ THR 165 B    6     0
+ THR 165 B   13     4.3
+ GLU 166 B   50     25.6
+ GLU 166 B   30     26.7
+ GLU 166 B    6     0
+ GLU 166 B   13     24.5
+ GLU 166 B   49     11.5
+ GLU 166 B   29     11.6
+ GLY 167 B    0     0.455
+ GLY 167 B   50     0
+ GLY 167 B   30     0
+ GLY 167 B   13     0
+ ASP 168 B    0     0.38
+ ASP 168 B   13     0
+ VAL 169 B    0     0
+ ILE 170 B    0     0
+ HIS 172 B    0     1.4
+ GLU 174 B    0     2.2
+ VAL 175 B    0     0
+ GLU 176 B    0     0.1
+ ARG 179 B    0     0
+ PHE 182 B    0     0
+ ASP 183 B    0     1.26
+ ASP 184 B    0     2.94
+ SER 185 B    0     1.99
+ PHE 186 B    0     1.31
+ THR 187 B    0     1.78
+ PRO 188 B    0     0
+ VAL 189 B    0     0
+ TYR 190 B    0     0.258
+  ARG 26 C    0     2.14
+  VAL 27 C    0     0
+  VAL 28 C    0     0.952
+  GLN 29 C    0     1.01
+  PRO 30 C    0     0.721
+  VAL 31 C    0     4.85
+  ILE 32 C    0     9.6
+  VAL 33 C    0     0
+  GLU 34 C    0     1.59
+  PRO 35 C    0     1.86
+  ILE 36 C    0     0.374
+  ALA 37 C    0     0
+  SER 38 C    0     1.31
+  GLY 39 C    0     1.3
+  GLN 40 C    0     2.37
+  GLY 41 C    0     0.82
+  ARG 42 C    0     1.57
+  ALA 43 C    0     0.469
+  ILE 44 C    0     3.9
+  LYS 45 C    0     1.16
+  ALA 46 C    0     0.827
+  TYR 50 C    0     0
+  SER 51 C    0     0
+  VAL 52 C    0     0.947
+  SER 53 C    0     0
+  LYS 54 C    0     0.449
+  SER 58 C   27     7.75
+  CYS 59 C   27     0
+  ALA 60 C   40     8.67
+  ALA 60 C   20     8.67
+  ALA 60 C   19     0
+  ALA 61 C   40     3.21
+  ALA 61 C   20     4.32
+  ALA 61 C   37     0
+  ALA 61 C   19     21.6
+  ALA 61 C    9     0
+  ALA 62 C   40     0
+  ALA 62 C   20     0
+  ALA 62 C   37     0
+  ALA 62 C   19     5.85
+  ALA 62 C    9     0
+  ALA 62 C   22     0
+  GLU 63 C   40     19.4
+  GLU 63 C   20     22.3
+  GLU 63 C   45     0
+  GLU 63 C   25     0
+  GLU 63 C   37     0
+  GLU 63 C   19     0
+  GLU 63 C    9     30.6
+  GLU 63 C   22     0
+  GLU 63 C    2     16
+  GLU 63 C   41     3.05
+  GLU 63 C   21     0
+  GLU 63 C   35     0
+  GLU 63 C    4     11.3
+  GLU 63 C   14     11.8
+  GLU 63 C   16     0
+  GLU 63 C    3     0
+  ALA 64 C   20     0
+  ALA 64 C   45     0
+  ALA 64 C   25     0
+  ALA 64 C    9     0
+  ALA 64 C    2     0
+  ALA 64 C   41     0
+  ALA 64 C   55     0
+  LYS 65 C    0     0
+  LYS 65 C   45     0
+  LYS 65 C   25     0
+  LYS 65 C    2     0
+  LYS 65 C   41     6.46
+  LYS 65 C   21     2.5
+  LYS 65 C   31     0
+  LYS 65 C   51     0
+  LYS 65 C   54     0
+  VAL 66 C   40     0.149
+  VAL 66 C   20     0.149
+  VAL 66 C    9     15.7
+  VAL 66 C    2     10
+  VAL 66 C   35     0
+  VAL 66 C    4     0
+  VAL 66 C   14     0
+  THR 67 C    0     0
+  THR 67 C   40     0
+  THR 67 C   20     0
+  THR 67 C   45     0
+  THR 67 C   25     0
+  SER 68 C   40     0
+  SER 68 C   20     0
+  SER 68 C    9     0
+  ALA 69 C   40     4.82
+  ALA 69 C   20     3.45
+  ILE 70 C   40     0
+  ILE 70 C   20     0
+  THR 71 C   40     0
+  THR 71 C   20     0
+  GLU 77 C    0     0
+  ARG 90 C    0     0
+  VAL 91 C    0     0
+  LEU 92 C    0     0.156
+  TRP 94 C    0     0
+  GLY 96 C    0     0
+  LEU 97 C    0     0
+  LEU 98 C    0     3.7
+  LEU 98 C   27     0
+  LEU 98 C   22     0
+  PRO 99 C    0     1.03
+ SER 100 C    0     0
+ SER 102 C   45     0
+ SER 102 C   25     0
+ SER 102 C   55     0
+ LYS 106 C    0     0.226
+ GLN 113 C   40     0
+ GLN 113 C   20     0
+ GLN 113 C   45     0
+ GLN 113 C   25     0
+ THR 114 C   40     0
+ THR 114 C   45     13.8
+ THR 114 C   25     12.4
+ THR 114 C   50     0
+ THR 115 C   40     0.598
+ THR 115 C   20     0
+ THR 115 C   45     29.8
+ THR 115 C   25     33.3
+ THR 115 C   14     0
+ ALA 116 C   40     20
+ ALA 116 C   20     19.5
+ ALA 116 C   45     6.8
+ ALA 116 C   25     5.76
+ ALA 117 C    0     0
+ ALA 117 C   40     0.955
+ ALA 117 C   20     0
+ ALA 117 C   45     0
+ ALA 117 C   25     0.194
+ ALA 118 C    0     0
+ ALA 118 C   45     0
+ ALA 118 C   25     0
+ PHE 120 C    0     0
+ GLN 121 C    0     2.39
+ VAL 122 C    0     0
+ ALA 123 C    0     0
+ LEU 124 C    0     0
+ ALA 125 C    0     0.316
+ VAL 126 C    0     0.481
+ LYS 131 C    0     0
+ ASP 132 C    0     0
+ VAL 133 C    0     0.655
+ VAL 134 C    0     0
+ ALA 135 C    0     0
+ ALA 136 C    0     0
+ MET 137 C    0     2.42
+ PRO 139 C    0     0
+ ASP 153 C   45     0
+ TYR 157 C   40     0
+ TYR 157 C   20     0
+ TYR 159 C    0     0.883
+ SER 161 C   45     0
+ SER 161 C   25     0
+ ALA 162 C   31     0
+ ALA 163 C   45     0
+ ALA 163 C   25     0
+ ALA 163 C   37     0
+ ALA 163 C   22     1.81
+ ALA 163 C    9     0
+ ALA 163 C   41     0
+ ALA 163 C   21     0
+ LEU 164 C   37     7.56
+ LEU 164 C   19     0
+ LEU 164 C    9     0
+ THR 165 C   40     0
+ THR 165 C   20     0
+ THR 165 C   27     0
+ THR 165 C   37     5.26
+ THR 165 C   22     2.72
+ THR 165 C    9     2.18
+ THR 165 C   30     0
+ THR 165 C   50     0
+ THR 165 C   19     0
+ GLU 166 C   40     0
+ GLU 166 C   20     0
+ GLU 166 C   27     26.8
+ GLU 166 C   37     0
+ GLU 166 C   19     4.29
+ GLU 166 C   22     0
+ GLU 166 C    9     0
+ GLU 166 C   30     0
+ GLY 167 C    0     0.524
+ GLY 167 C   27     17.9
+ GLY 167 C   22     0
+ ASP 168 C    0     0.498
+ ASP 168 C   27     0
+ ASP 168 C   37     0
+ ASP 168 C   22     0
+ VAL 169 C    0     0
+ VAL 169 C   27     0
+ ILE 170 C    0     0.0284
+ ILE 170 C   27     0
+ HIS 172 C    0     1.31
+ GLU 174 C    0     1.48
+ VAL 175 C    0     0
+ GLU 176 C    0     0.411
+ ARG 179 C    0     0.0262
+ PHE 182 C    0     0
+ ASP 183 C    0     0.931
+ ASP 184 C    0     0.86
+ SER 185 C    0     2.88
+ PHE 186 C    0     1.57
+ THR 187 C    0     1.47
+ PRO 188 C    0     1.08
+ VAL 189 C    0     0
+ TYR 190 C    0     4.54

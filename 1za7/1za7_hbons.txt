@@ -1,0 +1,405 @@
+crystalcontacts #2.1 distance 5
+69 pairs of asymmetric units of 1za7 #1 contact at distance 5.0 A
+  Atoms  MTRIX  SMTRY   Unit cell  MTRIXref  Copies
+   475     5      0      0  0  0      0        30
+   394     4      0      0  0  0      0        12
+   390     1      0      0  0  0      0        48
+    74    30      2      0 -1  0     50         1
+    74    50      2      0  0  0     30         1
+    64    20      2      1  0  0     40         1
+    63    40      2      1 -1  0     20         1
+    53    25      2      1  0  0     45         1
+    49    45      2      1 -1  0     25         1
+    32     9      1      0  0 -1     27         1
+    30     1      3     -1  0  1      6         1
+    28     4      1      0  1 -1     37         1
+    27     6      3      0  0  1      1         1
+    25    13      3     -1  0  0     19         1
+    25    27      1      0  0  0      9         1
+    24    55      2      0  0  0     35         1
+    22    35      2      0 -1  0     55         1
+    22     6      3      0  0  1     22         1
+    22    14      3     -1  0  0     18         1
+    22     2      3     -1  0  1      7         1
+    21    19      3      0  0  0     13         1
+    20    22      3     -1  0  1      6         1
+    20    22      0      0  0  0      0        30
+    20     6      0      0  0  0      0        30
+    18    18      3      0  0  0     14         1
+    18     7      3      0  0  1      2         1
+    18    33      0      0  0  0      0        30
+    17     9      0      0  0  0      0        30
+    16    14      3     -1  0  0     38         1
+    16     9      1      0  0 -1     16         1
+    16    23      0      0  0  0      0        30
+    15    16      1      0  0  0      9         1
+    14    32      0      0  0  0      0        30
+    12    26      2      1  0  0     41         1
+    11    25      2      1  0  0     49         1
+    11    20      2      1  0  0     45         1
+    11    25      2      1  0  0     40         1
+    11    45      2      1 -1  0     29         1
+    11    40      2      1 -1  0     25         1
+    10    30      2      0 -1  0     59         1
+    10    59      2      0  0  0     30         1
+    10    41      2      1 -1  0     26         1
+    10    46      2      1 -1  0     21         1
+     9    51      2      0  0  0     31         1
+     9    45      2      1 -1  0     20         1
+     8    31      2      0 -1  0     51         1
+     8    21      2      1  0  0     46         1
+     7    29      2      1  0  0     45         1
+     7    50      2      0  0  0     35         1
+     7    55      2      0  0  0     30         1
+     7    49      2      1 -1  0     25         1
+     7    37      1      0  1  0      4         1
+     6    38      3      0  0  0     14         1
+     5    30      2      0 -1  0     55         1
+     5    29      2      1  0  0     49         1
+     5     6      3      0  0  1     41         1
+     5    49      2      1 -1  0     29         1
+     3    35      2      0 -1  0     50         1
+     3    14      3     -1  0  0     19         1
+     3    13      3     -1  0  0     18         1
+     3    53      1      0  0 -1     16         1
+     3    19      3      0  0  0     14         1
+     3    18      3      0  0  0     13         1
+     3    41      3     -1  0  1      6         1
+     2    16      1      0  0  0     53         1
+     1    16      1      0  0  0     54         1
+     1     3      2      1 -1  0     29         1
+     1    54      1      0  0 -1     16         1
+     1    29      2      1  0  0      3         1
+
+save "C:/Users/voula/Desktop/asb project/1za7/crystal_contacts_5A.jpg" width 1339 height 803 supersample 3
+hbonds sel restrict cross reveal true log true
+Finding intermodel H-bonds
+Finding intramodel H-bonds
+Constraints relaxed by 0.4 angstroms and 20 degrees
+Models used:
+	2.1 1za7 #1
+	2.2 1za7 #2
+	2.3 1za7 #3
+	2.4 1za7 #4
+	1.1 1za7 #1 0 0 0 sym 0 ncs 5
+	1.2 1za7 #1 0 0 0 sym 0 ncs 4
+	1.3 1za7 #1 0 0 0 sym 0 ncs 1
+	1.4 1za7 #1 0 0 0 sym 0 ncs 50
+	1.5 1za7 #1 0 -1 0 sym 2 ncs 30
+	1.6 1za7 #1 0 0 0 sym 0 ncs 30
+	1.7 1za7 #1 0 0 0 sym 2 ncs 50
+	1.8 1za7 #1 0 0 0 sym 0 ncs 40
+	1.9 1za7 #1 1 0 0 sym 2 ncs 20
+	1.10 1za7 #1 0 0 0 sym 0 ncs 20
+	1.11 1za7 #1 1 -1 0 sym 2 ncs 40
+	1.12 1za7 #1 0 0 0 sym 0 ncs 45
+	1.13 1za7 #1 1 0 0 sym 2 ncs 25
+	1.14 1za7 #1 0 0 0 sym 0 ncs 25
+	1.15 1za7 #1 1 -1 0 sym 2 ncs 45
+	1.16 1za7 #1 0 0 0 sym 0 ncs 27
+	1.17 1za7 #1 0 0 -1 sym 1 ncs 9
+	1.18 1za7 #1 0 0 0 sym 0 ncs 6
+	1.19 1za7 #1 -1 0 1 sym 3 ncs 1
+	1.20 1za7 #1 0 0 0 sym 0 ncs 37
+	1.21 1za7 #1 0 1 -1 sym 1 ncs 4
+	1.22 1za7 #1 0 0 1 sym 3 ncs 6
+	1.23 1za7 #1 0 0 0 sym 0 ncs 19
+	1.24 1za7 #1 -1 0 0 sym 3 ncs 13
+	1.25 1za7 #1 0 0 0 sym 0 ncs 9
+	1.26 1za7 #1 0 0 0 sym 1 ncs 27
+	1.27 1za7 #1 0 0 0 sym 0 ncs 35
+	1.28 1za7 #1 0 0 0 sym 2 ncs 55
+	1.29 1za7 #1 0 0 0 sym 0 ncs 55
+	1.30 1za7 #1 0 -1 0 sym 2 ncs 35
+	1.31 1za7 #1 0 0 0 sym 0 ncs 22
+	1.32 1za7 #1 0 0 0 sym 0 ncs 18
+	1.33 1za7 #1 -1 0 0 sym 3 ncs 14
+	1.34 1za7 #1 0 0 0 sym 0 ncs 7
+	1.35 1za7 #1 -1 0 1 sym 3 ncs 2
+	1.36 1za7 #1 0 0 0 sym 0 ncs 13
+	1.37 1za7 #1 0 0 0 sym 3 ncs 19
+	1.38 1za7 #1 -1 0 1 sym 3 ncs 22
+	1.39 1za7 #1 0 0 0 sym 0 ncs 14
+	1.40 1za7 #1 0 0 0 sym 3 ncs 18
+	1.41 1za7 #1 0 0 0 sym 0 ncs 2
+	1.42 1za7 #1 0 0 1 sym 3 ncs 7
+	1.43 1za7 #1 0 0 0 sym 0 ncs 33
+	1.44 1za7 #1 0 0 0 sym 0 ncs 38
+	1.45 1za7 #1 0 0 0 sym 0 ncs 16
+	1.46 1za7 #1 0 0 0 sym 0 ncs 23
+	1.47 1za7 #1 0 0 0 sym 1 ncs 16
+	1.48 1za7 #1 0 0 0 sym 0 ncs 32
+	1.49 1za7 #1 0 0 0 sym 0 ncs 41
+	1.50 1za7 #1 1 0 0 sym 2 ncs 26
+	1.51 1za7 #1 0 0 0 sym 0 ncs 49
+	1.52 1za7 #1 0 0 0 sym 0 ncs 29
+	1.53 1za7 #1 0 0 0 sym 0 ncs 59
+	1.54 1za7 #1 0 0 0 sym 2 ncs 59
+	1.55 1za7 #1 0 0 0 sym 0 ncs 26
+	1.56 1za7 #1 1 -1 0 sym 2 ncs 41
+	1.57 1za7 #1 0 0 0 sym 0 ncs 21
+	1.58 1za7 #1 1 -1 0 sym 2 ncs 46
+	1.59 1za7 #1 0 0 0 sym 0 ncs 31
+	1.60 1za7 #1 0 0 0 sym 2 ncs 51
+	1.61 1za7 #1 0 0 0 sym 0 ncs 51
+	1.62 1za7 #1 0 -1 0 sym 2 ncs 31
+	1.63 1za7 #1 0 0 0 sym 0 ncs 46
+	1.64 1za7 #1 1 0 0 sym 2 ncs 21
+	1.65 1za7 #1 1 0 0 sym 2 ncs 29
+	1.66 1za7 #1 1 -1 0 sym 2 ncs 49
+	1.67 1za7 #1 0 1 0 sym 1 ncs 37
+	1.68 1za7 #1 0 0 0 sym 3 ncs 38
+	1.69 1za7 #1 0 0 -1 sym 1 ncs 53
+	1.70 1za7 #1 -1 0 1 sym 3 ncs 41
+	1.71 1za7 #1 0 0 0 sym 0 ncs 53
+	1.72 1za7 #1 0 0 0 sym 0 ncs 54
+	1.73 1za7 #1 1 -1 0 sym 2 ncs 3
+	1.74 1za7 #1 0 0 -1 sym 1 ncs 54
+	1.75 1za7 #1 0 0 0 sym 0 ncs 3
+
+144 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B GLN 29 NE2    1za7 #1 #2.1/C VAL 27 O                       no hydrogen  3.292  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B ILE 32 N      1za7 #1 #2.1/C GLN 29 O                       no hydrogen  3.053  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B GLU 34 N      1za7 #1 #2.1/C VAL 31 O                       no hydrogen  2.739  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B LYS 106 NZ    1za7 #1 #2.1/C PRO 99 O                       no hydrogen  2.938  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B GLN 121 NE2   1za7 #1 #2.1/C GLY 96 O                       no hydrogen  3.547  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B GLN 121 NE2   1za7 #1 #2.1/C GLY 167 O                      no hydrogen  2.951  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B GLN 121 NE2   1za7 #1 #2.1/C ASP 168 O                      no hydrogen  2.956  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B VAL 126 N     1za7 #1 #2.1/C SER 38 OG                      no hydrogen  3.090  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B MET 137 N     1za7 #1 #2.1/C SER 38 O                       no hydrogen  2.799  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ARG 26 NH1    1za7 #1 #2.1/B GLN 29 OE1                     no hydrogen  3.298  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C GLN 29 N      1za7 #1 #2.1/B PRO 30 O                       no hydrogen  2.963  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C VAL 31 N      1za7 #1 #2.1/B ILE 32 O                       no hydrogen  2.747  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C SER 38 N      1za7 #1 #2.1/B ALA 135 O                      no hydrogen  3.307  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C SER 38 OG     1za7 #1 #2.1/B VAL 126 O                      no hydrogen  3.493  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C GLY 39 N      1za7 #1 #2.1/C TYR 190 OXT                    no hydrogen  2.880  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C GLY 41 N      1za7 #1 #2.1/C TYR 190 O                      no hydrogen  3.019  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ALA 46 N      1za7 #1 #2.1/C ASP 184 O                      no hydrogen  2.886  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C VAL 52 N      1za7 #1 #2.1/C ASP 183 O                      no hydrogen  3.066  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C LYS 54 NZ     1za7 #1 #2.1/C PHE 182 O                      no hydrogen  3.387  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C LYS 54 NZ     1za7 #1 #2.1/C ASP 183 OD2                    no hydrogen  3.365  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C LYS 54 NZ     1za7 #1 #2.1/C SER 185 O                      no hydrogen  3.011  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C HIS 172 NE2   1za7 #1 #2.1/B GLN 121 O                      no hydrogen  2.784  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ARG 179 NH2   1za7 #1 #2.1/C ASP 184 OD2                    no hydrogen  3.055  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C PHE 186 N     1za7 #1 #2.1/C ILE 44 O                       no hydrogen  2.848  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C THR 187 N     1za7 #1 #2.1/C GLU 174 OE1                    no hydrogen  3.020  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C THR 187 OG1   1za7 #1 #2.1/C GLU 174 OE1                    no hydrogen  3.306  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C THR 187 OG1   1za7 #1 #2.1/C GLU 174 OE2                    no hydrogen  2.598  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/A LYS 106 NZ    1za7 #1 #2.1/A PRO 99 O                       no hydrogen  3.054  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/A GLN 121 NE2   1za7 #1 #2.1/A GLY 167 O                      no hydrogen  2.892  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/A GLN 121 NE2   1za7 #1 #2.1/A ASP 168 O                      no hydrogen  2.937  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/A LYS 131 NZ    1za7 #1 #2.1/A ASN 129 O                      no hydrogen  3.302  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/A LYS 131 NZ    1za7 #1 #2.1/A LYS 131 O                      no hydrogen  2.762  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/A ASP 132 N     1za7 #1 #2.1/A ASP 132 OD1                    no hydrogen  3.024  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ARG 26 NH2    1za7 #1 #2.1/C VAL 27 O                       no hydrogen  3.242  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLN 29 N      1za7 #1 #2.1/C PRO 30 O                       no hydrogen  2.910  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B VAL 31 N      1za7 #1 #2.1/C ILE 32 O                       no hydrogen  2.762  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B SER 38 OG     1za7 #1 #2.1/C VAL 126 O                      no hydrogen  3.495  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLY 39 N      1za7 #1 #2.1/A TYR 190 O                      no hydrogen  2.824  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLY 41 N      1za7 #1 #2.1/A TYR 190 OXT                    no hydrogen  2.936  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ALA 46 N      1za7 #1 #2.1/A ASP 184 O                      no hydrogen  2.765  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B VAL 52 N      1za7 #1 #2.1/A ASP 183 O                      no hydrogen  3.355  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B LYS 54 NZ     1za7 #1 #2.1/A PHE 182 O                      no hydrogen  3.477  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B LYS 54 NZ     1za7 #1 #2.1/A SER 185 O                      no hydrogen  3.023  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B HIS 172 NE2   1za7 #1 #2.1/C GLN 121 O                      no hydrogen  2.765  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ARG 179 NH1   1za7 #1 #2.1/A ASP 184 OD1                    no hydrogen  3.417  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ARG 179 NH2   1za7 #1 #2.1/A ASP 184 OD1                    no hydrogen  3.200  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B PHE 186 N     1za7 #1 #2.1/A ILE 44 O                       no hydrogen  2.949  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B THR 187 N     1za7 #1 #2.1/A GLU 174 OE1                    no hydrogen  2.945  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B THR 187 OG1   1za7 #1 #2.1/A GLU 174 OE1                    no hydrogen  3.238  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B THR 187 OG1   1za7 #1 #2.1/A GLU 174 OE2                    no hydrogen  2.626  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ALA 46 N      1za7 #1 #2.1/B ASP 184 O                      no hydrogen  2.762  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A VAL 52 N      1za7 #1 #2.1/B ASP 183 O                      no hydrogen  2.799  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A LYS 54 NZ     1za7 #1 #2.1/B PHE 182 O                      no hydrogen  3.484  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A LYS 54 NZ     1za7 #1 #2.1/B SER 185 O                      no hydrogen  2.952  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A HIS 172 NE2   1za7 #1 #2.1/A GLN 121 O                      no hydrogen  2.771  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A PHE 186 N     1za7 #1 #2.1/B ILE 44 O                       no hydrogen  2.869  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A THR 187 N     1za7 #1 #2.1/B GLU 174 OE1                    no hydrogen  2.926  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A THR 187 OG1   1za7 #1 #2.1/B GLU 174 OE1                    no hydrogen  3.515  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A THR 187 OG1   1za7 #1 #2.1/B GLU 174 OE2                    no hydrogen  2.653  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A TYR 190 OH    1za7 #1 #2.1/B ILE 36 O                       no hydrogen  3.360  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C ILE 32 N      1za7 #1 #2.1/B GLN 29 O                       no hydrogen  3.126  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C GLU 34 N      1za7 #1 #2.1/B VAL 31 O                       no hydrogen  2.724  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C ARG 42 N      1za7 #1 #2.1/B GLU 34 OE1                     no hydrogen  3.124  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C LYS 106 NZ    1za7 #1 #2.1/B PRO 99 O                       no hydrogen  3.013  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C GLN 121 NE2   1za7 #1 #2.1/B GLY 96 O                       no hydrogen  3.353  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C GLN 121 NE2   1za7 #1 #2.1/B GLY 167 O                      no hydrogen  2.965  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C GLN 121 NE2   1za7 #1 #2.1/B ASP 168 O                      no hydrogen  2.981  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C VAL 126 N     1za7 #1 #2.1/B SER 38 OG                      no hydrogen  3.001  N/A
+1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C MET 137 N     1za7 #1 #2.1/B SER 38 O                       no hydrogen  2.860  N/A
+1za7 #1 0 0 0 sym 0 ncs 33 #1.43/C ARG 26 NH2  1za7 #1 #2.1/C GLN 29 OE1                     no hydrogen  3.385  N/A
+1za7 #1 0 0 0 sym 0 ncs 23 #1.46/C ARG 42 NH1  1za7 #1 #2.1/B ARG 26 O                       no hydrogen  2.929  N/A
+1za7 #1 0 0 0 sym 0 ncs 32 #1.48/B ARG 42 NH1  1za7 #1 #2.1/C ARG 26 O                       no hydrogen  3.511  N/A
+1za7 #1 #2.1/A ALA 46 N                        1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ASP 184 O    no hydrogen  2.762  N/A
+1za7 #1 #2.1/A VAL 52 N                        1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ASP 183 O    no hydrogen  2.799  N/A
+1za7 #1 #2.1/A LYS 54 NZ                       1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B PHE 182 O    no hydrogen  3.484  N/A
+1za7 #1 #2.1/A LYS 54 NZ                       1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B SER 185 O    no hydrogen  2.952  N/A
+1za7 #1 #2.1/A LYS 106 NZ                      1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A PRO 99 O     no hydrogen  3.054  N/A
+1za7 #1 #2.1/A GLN 121 NE2                     1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A GLY 167 O    no hydrogen  2.892  N/A
+1za7 #1 #2.1/A GLN 121 NE2                     1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ASP 168 O    no hydrogen  2.937  N/A
+1za7 #1 #2.1/A LYS 131 NZ                      1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ASN 129 O    no hydrogen  3.302  N/A
+1za7 #1 #2.1/A LYS 131 NZ                      1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A LYS 131 O    no hydrogen  2.762  N/A
+1za7 #1 #2.1/A ASP 132 N                       1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ASP 132 OD1  no hydrogen  3.024  N/A
+1za7 #1 #2.1/A HIS 172 NE2                     1za7 #1 0 0 0 sym 0 ncs 4 #1.2/A GLN 121 O    no hydrogen  2.771  N/A
+1za7 #1 #2.1/A PHE 186 N                       1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ILE 44 O     no hydrogen  2.869  N/A
+1za7 #1 #2.1/A THR 187 N                       1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLU 174 OE1  no hydrogen  2.926  N/A
+1za7 #1 #2.1/A THR 187 OG1                     1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLU 174 OE1  no hydrogen  3.515  N/A
+1za7 #1 #2.1/A THR 187 OG1                     1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLU 174 OE2  no hydrogen  2.653  N/A
+1za7 #1 #2.1/A TYR 190 OH                      1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ILE 36 O     no hydrogen  3.360  N/A
+1za7 #1 #2.1/B ARG 26 NH2                      1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C VAL 27 O     no hydrogen  3.242  N/A
+1za7 #1 #2.1/B GLN 29 N                        1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C PRO 30 O     no hydrogen  2.910  N/A
+1za7 #1 #2.1/B GLN 29 NE2                      1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C VAL 27 O     no hydrogen  3.292  N/A
+1za7 #1 #2.1/B VAL 31 N                        1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C ILE 32 O     no hydrogen  2.762  N/A
+1za7 #1 #2.1/B ILE 32 N                        1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C GLN 29 O     no hydrogen  3.053  N/A
+1za7 #1 #2.1/B GLU 34 N                        1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C VAL 31 O     no hydrogen  2.739  N/A
+1za7 #1 #2.1/B SER 38 OG                       1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C VAL 126 O    no hydrogen  3.495  N/A
+1za7 #1 #2.1/B GLY 39 N                        1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A TYR 190 O    no hydrogen  2.824  N/A
+1za7 #1 #2.1/B GLY 41 N                        1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A TYR 190 OXT  no hydrogen  2.936  N/A
+1za7 #1 #2.1/B ARG 42 NH1                      1za7 #1 0 0 0 sym 0 ncs 23 #1.46/C ARG 26 O   no hydrogen  3.511  N/A
+1za7 #1 #2.1/B ALA 46 N                        1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ASP 184 O    no hydrogen  2.765  N/A
+1za7 #1 #2.1/B VAL 52 N                        1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ASP 183 O    no hydrogen  3.355  N/A
+1za7 #1 #2.1/B LYS 54 NZ                       1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A PHE 182 O    no hydrogen  3.477  N/A
+1za7 #1 #2.1/B LYS 54 NZ                       1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A SER 185 O    no hydrogen  3.023  N/A
+1za7 #1 #2.1/B LYS 106 NZ                      1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C PRO 99 O     no hydrogen  2.938  N/A
+1za7 #1 #2.1/B GLN 121 NE2                     1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C GLY 96 O     no hydrogen  3.547  N/A
+1za7 #1 #2.1/B GLN 121 NE2                     1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C GLY 167 O    no hydrogen  2.951  N/A
+1za7 #1 #2.1/B GLN 121 NE2                     1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ASP 168 O    no hydrogen  2.956  N/A
+1za7 #1 #2.1/B VAL 126 N                       1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C SER 38 OG    no hydrogen  3.090  N/A
+1za7 #1 #2.1/B MET 137 N                       1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C SER 38 O     no hydrogen  2.799  N/A
+1za7 #1 #2.1/B HIS 172 NE2                     1za7 #1 0 0 0 sym 0 ncs 1 #1.3/C GLN 121 O    no hydrogen  2.765  N/A
+1za7 #1 #2.1/B ARG 179 NH1                     1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ASP 184 OD1  no hydrogen  3.417  N/A
+1za7 #1 #2.1/B ARG 179 NH2                     1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ASP 184 OD1  no hydrogen  3.200  N/A
+1za7 #1 #2.1/B PHE 186 N                       1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ILE 44 O     no hydrogen  2.949  N/A
+1za7 #1 #2.1/B THR 187 N                       1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A GLU 174 OE1  no hydrogen  2.945  N/A
+1za7 #1 #2.1/B THR 187 OG1                     1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A GLU 174 OE1  no hydrogen  3.238  N/A
+1za7 #1 #2.1/B THR 187 OG1                     1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A GLU 174 OE2  no hydrogen  2.626  N/A
+1za7 #1 #2.1/C ARG 26 NH1                      1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B GLN 29 OE1   no hydrogen  3.298  N/A
+1za7 #1 #2.1/C ARG 26 NH2                      1za7 #1 0 0 0 sym 0 ncs 6 #1.18/C GLN 29 OE1  no hydrogen  3.385  N/A
+1za7 #1 #2.1/C GLN 29 N                        1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B PRO 30 O     no hydrogen  2.963  N/A
+1za7 #1 #2.1/C VAL 31 N                        1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B ILE 32 O     no hydrogen  2.747  N/A
+1za7 #1 #2.1/C ILE 32 N                        1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLN 29 O     no hydrogen  3.126  N/A
+1za7 #1 #2.1/C GLU 34 N                        1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B VAL 31 O     no hydrogen  2.724  N/A
+1za7 #1 #2.1/C SER 38 N                        1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B ALA 135 O    no hydrogen  3.307  N/A
+1za7 #1 #2.1/C SER 38 OG                       1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B VAL 126 O    no hydrogen  3.493  N/A
+1za7 #1 #2.1/C GLY 39 N                        1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C TYR 190 OXT  no hydrogen  2.880  N/A
+1za7 #1 #2.1/C GLY 41 N                        1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C TYR 190 O    no hydrogen  3.019  N/A
+1za7 #1 #2.1/C ARG 42 N                        1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLU 34 OE1   no hydrogen  3.124  N/A
+1za7 #1 #2.1/C ARG 42 NH1                      1za7 #1 0 0 0 sym 0 ncs 32 #1.48/B ARG 26 O   no hydrogen  2.929  N/A
+1za7 #1 #2.1/C ALA 46 N                        1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ASP 184 O    no hydrogen  2.886  N/A
+1za7 #1 #2.1/C VAL 52 N                        1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ASP 183 O    no hydrogen  3.066  N/A
+1za7 #1 #2.1/C LYS 54 NZ                       1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C PHE 182 O    no hydrogen  3.387  N/A
+1za7 #1 #2.1/C LYS 54 NZ                       1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ASP 183 OD2  no hydrogen  3.365  N/A
+1za7 #1 #2.1/C LYS 54 NZ                       1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C SER 185 O    no hydrogen  3.011  N/A
+1za7 #1 #2.1/C LYS 106 NZ                      1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B PRO 99 O     no hydrogen  3.013  N/A
+1za7 #1 #2.1/C GLN 121 NE2                     1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLY 96 O     no hydrogen  3.353  N/A
+1za7 #1 #2.1/C GLN 121 NE2                     1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B GLY 167 O    no hydrogen  2.965  N/A
+1za7 #1 #2.1/C GLN 121 NE2                     1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ASP 168 O    no hydrogen  2.981  N/A
+1za7 #1 #2.1/C VAL 126 N                       1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B SER 38 OG    no hydrogen  3.001  N/A
+1za7 #1 #2.1/C MET 137 N                       1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B SER 38 O     no hydrogen  2.860  N/A
+1za7 #1 #2.1/C HIS 172 NE2                     1za7 #1 0 0 0 sym 0 ncs 5 #1.1/B GLN 121 O    no hydrogen  2.784  N/A
+1za7 #1 #2.1/C ARG 179 NH2                     1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ASP 184 OD2  no hydrogen  3.055  N/A
+1za7 #1 #2.1/C PHE 186 N                       1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ILE 44 O     no hydrogen  2.848  N/A
+1za7 #1 #2.1/C THR 187 N                       1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C GLU 174 OE1  no hydrogen  3.020  N/A
+1za7 #1 #2.1/C THR 187 OG1                     1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C GLU 174 OE1  no hydrogen  3.306  N/A
+1za7 #1 #2.1/C THR 187 OG1                     1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C GLU 174 OE2  no hydrogen  2.598  N/A
+
+144 hydrogen bonds found
+
+hbonds sel saltOnly true restrict cross reveal true log true
+Finding intermodel H-bonds
+Finding intramodel H-bonds
+Constraints relaxed by 0.4 angstroms and 20 degrees
+Models used:
+	2.1 1za7 #1
+	2.2 1za7 #2
+	2.3 1za7 #3
+	2.4 1za7 #4
+	1.1 1za7 #1 0 0 0 sym 0 ncs 5
+	1.2 1za7 #1 0 0 0 sym 0 ncs 4
+	1.3 1za7 #1 0 0 0 sym 0 ncs 1
+	1.4 1za7 #1 0 0 0 sym 0 ncs 50
+	1.5 1za7 #1 0 -1 0 sym 2 ncs 30
+	1.6 1za7 #1 0 0 0 sym 0 ncs 30
+	1.7 1za7 #1 0 0 0 sym 2 ncs 50
+	1.8 1za7 #1 0 0 0 sym 0 ncs 40
+	1.9 1za7 #1 1 0 0 sym 2 ncs 20
+	1.10 1za7 #1 0 0 0 sym 0 ncs 20
+	1.11 1za7 #1 1 -1 0 sym 2 ncs 40
+	1.12 1za7 #1 0 0 0 sym 0 ncs 45
+	1.13 1za7 #1 1 0 0 sym 2 ncs 25
+	1.14 1za7 #1 0 0 0 sym 0 ncs 25
+	1.15 1za7 #1 1 -1 0 sym 2 ncs 45
+	1.16 1za7 #1 0 0 0 sym 0 ncs 27
+	1.17 1za7 #1 0 0 -1 sym 1 ncs 9
+	1.18 1za7 #1 0 0 0 sym 0 ncs 6
+	1.19 1za7 #1 -1 0 1 sym 3 ncs 1
+	1.20 1za7 #1 0 0 0 sym 0 ncs 37
+	1.21 1za7 #1 0 1 -1 sym 1 ncs 4
+	1.22 1za7 #1 0 0 1 sym 3 ncs 6
+	1.23 1za7 #1 0 0 0 sym 0 ncs 19
+	1.24 1za7 #1 -1 0 0 sym 3 ncs 13
+	1.25 1za7 #1 0 0 0 sym 0 ncs 9
+	1.26 1za7 #1 0 0 0 sym 1 ncs 27
+	1.27 1za7 #1 0 0 0 sym 0 ncs 35
+	1.28 1za7 #1 0 0 0 sym 2 ncs 55
+	1.29 1za7 #1 0 0 0 sym 0 ncs 55
+	1.30 1za7 #1 0 -1 0 sym 2 ncs 35
+	1.31 1za7 #1 0 0 0 sym 0 ncs 22
+	1.32 1za7 #1 0 0 0 sym 0 ncs 18
+	1.33 1za7 #1 -1 0 0 sym 3 ncs 14
+	1.34 1za7 #1 0 0 0 sym 0 ncs 7
+	1.35 1za7 #1 -1 0 1 sym 3 ncs 2
+	1.36 1za7 #1 0 0 0 sym 0 ncs 13
+	1.37 1za7 #1 0 0 0 sym 3 ncs 19
+	1.38 1za7 #1 -1 0 1 sym 3 ncs 22
+	1.39 1za7 #1 0 0 0 sym 0 ncs 14
+	1.40 1za7 #1 0 0 0 sym 3 ncs 18
+	1.41 1za7 #1 0 0 0 sym 0 ncs 2
+	1.42 1za7 #1 0 0 1 sym 3 ncs 7
+	1.43 1za7 #1 0 0 0 sym 0 ncs 33
+	1.44 1za7 #1 0 0 0 sym 0 ncs 38
+	1.45 1za7 #1 0 0 0 sym 0 ncs 16
+	1.46 1za7 #1 0 0 0 sym 0 ncs 23
+	1.47 1za7 #1 0 0 0 sym 1 ncs 16
+	1.48 1za7 #1 0 0 0 sym 0 ncs 32
+	1.49 1za7 #1 0 0 0 sym 0 ncs 41
+	1.50 1za7 #1 1 0 0 sym 2 ncs 26
+	1.51 1za7 #1 0 0 0 sym 0 ncs 49
+	1.52 1za7 #1 0 0 0 sym 0 ncs 29
+	1.53 1za7 #1 0 0 0 sym 0 ncs 59
+	1.54 1za7 #1 0 0 0 sym 2 ncs 59
+	1.55 1za7 #1 0 0 0 sym 0 ncs 26
+	1.56 1za7 #1 1 -1 0 sym 2 ncs 41
+	1.57 1za7 #1 0 0 0 sym 0 ncs 21
+	1.58 1za7 #1 1 -1 0 sym 2 ncs 46
+	1.59 1za7 #1 0 0 0 sym 0 ncs 31
+	1.60 1za7 #1 0 0 0 sym 2 ncs 51
+	1.61 1za7 #1 0 0 0 sym 0 ncs 51
+	1.62 1za7 #1 0 -1 0 sym 2 ncs 31
+	1.63 1za7 #1 0 0 0 sym 0 ncs 46
+	1.64 1za7 #1 1 0 0 sym 2 ncs 21
+	1.65 1za7 #1 1 0 0 sym 2 ncs 29
+	1.66 1za7 #1 1 -1 0 sym 2 ncs 49
+	1.67 1za7 #1 0 1 0 sym 1 ncs 37
+	1.68 1za7 #1 0 0 0 sym 3 ncs 38
+	1.69 1za7 #1 0 0 -1 sym 1 ncs 53
+	1.70 1za7 #1 -1 0 1 sym 3 ncs 41
+	1.71 1za7 #1 0 0 0 sym 0 ncs 53
+	1.72 1za7 #1 0 0 0 sym 0 ncs 54
+	1.73 1za7 #1 1 -1 0 sym 2 ncs 3
+	1.74 1za7 #1 0 0 -1 sym 1 ncs 54
+	1.75 1za7 #1 0 0 0 sym 0 ncs 3
+
+8 H-bonds
+H-bonds (donor, acceptor, hydrogen, D..A dist, D-H..A dist):
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C LYS 54 NZ    1za7 #1 #2.1/C ASP 183 OD2                    no hydrogen  3.365  N/A
+1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ARG 179 NH2  1za7 #1 #2.1/C ASP 184 OD2                    no hydrogen  3.055  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ARG 179 NH1  1za7 #1 #2.1/A ASP 184 OD1                    no hydrogen  3.417  N/A
+1za7 #1 0 0 0 sym 0 ncs 4 #1.2/B ARG 179 NH2  1za7 #1 #2.1/A ASP 184 OD1                    no hydrogen  3.200  N/A
+1za7 #1 #2.1/B ARG 179 NH1                    1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ASP 184 OD1  no hydrogen  3.417  N/A
+1za7 #1 #2.1/B ARG 179 NH2                    1za7 #1 0 0 0 sym 0 ncs 1 #1.3/A ASP 184 OD1  no hydrogen  3.200  N/A
+1za7 #1 #2.1/C LYS 54 NZ                      1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ASP 183 OD2  no hydrogen  3.365  N/A
+1za7 #1 #2.1/C ARG 179 NH2                    1za7 #1 0 0 0 sym 0 ncs 5 #1.1/C ASP 184 OD2  no hydrogen  3.055  N/A
+
+8 hydrogen bonds found

@@ -1,0 +1,4 @@
+sample,raw_contacts,unique_observed_contacts,unique_sequence_contacts,inter_chain_or_copy_contacts,symmetry_related_contacts,hydrogen_bond_like_contacts,hydrophobic_contacts,electrostatic_contacts,aromatic_contacts,mean_distance,median_distance,contacts_le_3_5A,contacts_le_4A,total_buried_sasa,mean_buried_sasa,max_buried_sasa,buried_residue_entries
+WT,2227,2053,1084,2227,451,322,242,112,52,3.817,3.81,724,1354,940.331,1.353,20.8,695
+T159A,749,684,351,749,131,99,82,38,12,3.847,3.9,227,416,415.468,1.468,14.2,283
+T155A,753,686,352,753,135,111,80,38,12,3.833,3.88,231,422,464.588,1.636,19.0,284

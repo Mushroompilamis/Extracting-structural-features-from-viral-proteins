@@ -1,0 +1,67 @@
+Viral Capsid Structural Analysis Workflow in ChimeraX
+This script documents the ChimeraX commands used to:
+1. Generate the biological capsid assembly.
+2. Reconstruct and inspect the crystallographic unit cell.
+3. Detect crystal contacts and calculate buried surface areas.
+4. Identify hydrogen bonds and salt bridges.
+5. Visualize the electrostatic surface.
+6. Introduce a threonine-to-alanine mutation and rebuild the assembly
+
+
+Capsid assembly
+sym #1 assembly 1 copies true 
+:copies true means these symmetrical copies are loaded as complete models not just graphical clones
+
+
+Unit Cell
+The unit-cell reconstruction was performed through the ChimeraX GUI:
+Tools -> Higher-Order Structure -> Unit Cell
+
+In the Unit Cell tool:
+- Open "Options".
+- Enable "Use crystal symmetries from file"," Use space group if symmetries are missing", "Pack structures in unit cell"
+- Click "Make Copies".
+- Enable the unit-cell outline
+
+Optional display setting:
+set bgColor black (in order to view the unit-cell outline)
+
+Crystal Contacts
+delete #1 (original model)
+select #2.1 generated copy from unit cell (or any copy close to the unit-cell outline)
+delete solvent 
+crystalcontacts sel distance 5.0 residueInfo true buriedAreas true
+
+
+Hydrogen Bonds
+hbonds sel restrict cross reveal true log true
+Salt Bridges
+hbonds sel saltOnly true restrict cross reveal true log true
+
+
+Electrostatic Surface 
+surface #1
+coulombic #1 palette -5,red:0,white:5,blue key true
+
+
+Mutation
+select /2:3159 (Select the identified target Threonine residue)
+swapaa sel ala
+sym #1 assembly 1 copies true 
+Repeat the unit-cell reconstruction and crystal contact analysis using the same workflow for the mutated structure. 
+The resulting contact data are then directly compared with the WT (control) model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

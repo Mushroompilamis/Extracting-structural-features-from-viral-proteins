@@ -1,0 +1,44 @@
+Biologically weighted THR mutation target recommendations
+========================================================
+
+Important numbering note:
+Residue numbers were normalized for ChimeraX symmetry-expanded numbering.
+For example, observed THR 2124 is reported as sequence mutation T124,
+because it likely represents copy-prefix 2 + residue 124.
+
+Selection logic:
+Targets are ranked at the sequence-residue level, not at the individual
+symmetry-copy level. The score prioritizes buried interface contribution,
+inter-chain/copy contacts, symmetry contacts, hydrogen-bond-like contacts,
+partner diversity, and reasonable contact geometry. Low-burial symmetry-only
+contacts are kept as secondary/peripheral candidates rather than automatically
+selected as the best biological target.
+
+Best biological mutation target:
+- mutation: T159A
+- sequence residue: THR 159
+- observed ChimeraX residue numbers: 3159
+- observed chains: 2
+- biological_score: 0.767
+- candidate_class: primary_biological_interface_candidate
+- sum_buried_sasa: 40.62
+- max_buried_sasa: 19.00
+- total_contacts: 10
+- inter_chain_or_copy_contacts: 10
+- symmetry_related_contacts: 10
+- hbond_like_contacts: 4
+
+Secondary/comparison target:
+- mutation: T155A
+- sequence residue: THR 155
+- observed ChimeraX residue numbers: 155,2155
+- observed chains: 2
+- candidate_class: symmetry_hotspot_but_peripheral
+- max_buried_sasa: 3.09
+- total_contacts: 17
+- symmetry_related_contacts: 17
+
+Recommended mutation design:
+- T->A: first disruptive mutation; removes the hydroxyl group.
+- T->V: structural control; similar beta-branched shape but no hydroxyl.
+- T->S: conservative control; keeps hydroxyl but changes side-chain size.

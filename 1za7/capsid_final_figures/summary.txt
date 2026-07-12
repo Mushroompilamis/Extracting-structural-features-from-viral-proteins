@@ -1,0 +1,34 @@
+Viral capsid contact-analysis summary
+=====================================
+
+Raw contacts parsed before filtering: 1290
+Raw contacts removed as < 1.0 Å artifacts/clashes: 8
+Raw contacts after filtering: 1282
+Unique contacts removed as < 1.0 Å artifacts/clashes: 4
+Unique contacts used in analysis: 1008
+Chains detected: A, B, C
+
+Distance statistics after filtering:
+                     value
+count          1008.000000
+mean              3.853502
+std               0.714410
+min               1.050000
+25%               3.400000
+50%               3.850000
+75%               4.440000
+max               5.000000
+contacts_<=3A   123.000000
+contacts_<=4A   577.000000
+contacts_<=5A  1008.000000
+fraction_<=3A     0.122024
+fraction_<=4A     0.572421
+
+Generated figures:
+- chain_interaction_matrix_filtered.png
+- distance_distribution_filtered.png
+- interaction_type_distribution.png
+- residue_frequency_top15_filtered.png
+- buried_area_by_residue_type.png
+- buried_area_by_chain.png
+- buried_area_by_chemistry_class.png
